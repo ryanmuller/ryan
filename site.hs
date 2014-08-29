@@ -76,7 +76,6 @@ main = hakyll $ do
 
     match "templates/*" $ compile templateCompiler
 
-
 --------------------------------------------------------------------------------
 postCtx :: Context String
 postCtx =
@@ -110,15 +109,12 @@ spacify = map (\l -> case l of
                        '_' -> ' '
                        x -> x)
 
+--addReferences :: Item String -> Compiler String
+--addReferences item = references >>= (itemBody item ++ "\n\n" ++ references)
+--  where pages = getDirectoryContents "pages/*"
+--        references = liftM (intercalate "\n" . map fileReference) pages
+
 addReferences :: Item String -> Compiler String
-addReferences item = references >>= (itemBody item ++ "\n\n" ++ references)
-  where pages = getDirectoryContents "pages/*"
-        references = liftM (intercalate "\n" . map fileReference) pages
-
-
---pandocTransform :: Pandoc -> Pandoc
---pandocTransform = bottomUp . map $ convertWikiLinks
---
---convertWikiLinks :: Inline -> Inline
---convertWikiLinks (Link [Str ref] ("","")) = Link [Str ref] (ref ++ ".html","")
---convertWikiLinks x = x
+addReferences item = liftM ((++) $ itemBody item ++ "\n\n") references
+  where pages = loadAll ("pages/*" .&&. hasVersion "raw") :: Compiler [Item String]
+        references = liftM (intercalate "\n" . map itemReference) pages
