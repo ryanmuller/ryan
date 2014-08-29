@@ -1,0 +1,17 @@
+
+
+From [@pavlik2005practice]:
+
+contextual fluctuation
+<blockquote>One major branch of theoretical explanation (Estes, 1955; Glenberg, 1979; Raaijmakers, 2003) explains the effects of practice and forgetting largely as due to contextual fluctuation. In this theory, each opportunity for practice results in an encoding of the stimulus and its context. However, the context of encoding fluctuates with the passage of time. Because of this fluctuation, as the spacing between repetitions increases, the overlap (redundancy) of encoded contextual information decreases. This results in better memory performance as spacing becomes wider, because cue contextual information has a greater probability of matching the less redundant encoded information. Forgetting is also explained by contextual fluctuation theory because as retention intervals become longer the contextual information present in a retrieval cue has fluctuated to become more dissimilar to the encoding context, thus decreasing recall ability.</blockquote>
+
+accessibility theory
+<blockquote>another school of thought (Cuddy & Jacoby, 1982; Schmidt & Bjork, 1992; Whitten & Bjork, 1977) says that the long-term memory strength contribution of a presentation depends on the accessibility of the memory at the time of the presentation. In this theory any repeated presentation that is more difficult (e.g., due to an impoverished stimulus or long spacing interval) results in a greater improvement in later recall ability due to this difficulty.</blockquote>
+
+Contextual fluctuation may explain why both [spacing](spacing effect) and [[analogy|analogical abstraction]] have benefits for learning: spacing removes irrelevant contextual similarity because temporal distance generally implies contextual difference. Analogy removes irrelevant contextual similarity by focusing the features that are similar between two items. (See [[spaced versus parallel learning]]) It may also explain the phenomenon of [[situated cognition]] -- it occurs naturally because of the dependence of memory on context. 
+
+Accessibility theory (aka "desirable difficulties") could just be a covariant with learning in new contexts. But it so, how to explain the generation effect? Pavlik's paper claims to support accessibility theory.
+
+This has potential applications to [[practice]]. For instance, elite performers often have fixed routines (Michael Phelps as described in [@duhigg2012power], Josh Waitzkin in Art of Learning). These seem good for performance -- it helps stabilize the context under which practice occurred -- but it may be better to vary them to allow generalizability.
+
+An interesting application may be life-tracking and behavior change. Life-tracking helps discover the contexts under which the behaviors occur. (Inspired by Ambivalence about (Inter)Personal Informatics for Smoking Cessation, http://personalinformatics.org/chi2012/papers) [@ramirez2012digital] discuss how rich historical data can be used to explore behaviors in a context.

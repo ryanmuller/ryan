@@ -1,0 +1,51 @@
+
+
+## Paper 
+
+h3. Abstract
+
+A robust finding in psychology is that memory retention benefits from the spacing effect. A delay before recall-based practice enhances future retrieval of a memory. On the other hand, research in analogical reasoning shows that studying items in parallel can induce analogical abstraction, which is important for higher level understanding and transfer. A review of the literature finds that spaced or parallel learning should be decided based on the nature of the knowledge. For simple, “paired associate” knowledge, the spacing effect may be optimal. For complex knowledge, where application of the knowledge should be transferred across conditions, learning through analogy by studying multiple examples in parallel may be preferred, particularly for novices. 
+
+h3. Introduction
+
+The strategies used to instruct learners have a major impact on learning outcomes. Educational psychology is slowly building principles of how to teach well. Today, as software plays an increasing role in instruction, educational technology designers have the opportunity to encode these learning principles fully and precisely in the logic of the software.
+
+One instructional principle, which has a history spanning over a century, is the spacing effect. The spacing effect claims that when items are studied on a spaced scheduled, as opposed to repeatedly studied in one sitting, they are more likely to be retained. Yet most classrooms continue to teach the curriculum in a linear progression, and most students do not think to review past material on a spaced schedule.
+
+For spaced practice to become a principle that either teachers or technologists adopt, it must be understood exactly when it is effective and how it should be implemented. One reason that the spacing effect can be difficult to understand is the idea that some concepts are best learned by analogy from a simpler concept or in contrast to prior knowledge. The existing literature on the spacing effect and analogy, applied to the Knowledge, Learning, and Instruction framework (Koedinger et al, 2010) provide some insights on how to characterize these issues.
+
+h3. Spaced practice
+
+Bjork (2010) stresses that our folk understanding of memory – that it works analogously to a computer pulling up a file – is flawed. Instead, one should think of memory in two separate processes of storing and retrieving. The human mind has an enormous storage capacity but a limited ability to retrieve those memories. In other words, our memories may be stored even as we lose the ability to access them. The reason is that competing memories may be retrieved when we try to recall the desired information. However by practicing retrieval with the desired memory, the competing memories are forgotten and the desired retrieval is strengthened. This understanding of memory leads to the spacing effect: retrieving the desired information at a second opportunity after a delay enhances retrieval. The delay enhances retrieval of the desired memory is strengthened while allowing the competing memories to be forgotten.
+
+When the spacing effect has been put to the test, it has done remarkably well. Spaced practice, or spacing, is generally contrast with massing, the traditional study technique of learning repeatedly in a short interval. A meta-analysis of 317 experiments comparing spaced and massed practice or related factoring like the lag interval found that spacing generally led to a 9% test score improvement over massing (Cepeda et al, 2006). In addition, they found that a greater interval between study instances led to greater improvements in retention.
+
+h3. Learning abstractions with analogy
+
+Learning is not simply an accumulation of isolated facts. Gentner (2003) goes so far as to say that the use of analogical abstraction is one of the foundations of human intelligence. That is, by comparing multiple examples, we are sometimes able to generate an abstract schema that understands the examples in a more generalized fashion. An experiment by Rittle-Johnson and Star (2007) analyzed the difference between students who compared and contrasted multiple algebra solution methods versus students who studied one solution method at a time. Students studying in the comparison made significantly more gains in procedural knowledge and were more flexible in their application of solution methods, such as using more shortcuts. This study is one example that we cannot simply space each fact, but most consider the way that people relate and understand knowledge to make a more coherent whole.
+
+Although using analogy to make abstract understanding of knowledge is a natural mechanism of the human mind (Gentner, 2003), it occurs slowly and can be difficult to induce as an instructional objective (Gentner et al, 2009). The goal of analogy is to be able to abstract beyond the surface features of an example to the deeper structure of the principle. When an example is studied in isolation, it is generally stored with all of the surface features that occurred in the context in which it is studied. By comparing multiple examples, their relational structure is highlighted. However, surface features are still prioritized when they are shared among multiple examples. The deep structural relation is only revealed in some cases.
+
+Gentner et al (2009) examined participants learning negotiation principles, which are often learned in specific contexts but should be understood abstractly such that they can be applied in a variety of contexts. In two conditions, the participants either studied examples of a negotiation principle one at a time (separate-case group) or explicitly compared them (comparison group). The comparison group scored higher on measures of understanding, transfer, and retrieval. In this experiment and four others, Gentner et al demonstrated a novel finding: that learning with comparison can promote retrieval of examples that are relationally similar, as opposed to examples with surface feature similarity that are more likely to be retrieved in general. Clearly, in some cases, comparison is an important step in the learning process. What are such cases?
+
+h3. Knowledge components, simple and complex
+
+The Knowledge, Learning, and Instruction (KLI) framework (Koedinger et al, 2010) is an attempt to classify the different types of knowledge involved in learning. The term knowledge component is used to describe any knowledge that can be learned. KLI claims that we can make instructional decisions based on the complexity of the knowledge components regardless of the domain being taught. The simplest type of knowledge component is a paired associate. A knowledge component is a paired associate if there is a single cue and a single response. An example is a vocabulary word in a foreign language. The cue could be the English word and the response its translated word. Many knowledge components are more complicated. For example, a grammatical rule may be applied under a variety of cues – an entire class of sentences, for instance – and it may be applied in a variety of ways, such as conjugating a verb depending on which word is the cue.
+What does this mean for instructional design? A rule of thumb is that the more complex the knowledge component, the more complex the instructional method should be. For paired associates, we can use simple methods like cued retrieval on a spaced schedule. Most of the research comparing spaced and massed study uses such material. For example, Pavlik's (2007) model of optimized learning for spaced practice assumes independent knowledge components and uses Japanese vocabulary to test the model.
+
+On the other hand, for complex knowledge components, a learner needs to develop a schema. It may not be possible for a novice learner to understand a schema that is presented in its most generalized and abstract form (Goldstone & Son, 2005). Therefore, it seems that comparison is a necessary step when learning complex knowledge components. The methods for complex instruction that the KLI framework describes, such as accountable talk and collaborative argumentation, involve processes that implicitly use comparison. Accountable talk involves prompts from the teacher for students to produce knowledge that “connect[s] rationales to explicit concepts and principles.”
+
+h3. Conclusion
+
+According to the KLI framework, to learn simple types of knowledge, i.e. paired associate knowledge components, we do not need to rely on complex learning strategies. Based on the robust findings of the spacing effect for this type of knowledge, there should be a strong preference for using spaced practice to study these items. For more complex knowledge, the answer is less clear. It seems that a more abstract, generalized form of the knowledge is the best form for a learner to retain over time. Since that form cannot be presented initially to a novice, the strategy may instead be to present an instructional strategy that fades from concrete to abstract. Then the abstract form may be retainable on a spaced practice schedule, but further research may be needed to demonstrate such a result.
+
+h3. References
+
+  * [@bjork2010symbiosis]
+  * [@cepeda2006distributed]
+  * [@gentner2003language]
+  * [@gentner2009reviving]
+  * [@goldstone2005transfer]
+  * [@koedinger2011knowledge]
+  * [@pavlik2007optimizing]
+  * [@rittle2007does]

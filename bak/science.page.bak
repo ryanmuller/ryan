@@ -1,0 +1,35 @@
+
+
+Related: [[scientific thinking]].
+
+## Methods
+
+Related: [[statistics]].
+
+[[http://blogs.plos.org/speakingofmedicine/2012/06/25/less-research-is-needed/|blogs.plos.org]]:
+
+<blockquote><html>With due respect to all those who have used “more research is needed” to sum up months or years of their own work on a topic, this ultimate academic cliché is usually an indicator that serious scholarly thinking on the topic has ceased. It is almost never the only logical conclusion that can be drawn from a set of negative, ambiguous, incomplete or contradictory data.</html></blockquote>
+
+## Collaboration
+
+  * Discussion with [[http://www.reganmian.net/wiki/|Stian]] -- wikis are a good way to share easily (esp. with [[researchr]] tools)
+  * Can we use [[Git]] and other software techniques to make knowledge sharing extremely easy? 
+    * "clone"/"merge"/"branch" your ideas
+    * Automatic citations based on commit data 
+    * [[test-driven]] application of the knowledge :-D
+  * [[http://hosting.epresence.tv/KMDI/1/watch/799.aspx|KMDI ePresence Presentation Portal - KMDI 1001 - September 30, 2010]]
+  * [[http://www.slideshare.net/anitawaard/on-the-research-paper-and-the-knowledge-within|On the research paper, and the knowledge within]]
+  * Blog/tumblr can be used for open qualitative observations
+  * [[http://michaelnielsen.org/blog/michael-a-nielsen/|Michael Nielsen]] is a big proponent of open science
+
+
+
+
+[[http://www.quora.com/Scientific-Research/What-are-the-biggest-things-that-are-slowing-down-scientific-research/answer/Joel-Chan|www.quora.com]]:
+
+<blockquote><html>In addition to others mentioned here, <b>publication bias</b> (aka the "file drawer effect"), where, by and large, only positive findings are publishable, and direct replications are discouraged, and therefore, null or unsexy findings get "filed away" and no one knows about it.<br><br><span class="qlink_container"><a href="http://en.wikipedia.org/wiki/Publication_bias" class="external_link" target="_blank" onmouseover="return require(&quot;qtext&quot;).tooltip(this, &quot;wikipedia.org&quot;)" data-tooltip="attached">Publication bias</a></span> hampers our ability to converge on true effects and accumulate knowledge and theory, and leads us down endless rabbit trails. At worst, it perpetuates "walking dead" theories (false theories/hypotheses supported by one or two fluke high-profile studies). <br><br>One important tool for cumulative science is meta-analysis, but we always have to take those with a grain of salt because of publication bias. If I do a meta-analysis of, say, the effects of a short break (<span class="qlink_container"><a href="http://en.wikipedia.org/wiki/Incubation_(psychology)" class="external_link" target="_blank" onmouseover="return require(&quot;qtext&quot;).tooltip(this, &quot;wikipedia.org&quot;)">Incubation</a></span>) on creative problem solving success, I might find that, say, 8 out of 10 published studies show that a short break helps. But what if there were actually 50 studies conducted on this question, and, say, 35 of them were well-designed and executed <i>and</i> found null or even <i>negative</i> effects of a short break, and none of these studies were published or indexed anywhere? In that case, we can't really be sure what the real relationship is between short breaks and creative problem solving, can we? Countless graduate students might go down that dead-end road, and resources drained away from (potentially) more promising theoretical/empirical trails.<br><br>It's definitely a cancer to science, and is likewise extremely difficult to eradicate due to its entrenchment within the current incentive system in science (mainly academia, perhaps).<br><br>Here's a paper (open access, hooray!) that describes the extent of the infection: <span class="qlink_container"><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327" class="external_link" target="_blank" onmouseover="return require(&quot;qtext&quot;).tooltip(this, &quot;nih.gov&quot;)">Why Most Published Research Findings Are False</a></span><br><br>And here's a wonderful TED talk that really does a good job of communicating how much of a problem publication bias is:<br><span class="qlink_container"><a href="http://www.ted.com/talks/ben_goldacre_what_doctors_don_t_know_about_the_drugs_they_prescribe.html" class="external_link" target="_blank" onmouseover="return require(&quot;qtext&quot;).tooltip(this, &quot;ted.com&quot;)" data-tooltip="attached">Ben Goldacre: What doctors don't know about the drugs they prescribe | Video on TED.com</a></span><br><br>I think publication bias might be less common in physics (perhaps in part due to arxiv), but it definitely infects biomedical research, and is rampant in my home discipline (cognitive science).</html></blockquote>
+
+[[http://andrewgelman.com/2014/07/23/world-without-statistics/|andrewgelman.com]]:
+
+<blockquote><html><p>What would be missing, in a world without statistics?</p>
+<p>Science would be pretty much ok.  Newton didn’t need statistics for his theories of gravity, motion, and light, nor did Einstein need statistics for the theory of relativity.  Thermodynamics and quantum mechanics are fundamentally statistical, but lots of progress could’ve been made in these areas without statistics.  The second law of thermodynamics is an observable fact, ditto the two-slit experiment and various experimental results revealing the nature of the atom.  The A-bomb and, almost certainly, the H-bomb, maybe these would never have been invented without statistics, but on balance I think most people would feel that the world would be a better place without these particular scientific developments.  Without statistics, we could forget about discovering the Hibbs boson etc, but that doesn’t seem like such a loss for humanity.</p></html></blockquote>

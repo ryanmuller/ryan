@@ -1,0 +1,26 @@
+
+
+
+----
+Koans to learn CoffeeScript [[https://github.com/sleepyfox/coffeescript-koans|sleepyfox/coffeescript-koans - GitHub]]
+----
+Suppose you're a less-than-expert programmer, which Node seems to attract in droves for some reason. You are using Node for the supposed "scalability" of it, but as we have just seen, threaded programming, which is easier to understand than callback driven programming, meets or exceeds the asynchronous model in the vast majority of cases. Chances are, you're not going to be forking worker processes to do CPU jobs, what with the less-than-expert and all. [[http://teddziuba.com/2011/10/straight-talk-on-event-loops.html|Straight Talk on Event Loops]]
+----
+Think of the DOM as a pool. Remember when you were a kid, and would dive into the pool for coins, while your parents acted like they were watching? That will be our real-world comparision.
+
+Every time you use $('.someClass'), jQuery jumps into the pool (DOM), and searches for that coin (or nodes). So, when you reference it multiple times within a function, thats a lot of diving. Or, to cut the real-world comparison, its wasteful and unncessary. Why call upon jQuery if you dont require it? You should perform what we call caching. [[http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-jquery-newbs-stop-jumping-in-the-pool/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+nettuts+(Nettuts+)&utm_content=Google+Reader|Quick Tip – jQuery Newbs: Stop Jumping in the Pool | Nettuts+]]
+----
+Underscore.js
+
+
+Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux.
+
+
+Underscore provides 60-odd functions that support both the usual functional suspects: map, select, invoke  as well as more specialized helpers: function binding, javascript templating, deep equality testing, and so on. It delegates to built-in functions, if present, so modern browsers will use the native implementations of forEach, map, reduce, filter, every, some and indexOf. [[http://documentcloud.github.com/underscore/#memoize|Underscore.js]]
+----
+A showcase of awesome JavaScript code that pushes the boundaries of what's possible on the web. [[http://badassjs.com/|Badass JavaScript]]
+----
+  * [[http://singlepageappbook.com/|Single page apps in depth (new free book)]]
+
+----
+There’s no denying the popularity and impact that Backbone.js (License: MIT, GitHub: documentcloud / backbone) by Jeremy Ashkenas and DocumentCloud has made. Although the documentation and examples are excellent, I thought it would be interesting to review the code on a more technical level. Hopefully this will give readers a deeper understanding of Backbone, and as the MVC series progresses these code reviews should prove useful in accurately comparing the many competing frameworks. [[http://dailyjs.com/2012/07/19/mvstar-2/|DailyJS: Backbone.js: Hacker's Guide]]

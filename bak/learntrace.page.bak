@@ -1,0 +1,37 @@
+
+
+{{pages:learntrace01.png}}
+
+Basically a reframing of [[Learnlayer]] plus a big new idea: following learning mentors.
+
+## Overview
+
+  - Select one or several "mentors" to follow
+  - You'll be able to see what activities they did when they were at your stage of learning, as well as their "learning journals" describing their thoughts on the choices they made
+  - Set your own pace and estimate how long you will spend with skill development
+  - Leave your own learn-trace so that others can follow you in the future
+
+## FAQ
+
+Q: Why use Learntrace instead of a traditional course?
+
+A: The pace of change and the need for personalization is too great to be addressed with traditional courses. With Learntrace, you can start to learn a topic as soon as someone else does. Or blaze the trail yourself!
+
+Q: Why should I copy what other people are doing?
+
+A: Nothing forces you to do exactly what your mentors did, but seeing their choices helps you filter the huge number of sources that we have available.
+
+## Organization
+
+Based on the knowledge ontology to be laid out in a future blog post:
+
+  * Facts: remember with centralized spaced repetition system; shareable among learners
+  * Tricks: learned the same as facts?
+  * Skills: increasing points based on activity that can be assessed by machine, self, or peers
+    * ELO system to avoid artificial ceiling plus add competitiveness? (See http://smarterer.com/)
+  * Concepts: learned through texts, videos, discussions, etc; may have associated quizzes as conceptual assessment (this is hard to do!)
+    * Example: Newton's laws assessed with force concept inventory
+    * Allow users to collect and organize clips (see [[capture tools]])
+    * Organized as questions?
+  * Topics: collection of all of the above; users can reach proficiency levels in a topic
+  * Subjects: collection of many topics; proficiency level derived from topic proficiencies

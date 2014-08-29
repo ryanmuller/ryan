@@ -1,0 +1,95 @@
+
+
+## Design space
+
+h3. What content could be used when digitally presenting a lecture?
+
+From the lecture itself:
+  * Video
+  * Transcript
+
+From the textbook:
+  * Textbook narration
+  * Definitions/theorems/etc
+  * Problems
+
+From elsewhere:
+  * Wikipedia entries
+
+Probably need to be created:
+  * Video segments
+  * Rudinium-style quizzes
+  * Q&A structure
+  * Peer questions
+
+h3. In what ways could lecture content be arranged?
+
+  * Framing: is there a narrative frame around the content?
+    * No frame
+    * Video frame
+    * Text frame
+  * Worked examples
+    * Presented in video
+    * Presented in text
+  * Problem type
+    * Rudinium-style quizzes
+    * Problems
+  * Problem placement
+    * Before all
+    * Before segment
+    * During segment
+    * After segment 
+    * After all
+
+Or, a rough spectrum from more video to more text:
+  * 100% video
+    * Examples: [[learning_tools:OCW]]
+  * Video with text interventions
+    * Examples: [[learning_tools:Udacity]], [[learning_tools:Coursera]]
+  * Segmented video and/or text sections
+    * Examples: [[learning_tools:Codecademy]] (text and practice), [[learning_tools:Khan Academy]] (video, but no hard sequencing)
+  * Text with video interventions
+    * Examples: [[learning_tools:GCF Learnfree]], Gliya
+  * 100% text
+    * Examples: Wikibooks
+
+h3. How can a learner interact with the lecture content?
+
+  * Rudinium style: Each bit of content is treated like a learnable item. Some test or self-assessment determines whether that content is learned.
+  * Atomic style:  Each learnable item may link back to some piece(s) of content.
+  * Constructivist: Learners can [capture](capture tools) desired content into a separate location such as a personal learning wiki. See also [[Learnlayer]].
+
+## Example: Linear Algebra, Gilbert Strang
+
+http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
+
+h3. Available material
+
+  * Lecture videos
+  * Lecture summaries
+  * Problem solving videos (recitation)
+  * Problem sets
+  * Exams
+
+h3. Possible research questions
+
+  * Framing of lecture: video versus text
+  * Adding comprehension questions
+    * Before/after/during lecture
+    * Reviewing on spaced repetition
+  * Adding tracking component
+
+## Clips
+----
+  * [Yahoo! Web Analytics Blog » Online Video Analytics – Tracking Embedded YouTube Videos](http://www.yanalyticsblog.com/blog/2010/05/online-video-analytics-tracking-embeded-youtube-videos-2/)
+
+----
+In this paper we propose a new video interaction model called adaptive fast-forwarding to help people quickly browse videos with predefined semantic rules. This model is designed around the metaphor of "scenic car driving," in which the driver slows down near areas of interest and speeds through unexciting areas. Results from a preliminary user study of our video player suggest the following: (1) the player should adaptively adjust the current playback speed based on the complexity of the present scene and predefined semantic events; (2) the player should learn user prefe- rences about predefined event types as well as a suitable playback speed; (3) the player should fast-forward the video continuously with a playback rate acceptable to the user to avoid missing any undefined events or areas of interest. Furthermore, our user study results suggest that for certain types of video, our SmartPlayer yields better user expe- riences in browsing and fast-forwarding videos than exist- ing video players' interaction models. [SmartPlayer: user-centric video fast-forwarding](http://academic.research.microsoft.com/Publication/4702689/smartplayer-user-centric-video-fast-forwarding)
+----
+Video in digital format coupled with digital/programmable playback devices presents opportunities for significantly enhancing the user's viewing experience. For example, time compression can shorten the viewing length of a video and shot boundary frames can provide a visual index into the content. Such features have primarily been evaluated in isolation with a narrow set of video content types. We investigated as well as implemented the design of a software video browsing application that combines many such features. In addition, we evaluated its use in watching six different video content types and present the resulting data for analysis and discussion. The participants in the evaluation found the browser to be useful and effective for watching the different types of video in a limited amount of time. Also, the results show that both the experience of using the browser and value of each feature varies depending on the content type. [Browsing digital video](http://academic.research.microsoft.com/Publication/449218/browsing-digital-video)
+----
+Analysing the use of recorded lectures by studentsTuesday, 6 September 2011Pierre GorissenFontys University of Applied SciencesThe Netherlands [ALT-C 2011 Presentation](http://www.slideshare.net/PiAir/altc-2011-presentation)
+----
+Popcorn Maker is a creative tool that makes authoring interactive media pages as easy as point and click.
+
+Coming November 2012 [Popcorn Maker | Mozilla Popcorn](http://mozillapopcorn.org/popcorn-maker/)

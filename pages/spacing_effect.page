@@ -1,0 +1,12 @@
+
+Two theories for the spacing effect are presented in [@pavlik2005practice]:
+
+Contextual fluctuation: Memory is encoded with its context. If you study something once, you’d remember it well enough if you’re thinking the same thoughts, sitting in the same environment, smelling the same scents. Memory works by generalizing the commonalities from multiple learning events. So when you cram something all at once, the context remains the same, and the memory will be tied to that context. By spacing the studying, you’re more likely to change the context and properly generalize the memory to its core component. (There is also research about the benefits of varying your study environment.)
+
+Accessibility (also known as desirable difficulties): The strength of a memory is increased when it is more difficult to retrieve. When you study all at once, most of that studying is easy to retrieve. On the other hand, when you delay studying, the memory has faded and it’s more difficult to retrieve, hence creates a stronger path to retrieve it in the future.
+
+(x-post [Quora](http://www.quora.com/What-is-the-cause-of-the-spaced-repetition-effect))
+
+## Links here {{backlinks>.}}
+
+{{page>kbib:spacing_effect}}

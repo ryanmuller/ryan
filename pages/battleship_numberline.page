@@ -1,0 +1,44 @@
+
+
+## AML project
+
+Sources
+  * [@corbett1994knowledge]
+  * [@koedinger2011knowledge] (maybe)
+  * [@cen2006learning]
+  * [@cen2007over]
+  * [@pavlik2009learning]
+  * [@pavlik2009performance]
+  * [@dempster1988spacing]
+  * [@koedinger2011avoiding]
+  * [@schneider2010representations]
+  * [@pardos2010modeling]
+  * [@qiu2011does]
+
+{{pages:numbaland01.png}}
+
+## To Do
+  * Transform online data to student model priors
+  * Choose student model algorithm
+  * Calculate item utility
+  * build sequencer options
+    * Highest utility
+    * Performance ranges
+    * other
+  * Investigate student classifier
+
+## Comparing Different Sequences:
+  * Streak - everything right at least once, 3 in a row to complete level
+  * ITS - If you miss, comes again after a space of 1
+  * Try Again - must get each item correct
+  * Random - try everything once
+  * Student Model Based Adaptive Algorithm
+
+## Interleaving pretest and post test
+  * Play items from prior levels (repetition allows for measuring student learning)
+  * Play items from future levels (early introduction allows for testing model assumptions)
+
+## Sequencing Structure
+  * Introductory stage (easy)
+  * Pretest stage (difficult; optimize model learning)
+  * Training/pretest/posttest stage (range)

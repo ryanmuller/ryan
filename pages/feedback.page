@@ -1,0 +1,61 @@
+
+
+The problem of how much assistance and information to provide in an interactive learning environment is sometimes called the assistance dilemma ([@koedinger2007exploring], [@koedinger2008better]). The authors claim this remains an open problem.
+
+New information can come from [[instruction]], feedback, or introspection. The advantage of feedback is that the information comes at an important moment of confusion where the mind seeks an alternative explanation to what it now knows is flawed (see [[learning]]).
+
+## Is feedback effective?
+
+According to [@hattie2007power]:
+<blockquote>Feedback is one of the most powerful influences on learning and achievement, but this impact can be either positive or negative.</blockquote>
+
+Hattie's conclusion comes from comparing the effect sizes across many meta-analyses of different educational interventions, as presented in //Visible Learning//.
+
+[@koedinger2007exploring] consider the pros and cons of showing or withholding information in a learning environment:
+{{skim:koedinger2007exploring1.png}}
+
+
+## What types of feedback exist?
+
+See [@hattie2007power]. 
+
+[@koedinger2007exploring] provide a summary of types of assistance and information giving in a learning environment:
+
+{{skim:koedinger2007exploring0.png}}
+
+
+## Should feedback be immediate or delayed?
+
+This issue is discussed by [@mathan2005fostering]. 
+
+On one hand, floundering to detect error does not seem to provide any benefit, so immediate correctness feedback seems good ([@koedinger2007exploring]). Studies supporting the benefits of immediate feedback over delayed feedback include
+  * Lewis, M. W., & Anderson, J. R. (1985). Discrimination of operator schemata in problem solving: Learning from examples. Cognitive Psychology, 17, 26–65.
+  * [@corbett2001locus]
+
+A meta-analysis is given in
+  * Bangert-Drowns, R. L., Kulik, C. -L. C., Kulik, J. A., & Morgan, M. (1991). The instructional effect of feedback in test-like events. Review of Educational Research, 61, 213–238.
+
+On the other hand, some researchers believe that delayed feedback help develop metacognitive skills or conceptual understanding. Studies that confirm the benefits of delayed feedback seem to do so in delayed tasks or far transfer tasks. This hints at the [Bjork](a:Robert A Bjork) "desirable difficulties" effect that //good// performance during learning can be a //negative// indicator of quality of learning. Studies supporting the benefits of delayed feedback over immediate feedback include
+  * Schooler, L. J., & Anderson, J. R. (1990). The Disruptive Potential of Immediate Feedback. In M. Piattelli-Palmarini (Ed.), Proceedings of the Annual Conference of the Cognitive Science Society (pp. 702–708). Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+  * Lee, A. Y. (1992). Using tutoring systems to study learning: An application of HyperCard. Behavior Research Methods, Instruments, & Computers, 24(2), 205–212.
+
+##  How much information should be contained in feedback?
+
+[@mckendree1990effective] found that providing explanatory goal information was better than simple yes/no feedback. [@koedinger2007exploring] suggest this may reduce floundering after errors.
+
+## Feedback and learning environments
+
+**Hints.** Principle-based explanations seem effective as hints, but students may not be good at seeking assistance at the right time ([@koedinger2007exploring]). Some suggestions are to attempt to detect certain user behavior in the tutor and provide hints or remediation accordingly or to provide training in help-seeking skills.
+
+**Problem selection.** Studies have support the benefits of a mastery learning approach, where problems are selected based on which knowledge components have not yet been mastered ([@koedinger2007exploring]).
+
+**Long-term progress.** An example from [quantifiedself.com](http://quantifiedself.com/2011/11/roger-craig-on-knowledge-tracking/):
+
+<blockquote><html>Roger Craig had a dream of being on Jeopardy, and he took a QS approach to making it happen. He downloaded all historical Jeopardy questions and answers into a database, clustering the questions by topic and keyword, and built a web tool around it to quiz himself. He visualized his answers to see where his knowledge gaps were and help him optimize his learning.</html></blockquote>
+
+## Links here
+ {{backlinks>.}}
+
+
+## Bibliography
+{{page>kbib:feedback}}

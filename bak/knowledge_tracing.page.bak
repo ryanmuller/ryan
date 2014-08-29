@@ -1,0 +1,16 @@
+
+
+Knowledge tracing is a specific algorithm for determining students' knowledge for [[:cognitive tutor|intelligent tutors]], but I'm using this page as a catch-all the general concept. These generally rely on developing [[:knowledge components]] for the material. Some of the algorithms used are knowledge tracing ([@corbett1994knowledge]), performance factors analysis ([@pavlik2009performance]), and logistic regression. A recent comparison of KT and PFA is [@gong2010comparing].
+
+One issue of knowledge tracing is what to do when multiple KCs occur in the same step. This is discussed in [@reye1998phase] and [@koedinger2001avoiding]. 
+
+Here is how this works for Khan Academy: http://david-hu.com/2011/11/02/how-khan-academy-is-using-machine-learning-to-assess-student-mastery.html
+
+Related: [[:learning factors analysis]]
+## Links here
+ {{backlinks>.}}
+
+{{page>kbib:knowledge_tracing}}
+
+## Logs
+{{page>log:knowledge_tracing}}

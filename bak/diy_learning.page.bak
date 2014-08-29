@@ -1,0 +1,51 @@
+
+
+Learning, commonly [[web-based learning|web-based]], that is not tied with a traditional education but rather pursued individually, either as a supplement to a traditional course or something entirely separate.
+
+## Individual differences
+
+What are the individual differences between learners that may be of concern in the design of a DIY learning tool?
+
+  - Prior knowledge
+  - Learning strategies
+  - Motivation
+  - Technology access
+
+These are roughly in order of what a tool typically concerns itself with. 
+
+Differences in prior knowledge are anticipated more often than not and embedded in curriculum sequencing. Haven't learned Calculus 1? Then don't do the Calculus 2 material yet! It's not to say that tools can't make better use of prior knowledge to personalize the content, but it's probably already better than traditional education. 
+
+I'm using "learning strategies" as a big umbrella term here to cover [[self-regulated learning]], [[study habits]], [[metacognition]], and so on. This is usually where the debate over [[system-driven learning|system]] versus learner control comes in. The argument that I'm working on with my current interview data is that learner control is a fairly slippery concept: users tend to go along the path of the interface. Of course, you could imagine a tool that explicitly provides a fork in the path, and users would have to make a decision. The reason I don't think that is super common in practice is that people, high achieving or not, like easy interfaces. In other words, they make another decision: stop using the tool. Experimentally though, the result is often something like this ([@young1996effect]):
+
+{{skim:young1996effect1.png}}
+
+Already, it starts to look favorable for system control (PC in the diagram). In theory, system control should also be able to adaptively scale the difficulty to at least what good learners would be doing. So, I'm a fan of system-control for learning strategies while admitting there are a large number of subtleties and difficulties on the path there. But that's the fun part!
+
+What about letting students learn the strategies themselves so that they don't have to rely on the tool for everything? Ok, perhaps, but that requires thinking about the best way to teach those strategies, not assuming that throwing them into something without support is the way to do that. Because it's not. For example, even as a sophisticated learner, I prefer certain system-driven interfaces because they are less overwhelming to deal with.
+
+[[Motivation]] is commonly thought of as aligning a subject with a learner's (preexisting) passions; people have different passions, so there are wildly different individual approaches to motivation. I'm a bigger fan of the argument that [[http://calnewport.com/blog/2011/08/11/the-career-craftsman-manifesto/|passion can arise from pursuing mastery in any deep subject]]. Again, a learning tool that gets you on that path to mastery-based learning is non-trivial. "Gamification" is the shallow answer; the deep one involves [[feedback]], [[goals]], and [[social computing|social aspects]].
+
+Finally, even if we released tools that perfectly covered everyone in terms of prior knowledge, learning strategies, and motivation, there are people who won't be able to access them at all. Unfortunately, I am only one person and have to draw the line somewhere, so I'll say it: that's not my job. (Really though, there are plenty of computers sitting around unused in schools, so I don't feel too bad about focusing on the first three.)  There's also accessibility issues in terms of things like hearing impairments or language differences, but those baked into the technology platforms themselves (subtitling, for both actually) and not really a difference in how people learn.
+
+In summary, the path towards effective and engaging DIY learning tools is more in "good ways of learning" than in "personalized ways of learning". Both prior knowledge and desired future knowledge should shape what is presented to a student; content is where the long tail exists. Otherwise, system designers should focus more on generally good learning strategies than on unproven hunches of alternative learning methods -- "learn" a lesson from the failures of pure discovery learning and learning styles -- or, god forbid, letting an average student try to figure it out themselves. Luckily, people like learning when they can do it and see it happen. 
+
+----
+I challenged Turadg on this point at his defense.  Does the fact that not everyone used it suggest that his design process failed?  Turadg argued that the point of the design process is to build something that someone will use to achieve the design goals.  He did that.  He did accurately identify a population of users and their needs, and he met those needs.  For importantly, his process assumes “the long tail.”  Educational interventions need to be tailored for different student populations. One tool will rarely work for everyone in the same way. How do you get to everyone?  Build more tools, more systems!  Adapt to the wide range of people.
+
+Turadg gave me a new way of thinking about the results from Coursera and Udacity courses.  It’s not a problem that these systems are mostly attracting the 10-30% of students at the top.  The problem is that we don’t have another dozen systems that are aiming to serve the other 70-90%.  What kinds of online courses do we need that explicitly aim at the low to middle performing students?  Maybe we need on-line courses or books that seek to bore and drive away the upper percentages? [[http://computinged.wordpress.com/2012/05/14/big-d-design-for-education-and-online-courses-lets-build-more-and-different/|Big-D “Design” for education and online courses: Let’s build more and different « Computing Education Blog]]
+
+## Types of tools
+
+[@clark2011learning] - receptive, directive, guided discovery
+
+## Lifelong learning
+
+see also [[self-tracked learning]]
+
+Inspirations:
+  * Supermemo and other spaced repetition systems
+    * http://www.jackkinsella.ie/2011/12/05/janki-method.html
+  * Sites like StackOverflow that keep track of your questions and answers
+  * Wikis - personal and otherwise
+  * Trophy shelves!
+  * Microlearning e.g. [@edge2011micromandarin]

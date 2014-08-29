@@ -1,0 +1,51 @@
+
+
+h3. Are there different types of thinking?
+
+System 1 and system 2.
+
+h3. When is (system 2) thinking disadvantageous?
+
+"Consider how much mental processing must take place just to position one's hand to catch a fly ball--the instantaneous calculations of distance, trajectory, and velocity--or to recognize the difference between a cat and a dog. Our brains are obviously capable of astoundingly fast and complex calculations that happen subconsciously. We can't explain them because most of the time we hardly even recognize they're happening." ... "For example, when students are taught to draw, often the first two exercises they're made to master are tracing negative space and contour lines. The aim of these exercises is to shut down the top-level conscious processing that can't see a chair as anything but a chair, and activate the latent, lower-level perceptual processing that sees it only as a collection of abstract shapes and lines." (Moonwalking with Einstein, p. 225) 
+
+"Transcranial magnetic stimulation (TMS) is used to inhibit or activate different regions of a person's brain. While the stimulus is applied, we test the person's skills and behaviour in different areas, which require cognitive processing. This reveals to us what cognitive effects the stimulation is having on the person. Preliminary studies indicate that, using this technique, savant skills can amazingly be switched on in normal people!" [[http://www.centreforthemind.com/research/scientificWays.cfm|Centre for the Mind - Research]]
+
+h3. What are some examples of mental models from different fields?
+
+Different modes of thinking or inspirations from broad fields (rationale: "open networks" are good for social capital; probably self-enlightenment as well). But be careful! http://learnstream.github.com/blog/2011/09/25/prescription-vs-description/ (also http://lesswrong.com/lw/ic/the_virtue_of_narrowness/)
+
+  * [[Rationality]] 
+    * [[http://yudkowsky.net/rational/virtues|Twelve virtues of rationality]]
+    * Information theory and Bayes theorem (add log probabilities to get 'bits of absurdity')
+  * [[Math]]
+    * Proof techniques
+    * Law of large numbers
+    * "think backward write forward"
+    * Duality?
+    * approximating things as linear
+  * [[Computer science]]
+    * Church-Turing thesis & Turing machines & indecidability
+    * recursion
+    * fixed point
+    * classify problems by complexity & complexidynamics
+    * reductions
+  * [[Physics]]
+    * Examples of emergent behavior (related to law of large numbers?)
+    * Quantum...
+  * [[Biology]]
+    * Causality issues of natural selection (teleological process vs emergent process)
+    * Population thinking
+  * [[Art]]
+    * Avoid thinking in symbols; turn an image upside down to remove recognition and be better able to copy the details
+    * Best (or at least most renowned) creative people are often most technically skilled people
+  * [[Music]] (sadly I only know about //listening to// music)
+    * More appreciation listening several times to pick up subtleties; more appreciation knowing the craft behind it
+  * [[Design]]
+    * removing everything that can be removed
+    * you are not the user
+  * [[Systems thinking]]
+  * [[Economics]]
+    * opportunity cost
+    * sunk cost effect
+    * law of diminishing returns and marginal analysis
+  * [[Philosophy]]

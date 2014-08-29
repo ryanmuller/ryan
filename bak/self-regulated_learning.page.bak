@@ -1,0 +1,110 @@
+
+
+## Introduction
+
+"To become a successful self-regulated learner, as defined by [@zimmerman1990self], people must develop or be taught how to monitor and self-assess their learning status, then use the results from self-assessment to reasonably allocate learning resources to the different content they are learning, as well as select appropriate learning strategies" ([@muller2012personal]).
+
+Where does SRL apply? Ken: there seems to be a bias toward studying simple declarative knowledge in the most popular models. In other bodies of work, Ericsson writes about expert skill acquisition (e.g. [@ericsson1994expert]). Schoenfeld writes about metacognition and motivation for complex problem solving in math (e.g. [@schoenfeld1987cognitive]). 
+
+## Measures
+
+h3. Motivated strategies for learning questionnaire
+
+[@pintrich1990motivational]
+
+Alternative source: http://www.indiana.edu/~p540alex/MSLQ.pdf
+
+Self-efficacy
+  * 2.	 Compared with other students in this class I expect to do well 
+  * 7.	 I’m certain I can understand the ideas taught in this course 
+  * 10. I expect to do very well in this class
+  * 11. Compared with others in this class, I think I’m a good student 
+  * 13. I am sure I can do an excellent job on the problems and tasks assigned for this class 
+  * 15. I think I will receive a good grade in this class 
+  * 20. My study skills are excellent compared with others in this class 
+  * 22. Compared with other students in this class I think I know a great deal about the subject 
+  * 23. I know that I will be able to learn the material for this class 
+
+Intrinsic value
+  * 1.	 I prefer class work that is challenging so I can learn new things. 
+  * 5.	 It is important for me to learn what is being taught in this class 
+  * 6. I like what I am learning in this class 
+  * 9. I think I will be able to use what I learn in this class in other classes 
+  * 12. I often choose paper topics I will learn something from even if they require more work
+  * 17. Even when I do poorly on a test I try to learn from my mistakes 
+  * 18. I think that what I am learning in this class is useful for me to know 
+  * 21. I think that what we are learning in this class is interesting 
+  * 25. Understanding this subject is important to me 
+
+Test anxiety
+  * 3.	 I am so nervous during a test that I cannot remember facts I have learned 
+  * 14. I have an uneasy, upset feeling when I take a test 
+  * 24. I worry a great deal about tests 
+  * 27. When I take a test I think about how poorly I am doing 
+
+Cognitive strategy use
+
+  * 30. When I study for a test, I try to put together the information from class and from the book 
+  * 31. When I do homework, I try to remember what the teacher said in class so I can answer the questions correctly 
+  * 33. It is hard for me to decide what the main ideas are in what I read (*R)
+  * 35. When I study I put important ideas into my own words 
+  * 36. I always try to understand what the teacher is saying even if it doesn’t make sense. 
+  * 38. When I study for a test I try to remember as many facts as I can
+  * 39. When studying, I copy my notes over to help me remember material 
+  * 42. When I study for a test I practice saying the important facts over and over to myself
+  * 44. I use what I have learned from old homework assignments and the textbook to do new assignments 
+  * 47. When I am studying a topic, I try to make everything fit together 
+  * 53. When I read materials for this class, I say the words over and over to myself to help me remember 
+  * 54. I outline the chapters in my book to help me study 
+  * 56. When reading I try to connect the things I am reading about with what I already know.
+
+Self-regulation
+
+  * 32. I ask myself questions to make sure I know the material I have been studying 
+  * 34. When work is hard I either give up or study only the easy parts (*R)
+  * 40. I work on practice exercises and answer end of chapter questions even when I don’t have to 
+  * 41. Even when study materials are dull and uninteresting, I keep working until I finish 
+  * 43. Before I begin studying I think about the things I will need to do to learn 
+  * 45. I often find that I have been reading for class but don’t know what it is all about. (*R)
+  * 46. I find that when the teacher is talking I think of other things and don’t really listen to what is being said (*R)
+  * 52. When I’m reading I stop once in a while and go over what I have read 
+  * 55. I work hard to get a good grade even when I don’t like a class 
+
+h3. Structured interview for assessing student use of self-regulated learning strategies
+
+From [@zimmerman1986development]
+
+{{skim:zimmerman1986development0.png}}
+
+h3. Azevedo
+
+From [@azevedo2004does]
+
+{{skim:azevedo2004does1.png}}
+
+{{skim:azevedo2004does2.png}}
+
+{{skim:azevedo2004does3.png}}
+
+h3. Motivational strategies 
+
+Strategies identified by a survey of college students ([@wolters1998self]). Are these actually effective??
+{{skim:wolters1998self0.png}}
+
+## SRL training and interventions
+
+  * [@dignath2008can] - meta-analysis of SRL training programs for primary school; moderate effect sizes across many types of programs
+  * Azevedo - SRL for learning from hypermedia
+    * [@azevedo2004does] - training SRL strategies
+    * [@azevedo2008externally] - externally facilitating SRL strategies (with a human agent)
+  * [@zimmerman2011enhancing] - SRL training intervention at urban technical college
+
+
+## Links here
+ {{backlinks>.}}
+
+{{page>kbib:self-regulated_learning}}
+----
+the cognitive load principles and associated instructional methods to promote the acquisition of domain-specific skills are also useful to simultaneously promote the development of self-assessment and task selection skills [@van2009toward]
+----
+the cognitive load principles and associated instructional methods to promote the acquisition of domain-specific skills are also useful to simultaneously promote the development of self-assessment and task selection skills [@van2009toward]

@@ -1,0 +1,44 @@
+
+
+h3. What is the rationale for the "worked example effect"?
+
+Some learning researchers claim that worked examples are the best form of learning: they present knowledge in a way that is compatible with [[:cognitive load]] limitations of the brain. The worked example effect is a response to the belief that more practice is the key to skill acquisition when evidence mounted that problem solving was not always ideal ([@atkinson2000learning]).
+
+h3. When is a worked example inadequate for learning?
+
+According to [@chi1989self], when there is a "lack of specification of the explicit conditions under which the actions should be executed."  
+
+h3. What studies have confirmed or disconfirmed worked example effect?
+
+{{skim:mclaren2008and0.png}} (from [@mclaren2008and])
+
+  * [@paas1994variability]
+  * [@ringenberg2006scaffolding]: worked examples more efficient than tutor
+  * [@schwonke2007can]
+  * "we found that worked examples alternating with isomorphic tutored problems did not produce more learning gains than tutored problems alone" ([@mclaren2008and])
+  * [@schwonke2009worked]: worked examples more efficient than tutor
+
+h3. When does the worked examples not apply? How can this be addressed?
+
+[@kalyuga2003expertise] penned the **expertise reversal effect**, where high scaffolding becomes detrimental to advanced learners because it requires them to break down knowledge they've already developed to conform to the instructional material. Other research has explored **faded examples**, where full examples are presented to a beginning learner and eventually steps are faded such that the learner must complete them.
+
+Faded example references: 
+  * [@melis2004towards]
+  * [@schwonke2007can]
+  * [@schwonke2009worked]
+
+h3. How should multiple worked examples be presented?
+
+Discussed in [@atkinson2000learning]
+
+   * Interleaved topics ([@paas1994variability])
+   * Interleaved with problems ("only one such study" according to [@koedinger2008better])
+
+h3. Worked examples in broader themes
+
+  * [@sweller2010teaching]
+
+## Links here
+ {{backlinks>.}}
+
+{{page>kbib:worked_examples}}

@@ -1,0 +1,11 @@
+[opengameart.org](http://opengameart.org/)
+
+[en.wikipedia.org](http://en.wikipedia.org/wiki/Diamond-square_algorithm):
+
+<blockquote><html>The <b>diamond-square algorithm</b> is a method for generating <a href="/wiki/Heightmap" title="Heightmap">heightmaps</a> for <a href="/wiki/Computer_graphics" title="Computer graphics">computer graphics</a>. It is a slightly better algorithm than the three-dimensional implementation of the midpoint displacement algorithm which produces two-dimensional landscapes. It is also known as the <b>random midpoint displacement fractal</b>, the <b>cloud fractal</b> or the <b>plasma fractal</b>, because of the <a href="/wiki/Plasma_effect" title="Plasma effect">plasma effect</a> produced when applied.</html></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><html><p>Diamond-Square maps, which can be tiled properly, unlike vanilla Perlin. <a href="https://twitter.com/hashtag/screenshotsaturday?src=hash">#screenshotsaturday</a> <a href="http://t.co/tyRtk0f8TO">pic.twitter.com/tyRtk0f8TO</a></p>&mdash; Michael Cook (@mtrc) <a href="https://twitter.com/mtrc/statuses/493448619694252032">July 27, 2014</a></html></blockquote>
+
+[www.gameprogrammer.com](http://www.gameprogrammer.com/fractal.html):
+
+<blockquote><html><img src="fractal/rendered.jpg" name="Graphic1" align="BOTTOM" width="470" height="211" border="0"></html></blockquote>

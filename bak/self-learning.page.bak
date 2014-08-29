@@ -1,0 +1,322 @@
+
+
+Modeling and framing problems. In science and engineering, doing calculations and proving results is possible to learn on your own by reading books and research papers (though see caveat about discipline below). The much subtler trick, and one that seems very hard to learn outside an apprenticeship, is how to reframe problems when you hit dead ends or prickly thickets.
+
+
+In these cases, you need to make your life a little easier (by assuming a little more, aiming at a little less, or shifting the focus "laterally") without trivializing the problem or redoing something known. This is very foreign at first if you are used to solving the problem posed to you (in an exercise, etc.). Generally, books can teach you to become very strong at solving well-defined problems but are much less effective at teaching you how to make good definitions, how to pose interesting problems, and how to "correct course" on these dimensions. The way I learned this is by being shown how to do it by an expert, and the lesson sunk in because the reframing he suggested applied to my problem. It was like having a pro adjust your technique after watching your golf swing, as contrasted with reading about golf swings in a book.
+
+Knowing where the ground is fertile. Journals, blogs, and other public media are a lagged and noisy indicator of where there is potential to do interesting things. The people who really know accurately what is worth studying, thinking about, etc. tend to be the ones at the frontiers of their fields. Talking to them personally and developing taste that way is hard to substitute for. [[http://www.quora.com/What-important-things-do-people-learn-in-university-that-would-be-hard-to-learn-on-their-own|(20) What important things do people learn in university that would be hard to learn on their own? - Quora]]
+----
+Interactive learning, learning from your peers, debate, contact with people who have deeply held beliefs that are different from yours, have to articulate a point of view and be able to defend with only the text for reference (not life experience, common wisdom or what you think is true). 
+
+
+A pivotal class for me was with a philosophy professor who was teaching a room full philosophy majors (and me). If you haven't been around philosophy majors, they are experts with words, argument and language. You can ask a question and they can give you three pages of reasons and points, pro and con, off the top of their head. Words are used with precision.
+
+
+This teacher's challenge was, "Explain this paragraph/sentence to me in fewer words than the author uses." They were stumped. Brevity was not a challenge they had been rewarded for or was highly prized. But for this professor, being able to distill a complicated idea down to its essential point that could be explained to a layman was the demonstration that you really understood it and were not just building layer upon layer of verbiage that meant you were just spouting jargon you had picked up from your cohort.
+
+
+This was an intellectual exercise that I never would have thought of but made a huge impression on me and because it was required by the professor, there was no way around it. It enforced a discipline with language that I still aim for today. I never would have come across this practice or had the motivation to do this outside of a classroom sentence. And seeing my very well-read classmates struggle was just the icing on the cake [[http://www.quora.com/What-important-things-do-people-learn-in-university-that-would-be-hard-to-learn-on-their-own|(20) What important things do people learn in university that would be hard to learn on their own? - Quora]]
+----
+I would suggest there are roughly 11 ways that a university provides a unique learning experience which generally can't be replicated by solo learning:
+
+Q & A of students perspective & teacher feedback ( highlighted by Liz Pullen )
+
+How experts think and solve problems  ( highlighted by Seb Paquet )
+
+Problem framing ( Ben Golub )
+
+Classroom debates & exchanges & perspectives
+
+Reflective learning
+
+Collaborative and social learning
+
+Passionate community ( Chui Tey 's suggestion about the quality of cohort helps make this argument)
+
+The ease of asking an "expert" an answer or his/her best guess (although admittedly Quora & Linked in Questions provide this opportunity)
+
+Experiences, stories, & lessons learned.  Generally this is more philosophical than tactical, but depending on the subject can be tactical.
+
+Teacher as mentor (although this role isn't optimized in the undergraduate classroom as much as it is in the under graduate classroom & other interaction that takes place outside the classroom during the graduate school experience)
+
+Beyond that, there is also the value of the network and the trust level (aka brand value) a given educational institution brings to the table. [[http://www.quora.com/What-important-things-do-people-learn-in-university-that-would-be-hard-to-learn-on-their-own|(20) What important things do people learn in university that would be hard to learn on their own? - Quora]]
+----
+I learned how to program by working on lots of different website projects starting from a pretty young age. What follows is a full account of all the major websites I've built, back to the very first site I made when I was 11 years old. What I hope the reader takes away from this full re-telling is the importance of doing lots of side projects if you want to learn to program well.
+
+
+The best way to learn a new skill is to practice, practice, practice. All the best programmers that I know sincerely enjoy programming -- it's something that makes them absurdly happy to do. And, so they do it a lot. Often, an unhealthy amount. Learning how to program -- and how to do it well -- doesn’t take superhuman ability. It just takes a willingness to get your hands dirty and build stuff.
+
+
+It doesn't matter what you build, as long as you pick something and start. The good programmers who I know each had a different reason for initially learning how to program. Some learned so they could make video games. Some learned so they could solve their own computer problems, or work more productively. Some learned so they could build products that make people happy. Some (the true hackers) learned programming as part of a larger goal of learning how computers work at a really deep level; they want to understand the machine. Some programmers just do it because they enjoy solving difficult problems.
+
+
+The single factor that unifies all these types of "good programmers" is that they all got obsessed with programming at some point in their lives, and subsequently spent a long time programming. Lots and lots of side projects. [[http://www.quora.com/How-did-Feross-Aboukhadijeh-learn-to-program|(20) How did Feross Aboukhadijeh learn to program? - Quora]]
+----
+How to learn programming:
+
+Do side projects.
+
+Buy and read programming books.
+
+Do side projects.
+
+Take computer science classes.
+
+Do side projects.
+
+Read programming blogs.
+
+Do side projects. [[http://www.quora.com/How-did-Feross-Aboukhadijeh-learn-to-program|(20) How did Feross Aboukhadijeh learn to program? - Quora]]
+----
+Skills or concepts that self-taught programmers may lack:
+
+
+Data Structures and Patterns
+
+Compilers (implementations)
+
+Programming Languages (implementations)
+
+Machine Learning (implementations)
+
+Finite State Machines
+
+Code-as-Data
+
+Functional Programming
+
+Object Composition
+
+Recursion
+
+Lambda Calculus
+
+Pointers
+
+Type Systems, Category Theory
+
+Search
+
+Numerical methods
+
+Common vocabulary, jargon, and conventions
+
+Concurrency [[http://www.quora.com/Programmers/What-skills-do-self-taught-programmers-commonly-lack|(20) Programmers: What skills do self-taught programmers commonly lack? - Quora]]
+----
+Here are some things that have helped me read textbooks better:
+
+Before I read a chapter, I make a list of questions that I want the chapter to answer/things I want the chapter to teach me. That is, *do* try to have a target. It's not always possible (if you're reading a new area and don't know what you don't know), but it helps if it is.
+
+Sometimes I skim the chapter. This helps me get an overview of what the chapter is about, so I can relate things to each other as I read. It also helps me form more questions I want answered (especially if the material is new to me, and I'm not really sure what my goals in reading the book are).
+
+Then I read more closely. As I read, I try to predict what the author will write about next / how he'll solve the problems that he's introducing. Either I'm right (awesome!), or I'm wrong (in which case hey!, something I should pay attention to).
+
+I also take notes as I read. (I've tried the Cornell note-taking system and I've tried mind-mapping, but I found the best for me is to type up an outline/bullets of notes as I go along.)
+
+Feel free to skip over things you don't care about; don't feel like you need to read every single word.
+
+After I finish the chapter, I write up a one-sentence punchline and also a longer summary, and add these to my notes. I also try to do an active recall of everything I've just read (which helps me both remember the material, and figure out what I thought I understood but really didn't).
+
+I too use a (custom) spaced repetition system to help me review my notes. [[http://www.quora.com/Continuous-Learning/What-are-the-best-techniques-to-learn-material-from-books-1|(20) Continuous Learning: What are the best techniques to learn material from books? - Quora]]
+----
+Mental Models:
+
+
+1. Peter Bevelin - Seeking Wisdom - From Darwin to Munger
+
+
+2. The Personal MBA - Josh Kaufman
+
+
+3. This Will Make You Smarter: 150 New Scientific Concepts to Improve Your Thinking - John Brockman 
+
+
+4. Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger - Peter D. Kaufman
+
+
+Creativity and Innovation:
+
+
+1. Michael Michalko - Creative Thinkering
+
+
+2. Edward de Bono - Six Thinking Hats
+
+
+3. The Creative Habit: Learn It and Use It for Life - Twyla Tharp
+
+
+4. inGenius: A Crash Course on Creativity - Tina Seelig
+
+
+5. The Art of Innovation by Tom Kelley
+
+
+6. A Whack on the Side of the Head by Roger Von Oech
+
+
+7. The other side of innovation – Vijay Govindarajan & Chris Trimble
+
+
+Logic/Problem Solving
+
+
+1. The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving by Barbara Minto
+
+
+2. Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
+
+
+3. How To Think Like Leonardo Da Vinci: Seven Steps to Genius Every Day - Michael J. Gelb 
+
+
+Critical Thinking
+
+
+1. Asking the Right Questions: A Guide to Critical Thinking - M. Neil Browne
+
+
+2. Critical Thinking: A Student's Introduction - Gregory Bassham, William Irwin
+
+
+3.The Miniature guide to critical thinking by Richard Paul
+
+
+4. Beyond Feelings: A Guide to Critical Thinking -  Vincent Ruggiero
+
+
+5. Critical Thinking: A Concise Guide - Tracey Bowell , Gary Kemp
+
+
+6. A Rulebook for Arguments - Anthony Weston
+
+
+7. The Demon-Haunted World: Science as a Candle in the Dark by Carl Sagan
+
+
+8.Fooled by Randomness -  Nassim Nicholas Taleb, Black swan - Nassim Nicholas Taleb
+
+
+9. The Believing Brain: From Ghosts and Gods to Politics and Conspiracies - How We Construct Beliefs and Reinforce Them as Truths - Michael Shermer
+
+
+10. How To Argue - Steven Novella http://theness.com/neurologicabl... 
+
+
+11. How We Know What Isn'T So - Thomas Gilovich
+
+
+12. Don't Believe Everything You Think: The 6 Basic Mistakes We Make in Thinking - Thomas E. Kida
+
+
+13. Innumeracy: Mathematical Illiteracy and Its Consequences - John Allen Paulos
+
+
+14. Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts - Caroll Tavris, Elliot Aronson
+
+
+15. The Honest Truth About Dishonesty: How We Lie to Everyone---Especially Ourselves - Dan Ariely
+
+
+16. Can you put your recommendations on critical thinking in the comments below or maybe in a new post. It's hard to find the gems these days.
+
+
+Cognitive Bias:
+
+
+1. Charlie Munger - The Psychology of Human Misjudgment
+
+
+2. You Are Not So Smart: Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, and 46 Other Ways You're Deluding Yourself - David McRaney
+
+
+3. Daniel Kahneman - Thinking, Fast and Slow
+
+
+4. Predictably Irrational - by Dan Ariely
+
+
+Decision Making 
+
+
+1. Streetlights and Shadows: Searching for the Keys to Adaptive Decision Making - Gary Klein
+
+
+2. Sources of Power: How People Make Decisions - Gary Klein
+
+
+3. The Power of Intuition: How to Use Your Gut Feelings to Make Better Decisions at Work - Gary Klein
+
+
+4. Judgment in Managerial Decision Making - Max H. Bazerman, Don A. Moore
+
+
+5. Judgment under Uncertainty: Heuristics and Biases - Daniel Kahneman, Paul Slovic , Amos Tversky
+
+
+Personal Effectiveness
+
+
+1. Power of Full Engagement - by Jim Loehr and Tony Schwartz
+
+
+2. The 7 Habits of Highly Effective People by Stephen Covey
+
+
+3. Getting Things Done by David Allen
+
+
+Systems:
+
+
+1. Thinking in Systems: A Primer - Donella H. Meadows
+
+
+2. Business Dynamics: Systems Thinking and Modeling for a Complex World - John Sterman
+
+
+3. The Goal by Eliyahu Goldratt
+
+
+4. Work the system by Sam Carpenter
+
+
+Others
+
+
+1. Stumbling on Happiness by Daniel Gilbert
+
+
+2. Atlas Shrugged by Ayn Rand
+
+
+3. The Paradox of Choice: Why More Is Less by Barry Schwartz
+
+
+4. The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell
+
+
+5. The Innovator's DNA - Jeff Dyer, Clayton Christensen [[http://www.quora.com/Book-Recommendations/What-books-helped-increase-your-thinking-capacity-and-build-better-mental-models-How|(20) Book Recommendations: What books helped increase your thinking capacity and build better mental models? How? - Quora]]
+----
+Sometime near the end of high school I was introduced to and became addicted to Taiwanese pop music.[2] I had always wished that my Chinese were better than it was, so this was an easy opportunity to take. I got in the habit of reading song lyrics, looking up words I didn't know, hand-copying the lyrics over and over, and sometimes translating them into English while annotating characters with their Hanyu Pinyin romanizations. For a more difficult song, I might print out the lyrics in pinyin and listen to the song on repeat until I had memorized the pronunciation of all the words in the song, and then only after that would I read the actual Chinese characters. Eventually (probably a year after I started dedicating myself to Chinese studies) YouTube got more popular and it became much easier to match up characters to their pronunciations and meanings. This was the bulk of my Chinese language acquisition.
+
+
+Studying Mandarin pop music gave me a much more comprehensive vocabulary (albeit one skewed towards emotional, sappy things), and it became much easier to pick up other, more difficult reading materials. In Chinese school we were introduced to some novels from which we would read short pieces very slowly -- most people gave up on these once the term was over, but I picked up one of the books, a ~500 page martial arts novel by Jin Yong 金庸 called A Deadly Secret 連城訣, and read it steadily over the course of 7 weeks. Again, when I didn't recognize a word I would look it up[3]; write down the character, its pronunciation, its meaning, and then copy it over at least 3 more times.
+
+
+At some point after dragging myself through this novel, I also started a Chinese language blog, which I updated several times a week. This forced me to think about grammar and word choice much more carefully, as I didn't want any mistakes in something I had published in writing. I would try to pick different topics to blog about so I could extend my vocabulary in different areas. During this process I made heavy use of Google to make sure my phrasing was consistent with the phrasing that actual Taiwanese people were using on their blogs. For example, if I was considering two ways to say the same thing I would Google both of them and see which one returned more hits. Or, if I was unsure of the translation of a term, I would guess at related characters and repeatedly Google until I found the most common translation.
+
+
+Throughout my period of intense Chinese learning I used a few other techniques, too, like chatting online with Chinese/Taiwanese friends, reading Chinese news stories online, and occasionally taking classes[4]. 
+
+       
+
+Overall I think I spent 3 years studying Chinese as a sort of side project. Now I can mostly read the newspaper and converse fluently enough to sometimes fool people that I'm originally from Taiwan :) [[http://www.quora.com/How-did-Tracy-Chou-learn-Chinese|(20) How did Tracy Chou learn Chinese? - Quora]]
+----
+My inability to complete these classes does make me look closely at my motivations for signing up in the first place. Sure, it’s all under the guise of “learning to program,” but what exactly does that mean to me? What do I want to learn? What do I want out of these classes? What do I need to get out of these classes to do the sorts of coding that I’d do for my job? How is that different from the sorts of knowledge I’m interested in simply for the sake of having a better understanding of computer science? And finally, even if I’m a highly motivated student (wait, am I?), what works and what doesn’t work for me in these informal online learning environments?
+
+
+Read more: http://www.insidehighered.com/blogs/hack-higher-education/udacitys-cs101-partial-course-evaluation#ixzz1zg5QJhPF 
+
+Inside Higher Ed [[http://www.insidehighered.com/blogs/hack-higher-education/udacitys-cs101-partial-course-evaluation|Udacity's CS101: A (Partial) Course Evaluation | Inside Higher Ed]]

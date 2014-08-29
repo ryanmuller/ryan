@@ -1,0 +1,26 @@
+
+
+## Math competitions
+
+  * CHMMC (I was a founding organizer): http://chmmc.caltech.edu/ 
+  * Stanford's Polya seminar: http://math.stanford.edu/~vakil/putnam07/ http://math.stanford.edu/~ksound/Polya.html
+
+
+----
+An airport-inspired puzzle
+
+9 December, 2008 in diversions, math.GM, travel | Tags: moving walkway, special relativity | by Terence Tao
+
+I was recently at an international airport, trying to get from one end of a very long terminal to another.  It inspired in me the following simple maths puzzle, which I thought I would share here:
+
+
+Suppose you are trying to get from one end A of a terminal to the other end B.  (For simplicity, assume the terminal is a one-dimensional line segment.)  Some portions of the terminal have moving walkways (in both directions); other portions do not.  Your walking speed is a constant , but while on a walkway, it is boosted by the speed  of the walkway for a net speed of .  (Obviously, given a choice, one would only take those walkways that are going in the direction one wishes to travel in.)  Your objective is to get from A to B in the shortest time possible.
+
+
+Suppose you need to pause for some period of time, say to tie your shoe.  Is it more efficient to do so while on a walkway, or off the walkway?  Assume the period of time required is the same in both cases.
+
+Suppose you have a limited amount of energy available to run and increase your speed to a higher quantity  (or , if you are on a walkway).  Is it more efficient to run while on a walkway, or off the walkway?  Assume that the energy expenditure is the same in both cases.
+
+Do the answers to the above questions change if one takes into account the various effects of special relativity?  (This is of course an academic question rather than a practical one.  But presumably it should be the time in the airport frame that one wants to minimise, not time in ones personal frame.)
+
+It is not too difficult to answer these questions on both a rigorous mathematical level and a physically intuitive level, but ideally one should be able to come up with a satisfying mathematical explanation that also corresponds well with ones intuition. [[http://terrytao.wordpress.com/2008/12/09/an-airport-inspired-puzzle/|An airport-inspired puzzle « What’s new]]

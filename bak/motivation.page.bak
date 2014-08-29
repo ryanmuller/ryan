@@ -1,0 +1,130 @@
+
+
+## Self-determination theory
+
+Three needs in optimal function and growth
+  * Competence
+  * Autonomy
+  * Relatedness
+
+(http://en.wikipedia.org/wiki/Self-determination_theory)
+
+[@jang2008supporting] validates models from both SDT and SRL in motivating a boring learning task.
+
+## Goal orientation and motivation
+
+Much has been written about the effects of goal orientation. [@elliott1988goals] distinguished between mastery and performance goals. [@elliot2001achievement] introduced a 2x2 framework distinguishing between approach and avoidance orientations. [@ames1988achievement] surveyed classrooms and found that "[s]tudents who perceived an emphasis on mastery goals in the classroom reported using more effective strategies, preferred challenging tasks, had a more positive attitude toward the class, and had a stronger belief that success follows from one's effort. Students who perceived performance goals as salient tended to focus on their ability, evaluating their ability negatively and attributing failure to lack of ability."
+
+  * Regression analyses revealed that adopting a learning goal orientation and a relative ability goal orientation resulted in a generally positive pattern of motivational beliefs including adaptive levels of task value, self-efficacy, and test anxiety, as well as cognition including higher levels of cognitive strategy use, self-regulation, and academic performance. Results showed that adopting an extrinsic goal orientation led to more maladaptive motivational and cognitive outcomes." ([@wolters1996relation])
+
+In contrast, [@locke2002building] claim that performance goals can be helpful, particularly in combination with mastery goals.
+
+[@moser2011mind] found a  neural mechanism responsible for differences due to goal orientation -- a response that draws conscious attention to corrective information. From http://www.wired.com/wiredscience/2011/10/why-do-some-people-learn-faster-2/
+
+## Stereotype threat
+
+Individuals within groups that are perceived to do worse tend to do worse when reminded of this fact. Even when they are consciously self-confident. See Claude Steel and Josh Aronson. Discussed in [@bain2004best]
+
+## Looking to games
+
+People like games. In other words, games intrinsically provide motivation. Why? [@malone1981makes] claims that the secret is that games provide a goal whose attainment is uncertain. [@koster2005theory] more simply states that learning something or mastering a task is rewarding. Czikszentmihalyi's flow concept is often invoked.
+
+## Motivational interface design
+
+Motivational interface design may fall under the category of persuasive technology ([@fogg2002persuasive]). Badges and gamification are a recent wave of motivation in interfaces  ([@antin2011badges]). 
+
+See [[interface design for goals]].
+
+## Links here
+ {{backlinks>.}}
+
+{{page>kbib:motivation}}
+
+----
+Any game can overlay any number of token economies. There doesn't have to be just one. You can create token economies targeted at every kind of player, in the simplistic Bartle Test sense of "kind".
+
+
+If you want to hook in explorers, just keep track of visited areas, missions completed and other countable explore-ish actions taken. If you want to hook in the PvPers, make a bunch of arenas, then keep track of a bunch of statistics about kills. (Um, or not, if you're Diablo III.) If you want to catch socializers in your web, keep stats on followers, likes/dislikes and all that happy social shit. For builders, keep stats on what areas they've built and how popular they are. Etc. You rope people in by counting stuff that they like to do and reporting it somehow -- preferably to everyone. 
+
+
+Token economies also can be created from (or emerge naturally from) big, complicated rules systems that are heavy on memorization and light on deductive reasoning. Obvious examples include the National Football League, the Linux operating system, the underground music scene, the comic book scene, your neighborhood Bible-study group and other paper-and-dice RPGs.
+
+
+Whenever a community framework of any kind -- gaming, sporting, social, technical, whatever -- is based on a huge system of fiddly rules and trivia to memorize, it attracts mavens who derive satisfaction and status from their knowledge of the system. 
+
+
+
+
+
+Mavens create the pulse of a community. They set the beat. Some mavens generate new content. Others specialize in documentation. Some become critics and provide valuable reviews. Some become entrepreneurs within the economy and act as vendors, facilitators, go-betweens, fences or even thieves, depending on what's possible in the framework. Some mavens become hipsters and try to make the community seem more exclusive and prestigious by virtue of being insufferable (but ultimately valuable) dickheads. 
+
+
+A community only needs a small percentage of its members to be mavens in order to grow and thrive.
+
+
+If you count and score peoples' actions, and then stack-rank them in a set of high score lists, it sends the addictive pull soaring. Sometimes the stack ranking is even built right into the system. If you're a Freemason, then being a Master Mason is way better than being a lowly Apprentice. Oh sure, go ahead and laugh it up over their silly ranking system. Then go back to your day job and worry some more about your next promotion. 
+
+
+
+
+
+Explicit stack-ranking is such a critical ingredient that without it the addiction dish pretty much fails. It's a catalyst. It's yeast for the tasty Token Loaf.
+
+
+But in token economies with physical tokens -- not just counts of actions or connections, but distinct physical or virtual items that you can collect and accumulate -- stack ranking isn't enough by itself. You also need display cases. Because -- follow my reasoning carefully here -- what the fuck good is collecting things if you can't show off your collection? 
+
+
+
+
+
+Actually even without display cases collecting can still be fun, because it scatches that collector's itch, which has its roots in the fundamental pattern recognition activity our brains engage in to survive. People can always work around the social issue by talking about their collections in forums or whatever. 
+
+
+
+But letting people show off their collections makes it a whole different ball game. Communities will always find a venue for showing off their collections, even if you're too stupid to provide one for them. But if you feature it directly in the system, it concentrates everyone's focus within the system, making it inherently stickier. (In the sense of "measurable consecutive hours spent on the site.") If, on the other hand, you force people to wander off to eBay or a random forum to share and trade their collectibles, then you're letting your revenue stream walk out the door. 
+
+
+A display case in a game can be as simple as allowing you to look at someone else's inventory. Seriously, how hard is that, Gearbox? Players want this feature so badly that every day they risk losing their best items by dropping them and picking them up again just so others can see them flash by, you lovable dumb fuckers! How can you not know this by now? 
+
+
+A token display case can be anything and anywhere, as long as it has the player's name and hopefully pic attached to it somewhere. 
+
+
+Oh yeah. Pics. Fuck me, now there's a side-rant for you. 
+
+
+TL;DR: Personalization is another highly key ingredient for addiction. Everyone wants to make their avatar stand out as a unique reflection of their own personal bad taste. And everyone wants a fucking profile page. Christ, now we're getting into shit that's so painfully obvious that it makes my eyes twitch, but most companies still don't seem to get it. 
+
+
+In any case I won't talk too much about it today, except to observe that no matter how well you support custom avatars, you could be doing more, and it will make people happier. Doesn't even matter what you do, as long as it's more personalizable. [[http://steve-yegge.blogspot.com/2012/03/borderlands-gun-collectors-club.html|Stevey's Blog Rants: The Borderlands Gun Collector's Club]]
+----
+A Token Economy is any system in which you are awarded meaningless but highly visible "tokens" for Good Behavior -- that is, for the behavior the creator of the system is trying to provoke in you. 
+
+
+True But Apparently Little-Known Fact: Token economies are among the most powerful drivers of human behavior. They're used in grade schools, prisons, mental institutions and the military to incent people to act in certain ways. And it works, boy howdy does it ever work. Once they start handing out those gold stars, you'd shoot your own grandmother to get one.
+
+
+Some companies think they have the whole Token Economy thing figured out, so they create a Badge system or (equivalently) a Trophy system. Badge systems are what stupid people do when they think they've figured out Token Economies. 
+
+
+Hey, don't shoot the messenger here. I'm just reporting facts. It's what I'm known for. 
+
+
+Token economies need *scored* tokens. That's why badge systems are lame. They can never generate the addictive pull because there's no high-score list possible, other than the overall badge count. The count itself can be reasonably addictive if there are enough players -- think "number of Facebook friends". But that's Weaksauce Flavored Sauce Substitute (Note: contains no actual Weaksauce) compared to the addiction levels achievable by having multiple token categories, multiple high-score lists, and a tight bell curve for token rarity. 
+
+
+
+Some token economies let you purchase the tokens at a high cost. Some token economies even have physical tokens. Disney understands this. So does Luis Vuitton. Scroll through a few pages and try to figure out where those prices are coming from.
+
+
+Token economies are fragile. If Billy breaks into the teacher's desk after hours and starts handing everyone fistfuls of gold stars, they become worthless and the economy collapses, irrecoverably. In high-end fashion handbag terms, counterfeit products threaten to destroy the token value. In game terms: game balance is hard, and getting it wrong can tank the economy. 
+
+
+All this is just another way of saying that rarity creates desirability. It's hardwired into the human brain. There are multiple complementary parallelizable exploitable ways of creating rarity. Most people don't get this, though, and consequently they create nifty products and systems that ultimately fail to achieve any kind of stickiness: creations destined to be nothing but flashes in the pan. 
+
+
+
+If you don't already know all this stuff better than I do, then you know fuck-all about creating addiction, and it's no wonder your product's badge system isn't generating adoption or stickiness or 7-day actives or any of that other shit you're measuring. 
+
+
+It irritates me to the point of boiling rage that I have to explain this stuff -- that the people most companies put in charge of mission-critical initiatives are so completely fucking clueless, to the detriment of their companies and all the rest of us. So I'll stop here before I have a heart attack. You either get it, or you don't. [[http://steve-yegge.blogspot.com/2012/03/borderlands-gun-collectors-club.html|Stevey's Blog Rants: The Borderlands Gun Collector's Club]]

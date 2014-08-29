@@ -1,0 +1,34 @@
+## Background
+
+h3. Scientific reasoning
+
+Psychologists have studied a wide range of scientific skills in children including the how to understand and work with concepts such as  hypotheses, confounding variables, causal relationships, evidence, theories, and experimental error ([@zimmerman2007development]). 
+
+Much evidence points to the idea that young children are not only naturally curious but even have some natural ability to make scientific inquiries about their environment ([@brewer1991children]). For example, children developed a strategy to isolate variables that would help them understand which types of blocks would cause a certain effect in a toy ([@cook2011science]). Additional studies have found that young children can identify scientific conclusions and sources of error when the domain information is sufficiently clear ([@sodian1991young]; [@masnick2003error]).
+
+However, children make many mistakes in scientific skills, particularly when they apply everyday knowledge to their thinking. Children who hold prior beliefs have been shown to make poor experimental design ([@kuhn1989children]) or make errors in observations ([@chinn2002children]). They often attempt to produce positive outcomes at the expense of properly falsifying any alternate hypotheses ([@tschirgi1980sensible]). Children, in as late as fifth grade, also have poor skills in basic record keeping and manipulation of variables ([@siegler1975acquisition]).
+
+h3. Science pedagogy
+
+While many of these studies are just interested in what skills children have developed, others have looked at what pedagogical strategies are effective in the lab and in the classroom. A continuing debate in this area is between direct instruction, where the student is told exactly when a skill should be used and how it applies, and discovery learning, where children are given guidance about the overall goals but allowed to explore strategies on their own (cite this - don't want to be using bad definitions!). 
+
+In [@schulz2009double], children were found to explore less capabilities of a novel toy when they were instructed about one feature compared to when just shown the toy or when one of its features was accidentally revealed. In a controlled experiment directly comparing direct instruction with discovery learning, direct instruction was more effective at promoting the vary-one-at-a-time strategy for controlling variables ([@klahr2004equivalence]). However, in a longer term study that replicated the conditions of the Klahr & Nigram study, discovery learning was found to have longer lasting effects ([@dean2007direct]). 
+
+In conclusion, the relative benefits of different types of instruction need to be carefully considered, taking into account factors like the length of the program and educational goals. 
+
+h3. Interface design
+
+A computer game will naturally support some level of discovery learning, as students attempt to manipulate the environment and advance in a level. The interface style of a game allows its designers to control the balance between planning and exploring that players apply. Researchers who have examined the effects of the interface style on learning gains have generally found that a command-based control, where users manipulated using abstracted conceptual commands, is superior to a direct manipulation interface ([@gilmore1996relevance]; [@holst1996directing]; [@svendsen1991influence]). This contradicts the standard interaction design practice of the simplest possible interface ([@margono19931]), but the hard to use parts of an interface can actually be advantageous ([@van2006paradox]). Command-based interfaces encourage more time spent planning because of the higher cost and delayed feedback ([@holst1996directing]) and avoids "tinkering" to gain the solution ([@sedig2001role]). Performance is not an indicator of learning gains ([@gilmore1996relevance]). 
+
+In addition to control style, the goal structure of a game can affect the learning outcomes. [@miller1999goals] found that either removing the goal altogether or forcing players to follow a specific path led to better learning gains than a game scenario that provided a specific goal.
+
+h3. Physical intuition
+
+In a tower building game, a student will be applying physical intuition in order to use the interface. The understanding of balance relates to tower building because each step involves balancing the next block onto a position of the tower, and, additionally, the balance properties of the building as a whole are important to maintaining its stability. 
+
+Children develop many intuitive theories about motion and forces from their experience in the world ([@terry1985children]) and as with general scientific reasoning, they apply analogies predict outcomes in the world but only when they have a sufficiently abstract prototype of the observations ([@pauen1997children]). New knowledge is assimilated into existing knowledge structures ([@reiner2000naive]) (significance?). 
+
+Psychologists have found that children from five years old are able to make accurate judgements about balance when using weight, but at that age perform poorly at distance judgements ([@siegler1976three]) and when there is more than one variable ([@pauen1996children]). In contrast, [@karmiloff1975if] described young children using the geometric center as a balance regardless of the weight distribution. Using verbal explanations helped children overcome this problem ([@pine2000effect]; [@pine2003development]).
+
+We conclude that children in ages four to eight have limited abilities in understanding balance, but we wanted to explore more about their intuition applied to building towers. 
+

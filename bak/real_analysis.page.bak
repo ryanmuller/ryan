@@ -1,0 +1,22 @@
+
+
+What can be done with the real analysis material?
+
+## Video dictionary 
+
+  * Look up definitions, example, etc. with text & video. 
+  * Something like Blueprint ([@brandt2010example]) for solving math problems? 
+  * Research question: Is this better for learning than traditional lecture format?
+
+## Video interaction/ITS
+
+  * Prediction while watching a worked example
+  * Fill-in-the-blank for definitions and theorems
+  * True/false conceptual questions
+  * Structuring for common proof types 
+    * Can we have automated feedback in proof steps? Need an expressive input that is more formal but quicker than proof-writing (could show a rough translation into words to encourage transfer)
+    * Probably can't get a general solution -- think about nice representations for particular families of problems
+  * How to deal with conceptual change? 
+    * Examples in material:
+      * Rationals and nat numbers are same cardinality
+      * Real numbers and rationals are different cardinalities, though reals can be constructed from rationals

@@ -1,0 +1,151 @@
+
+
+A course project about personal health records with applications to autism. This page features a small literature review and exemplar search of existing health tracking tools (mostly found via http://personalinformatics.org/tools)
+
+## Methods
+  * [@koskinenlab]
+  * [@forlizzi2004assistive]
+
+## Exemplars
+
+h3. AutismTrack
+
+{{pages:personal_health_records01.png}}
+{{pages:personal_health_records02.png}}
+
+AutismTrack is a portable, customizable data tracking tool that empowers caregivers of those with autism to easily track interventions, behaviors and symptoms. Checkboxes allow daily recording of any therapy, medicine or diet. Simple "sliders" allow rating of any behavior or symptom (e.g., eye contact, aggression and echolalic speech). [HandHold Adaptive : AUTISMTRACK](http://www.handholdadaptive.com/autismtrack.html)
+
+
+h3. Charm
+
+Finally, what parents need. A way to track treatments for autism. With a few easy key strokes, I enter basic treatment info once and daily observations, and then ChARM converts it into information that I can use. ChARM now helps me take care of my child. [Online Autism Tracking Tool](https://autism.charmtracker.com/login.sas)
+
+{{pages:personal_health_records03.png}}
+{{pages:personal_health_records04.png}}
+
+h3. Bodytrack
+
+The BodyTrack project seeks to help people working to track down suspected environment/health interactions (food sensitivities, asthma or migraine triggers, sleep problems, etc.). In many cases, simple medical tests to identify sensitivities and triggers do not yet exist, leaving people to try to discover through a trial-and-error approach involving cycles of hypothesis generation, modification of inputs, introspection, and evaluation. Keeping track of everything that's potentially important is a real challenge, and we believe that better tools for collecting and exploring relevant data and observations will help. [BodyTrack](http://www.bodytrack.org/)
+
+{{pages:personal_health_records05.png}}
+
+h3. Symptom Journal
+ 
+You can regain optimal health and reduce your symptoms by knowing what choices to change with Symptom Journal's patent pending self-help health tools. [Symptom Journal, reduce symptoms, symptom tracking, reports, answers, live well](http://www.symptomjournal.com/)
+
+{{pages:personal_health_records06.png}}
+
+h3. Healthmonth
+
+Health Month is a game to help improve your diet, fitness, mental health, relationship health, and financial health  while enjoying it! [Health Month - Live healthier, for fun!](http://healthmonth.com/)
+
+{{pages:personal_health_records07.png}}
+{{pages:personal_health_records08.png}}
+{{pages:personal_health_records09.png}}
+{{pages:personal_health_records10.png}}
+
+h3. Salud
+
+Salud! is a platform for meeting your health and wellness goals. Our tools help you make sense of the everyday factors that affect your health, and then help you achieve the results you want. [Welcome | Salud!](https://salud.cc.gatech.edu/welcome/)
+
+Listed below are the research papers our team has published about Salud!
+
+Medynskiy, Y. and Mynatt, E. (2010). Salud!: An Open Infrastructure for Developing and Deploying Health Self-management Applications. Proceedings of the 4th International ICST Conference on Pervasive Computing Technologies for Healthcare (Pervasive Health 2010). Munich, Germany.
+
+Medynskiy, Y. and Mynatt, E. (2010). From Personal Health Informatics to Health Self-management. Paper presented at the “Know Thyself: Monitoring and Reflecting on Facets of One's Life” workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2010). Atlanta, GA, USA.
+
+Medynskiy, Y., Miller, A., Yoo, J.W., Mynatt, E. (2009). Temporal Data in a Health Self-management Application. Paper presented at the “Interacting with Temporal Data” workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2009). Boston, MA, USA.
+
+{{pages:personal_health_records11.png}}
+
+h3. Medhelp
+
+The World's Largest Health Community
+
+ [Health community, health information, medical questions, and medical apps - MedHelp](http://www.medhelp.org/)
+
+{{pages:personal_health_records12.png}}
+{{pages:personal_health_records13.png}}
+
+h3. Microsoft HealthVault
+
+What is HealthVault?
+
+A trusted place for people to organize, store, and share health information online. [Microsoft HealthVault](http://www.microsoft.com/en-us/healthvault/)
+
+{{pages:personal_health_records14.png}}
+
+h3. patientslikeme
+
+[Treatment and Side Effect Info from Patients Like You : PatientsLikeMe](http://www.patientslikeme.com/)
+
+{{pages:personal_health_records15.png}}
+{{pages:personal_health_records18.png}}
+
+h3. Cure Together
+
+The smarter way to find the best treatments.
+
+ [Treatment Ratings and Reviews for 589 Conditions. Self Tracking. Free Tools to Help You Manage Your Health. | CureTogether.com](http://curetogether.com/)
+
+{{pages:personal_health_records16.png}}
+
+
+Here are the studies and partnerships we have so far:
+Carnegie Mellon University
+Kateryna Kuksenok and Jen Mankoff
+Dynamic filtering visualization of CureTogether data (in progress)
+
+Drexel University
+
+Will Dampier
+Building an adaptive recommendation system for treatments (in progress)
+
+Emory University
+
+Adam Sperduto and Suephy Chen
+Feasibility and Reliability of Internet Crowdsourcing Data Collection with Dermatologic Quality of Life Assessment Tools
+
+MIT Media Laboratory
+Ian Eslick
+Collective self-experimentation and recommendations (in progress)
+
+Stanford University
+Diana MacLean and Jeff Heer
+Analysis and visualization of community dynamics and data over time (in progress)
+
+Transparency Life Sciences
+Tomasz Sablinski
+Open Source Clinical Trial on Low-Dose Naltrexone
+
+University of California Davis
+April W. Armstrong, MD MPH
+Personalized Therapeutics and Evaluation of Treatment Responses in Skin Diseases from Patient-Driven Data (in progress)
+
+h3. Google Health
+
+The Google Health service will be discontinued on January 1, 2012. [Google Health](https://health.google.com/health/p/#page=summary&profile=_gFrbur_JlQ)
+
+{{pages:personal_health_records17.png}}
+
+h3. Apps for Autism
+
+{{youtube>F_8b7PgnNQQ}}
+
+## Lit review
+
+h3. Design methods
+
+  * [@evenson2006directed]
+  * [@mccaslin2003five] 
+
+h3. Health tracking and self-management
+
+  * [@bodenheimer2002patient] 
+  * [@medynskiy2010salud] 
+
+h3. Autism
+
+  * [@sigman1986social]
+  * [@lecavalier2006impact] 
+  * [@winner1980artifacts]

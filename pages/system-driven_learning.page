@@ -1,0 +1,21 @@
+
+
+  * Does [[metacognition]] matter if system drives learning well enough? See possibly [@kay2001learner]
+
+## Evidence about system-driven learning
+
+  * [@young1996effect]
+  * [@schnackenberg1998learner]
+  * [@schnackenberg2000learner]
+
+{{skim:young1996effect1.png}}
+
+[p. 7](skimx://young1996effect#7)
+
+## How to sequence instruction
+
+[[Spaced versus parallel learning]] - A robust finding in psychology is that memory retention benefits from the spacing effect. A delay before recall-based practice enhances future retrieval of a memory. On the other hand, research in analogical reasoning shows that studying items in parallel can induce analogical abstraction, which is important for higher level understanding and transfer. A review of the literature finds that spaced or parallel learning should be decided based on the nature of the knowledge. For simple, “paired associate” knowledge, the spacing effect may be optimal. For complex knowledge, where application of the knowledge should be transferred across conditions, learning through analogy by studying multiple examples in parallel may be preferred, particularly for novices.
+
+{{page>kbib:spacing_effect}}
+
+{{page>kbib:adaptive_sequencing}}

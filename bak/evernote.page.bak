@@ -1,0 +1,8 @@
+
+
+
+----
+Apple's applications aren't the only ones accessible through the Scripting Bridge. Many third-party developers also integrate scripting support into their Mac software. One app that has a particularly nice set of scripting APIs is Evernote, the popular cloud-centric note-taking program.
+
+
+This means that users who want to integrate with Evernote on the Mac desktop can connect directly to the application and avoid having to deal with authentication or any of the other complexities that arise from working with the Evernote Web service APIs. [[http://arstechnica.com/apple/guides/2011/09/tutorial-os-x-automation-with-macruby-and-the-scripting-bridge.ars|Tutorial: OS X automation with MacRuby and the Scripting Bridge]]

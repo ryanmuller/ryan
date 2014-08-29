@@ -1,0 +1,53 @@
+
+
+
+h3. How are self explanations classified?
+
+Used by [@chi1989self] with worked examples in physics:
+  * explanation: refers "only to those ideas which say something substantive about the physics discussed in the example statement"
+  * monitoring statement: refers to "states of comprehension"
+  * other: includes "paraphrasing, mathematical elaborations, and metastrategic statements"
+
+Explanations were classified into four categories:
+<blockquote>
+  - Refine or expand the conditions of an action;
+  - Explicate or infer additional consequences of an action;
+  - Impose a goal or purpose for an action;
+  - Give meaning to a set of quantitative expressions.
+</blockquote>
+
+h3. What are the differences in self explanations produced by students?
+
+[@chi1989self]: Good students "generate many explanations which refine and expand the conditions for the action parts of the example solutions, and relate these actions to principles in the text" while "'poor' students do not generate sufficient self-explanations, monitor their learning inaccurately, and subsequently rely heavily on examples" In their study, good students produced more explanations: 29% of statements to 16%. 
+
+h3. What is the benefit of self-explanations?
+
+"Self-explanations not only construct better problem-solving procedures, but they also help students to understand the underlying principles more completely" ([@chi1989self]). 
+
+More specifically, self-explanations offer three mechanisms:
+  * **Self-explanation is a constructive activity.** Consider that the complete set of rules needed to solve physics problems is **not** fully presented in a typical physics textbook. The student must construct those remaining rules to become an expert problem solver.
+  * **Self-explanation integrates new knowledge with existing knowledge.**
+  * **Self-explanation offers multiple opportunities over time to see conflicts between potentially flawed mental models and factual descriptions from the text.** 
+([@chi1994eliciting])
+
+h3. How can self-explanations be used in practice to improve learning?
+
+Simply eliciting self-explanations while reading a passage can be beneficial to learning ([@chi1994eliciting]). 
+
+[@bielaczyc1995training] used modeling and scaffolding to teach self-regulated learning and self-explanation strategies to a group before a lesson on Lisp. The training had a significant effect on the number of observed elaborations and connections made by students during learning as well as their performance.
+
+h3. Are self-explanations more effective in direct instruction or discovery learning conditions?
+
+[@rittle2006promoting] conclude:
+<blockquote>
+Prompts to self-explain seem to facilitate transfer equally well under conditions of invention or instruction, and these benefits persist over a delay. A growing body of research indicates that there is indeed a time for telling (Schwartz & Bransford, 1998); invention is not necessary for children to be productive and adaptive (Klahr & Nigam, 2004; Mayer, 2004; Schwartz & Bransford, 1998). What may be necessary is for people to engage in effective cognitive processes, such as generating self-explanations.
+</blockquote>
+
+h3. When are self-explanations unnecessary?
+
+[@matthews2009pursuit] found no effect of self-explanation prompting when using conceptual instruction, while both outperformed procedural instruction with self-explanation. These experiments used the mathematical equality task as in [@rittle1999conceptual]. The conclusion is that "the benefits of conceptual instruction may sometimes supplant the utility of self-explanation prompts" ([@matthews2009pursuit], p. 17).
+
+## Links here
+ {{backlinks>.}}
+
+{{page>kbib:self-explanation}}

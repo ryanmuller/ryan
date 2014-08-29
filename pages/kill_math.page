@@ -1,0 +1,29 @@
+
+
+An interesting project in largescale math reform by Bret Victor.
+
+----
+The ability to understand and predict the quantities of the world is a source of great power. Currently, that power is restricted to the tiny subset of people comfortable with manipulating abstract symbols.
+
+
+By comparison, consider literacy. The ability to receive thoughts from a person who is not at the same place or time is a similarly great power. The dramatic social consequences of the rise of literacy are well known. [Kill Math](http://worrydream.com/KillMath/)
+----
+My plan is to collect a number of meaningful problems across different application areas and areas of mathematics, and for each one, design a means of solving it that is line with the philosophy here, and compare the benefits of this solution to the benefits of a conventional solution. The techniques and design patterns that emerge during this process will, hopefully, inform a more general framework in the long term.
+
+
+As always, if you're playing with ideas along similar lines, I'd love to see what you've come up with.
+
+
+ [Kill Math](http://worrydream.com/KillMath/)
+----
+I believe that both of these forms of mental contortion are artifacts of pencil-and-paper technology. A person should not be manually shuffling symbols. That should be done, at best, entirely by software, and at least, by interactively guiding the software, like playing a sliding puzzle game. And, more contentiously, I believe that a person should not have to imagine the interpretation of abstract symbols. Instead, dynamic graphs, diagrams, visual models, and visual effects should provide visceral representations. Relationships between values, exponential blow-ups and negligible terms, should be plainly seen, not imagined. [Kill Math](http://worrydream.com/KillMath/)
+----
+Humans are built for language -- we're symbol-processing machines -- so I can't say "symbols bad". But I feel that there are things that we need to see or experience in order to truly understand. And there are things that are easy to draw or build, but impossible to describe (without years of practice in arcane specialized languages).
+
+
+I think that quantity and measure fall into that category. Reading "1m" and "1mm", versus actually observing those two measures -- one is just numbers on a page, the other hits you viscerally. Do you think most people understood, really felt, the difference between a $1B and a $1T bailout? Three orders of magnitude hidden inside a symbol.
+
+
+The point is that you need that visceral sense, that gut feel, to reason about a problem by intuition.  [Kill Math](http://worrydream.com/KillMath/)
+----
+Likewise, people used to think that reading and making sense of huge tables of numbers was an essential skill for working with data. But then William Playfair came along and invented line graphs, and suddenly everyone could feel data through their eyes. Their plain old monkey-eyes! [Kill Math](http://worrydream.com/KillMath/)

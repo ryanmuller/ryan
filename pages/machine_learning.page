@@ -1,0 +1,17 @@
+
+
+## How to study
+
+Frequently recommended books: //The Elements of Statistical Learning// by Hastie, Tibshirani, & Friedman; //Pattern Recognition and Machine Learning// by Bishop; //Data Mining// by Witten, Frank, and Hall; //Machine Learning: The Art and Science of Algorithms that Make Sense of Data// by Flach.
+
+Topics: [Metacademy](http://www.metacademy.org/). [[http://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/|Neglected machine learning ideas]].
+
+Paper: [Introduction to Statistical Learning Theory](http://www.stat.cmu.edu/~larry/=sml2008/BBL.pdf)
+
+## Deep learning
+
+[Representationa Learning](http://arxiv.org/pdf/1206.5538.pdf) [[http://www.csri.utoronto.ca/~hinton/absps/guideTR.pdf|A Practical Guide to Training Restricted Boltzmann Machines]]
+
+## Other topics
+
+Conformal prediction: [Algorithmic learning in a random world](http://www.alrw.net/).

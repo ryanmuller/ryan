@@ -1,0 +1,99 @@
+
+
+{{pages:learnlayer02.png}}
+
+## Goals
+
+Focus on one or two of these
+  - **Discover** where you can go to learn about a topic
+  - **Capture** the content of what you're learning into a place
+  - **Assess** what you've learned
+  - **Track** what you've accomplished
+
+h3. Discover
+
+Related work:
+  * [[http://www.class-central.com/|Class Central]] - list of free courses and their dates
+  * [[http://learni.st|Learni.st]]
+
+h3. Capture
+
+Related work:
+  * [[http://learni.st|Learni.st]] / [[capture tools]]
+
+"Personal learning pages"
+
+h3. Assess
+
+Related work:
+   * Grockit Answers is kind of a StackOverflow for videos
+   * Flashcard sharing sites
+   * StudyEgg "assessment layer"
+   * SOCRAIT
+
+How to make??
+
+h3. Track
+
+Related work:
+  * Fitocracy
+  * Coursehero
+  * Learning portfolio tools
+    * Degreed
+    * Pathbrite
+
+## Technical
+
+Options for connecting sites together
+
+  * Self-report - Just tell the site what you've done. (similar to Fitocracy)
+  * Assessments within LearnLayer
+    * Link to intervention, come back to do assessment
+    * Intervention (e.g. video) is embedded within LearnLayer (similar to Grockit)
+    * LearnLayer browser extension that activates when browsing intervention site
+  * APIs
+    * DataShop-type logging
+    * standard assessments like common core math or Fountas & Pinnell
+
+
+## Assorted Ideas
+
+  * Provide scaffolding for new pages, including structure and challenge questions. (E.g., for a research project: What are you building on? Are you making an impact on the field? Who cares? What could go wrong?)
+  * Challenges can either be SRS style (e.g. Cloze delete) or more general "open questions" where you can construct an answer over time
+  * Auto-combine feature that adds content from another wiki page, comparing section headers and showing what will be added in a pretty Github-like interface
+  * Certain pages or topics can have 4square-like "mayors" (scholars?) who've earned the most points by creating questions, completing challenges, and having a much-followed wiki page. 
+  * Each item could have a set of identifiers that can include URLs, a citekey or whatever makes sense.
+  * Encouraging good structure and other behaviors will be hard. I'm thinking of the wiki as a close correspondance with the individual's mental structure of knowledge, so we can't just enforce a particular structure. Also, it means we should warn users who have a page without any challenges because it means that content will be forgotten and become misrepresentative. This is kinda the idea of "test coverage" in TDD. (But users should also be able to choose to let some knowledge go dormant and be able to return to it later.)
+  * Sidewiki with external pages
+
+h3. APIs
+
+  * YouTube embedding
+  * Wolfram Alpha
+  * GitHub Gists
+  * StackExchange embeds
+  * Translation
+  * Wikipedia
+
+## Clips
+----
+A browser extension and website.
+
+
+Visit a website, any website. If others have added 'challenges' for that site, your LL extension will light up. You can click it to try to answer the challenge questions. Questions that you like will be stored on the LL site in an SRS. You can create your own questions. Additionally, you can choose to save the link and/or highlights from it to your LLwiki.
+
+Back on LL, you can either review your cards directly or browse your LLwiki. You are encouraged to provide a logical structure to the content. Various tools and APIs allow you to pull in information automatically from other sites (e.g. knowl-like things for math definitions, Wolfram Alpha, Github gists, language translations, notification of changes on pages you're pulling from -- if I do this for real research, I would probably approach it as designing for a particular type of learner first).
+
+
+Other thoughts:
+
+* Certain pages or topics can have 4square-like "mayors" (scholars?) who've earned the most points by creating questions, completing challenges, and having a much-followed wiki page. 
+
+* URL takes the place of researchr's citekey. Each item could have a set of identifiers that could be either a URL or citekey or whatever makes sense. Then this becomes researchr+SRS. <3
+
+* Encouraging good structure and other behaviors will be hard. I'm thinking of the wiki as a close correspondance with the individual's mental structure of knowledge, so we can't just enforce a particular structure. Also, it means we should warn users who have a page without any challenges because it means that content will be forgotten and become misrepresentative. This is kinda the idea of "test coverage" in TDD. (But users should also be able to choose to let some knowledge go dormant and be able to return to it later.)
+
+
+OK, it's basically LSbeta, but you control the content and with the browser extension we always wanted. In other words, it's basically LSglue. Must be a good idea if I keep coming back to it. (I went back and played around on LSbeta (FB login didn't work though...). It's kinda cool, if ridiculous :P) 
+
+ [[https://mail.google.com/mail/u/0/#search/neal+pisenti/132f07cf34bb9452|Gmail - Greetz - cognitionmachine@gmail.com]]

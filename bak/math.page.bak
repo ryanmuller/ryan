@@ -1,0 +1,232 @@
+
+
+## Learn Math
+
+
+After many iterations, I believe I have developed a successful system for organizing the notes that I take and the math that I learn. The solution is actually a combination of technology and methodology and is somewhat similar to the approach suggested by Leo in another answer. I am writing all of this out in the hopes that it will be beneficial to other learners.
+
+
+First, I have come up with rather broad categories into which I can categorize what I'm learning. There is nothing particularly orginal about these categories and they are rather standard; just a way for me to bucket thigs. It's a tree structure that breaks down along rather obvious lines. For example, my top categories include Algebra, Analysis, Geometry, Topology. Each of these categories breaks down further. Exactly how is breakdown occurs is under flux; I'm trying not to go beyond 3 or 4 levels in order to keep things reasonable. If I am working through a large amount of a particular text, I will create a category for the text itself and all notes on the text, irrespective of their mathematical classification, will be placed in this category.
+
+
+Now, with regard to the actual notes, there are three basic levels and the amount of effort grows with the levels. First, when I am reading somewhat randomly and am not going line-by-line through a text, I have an Excel file that I record the topic, author, source and other pertinent details about what I'm reading. The amount of information is no more than what can fit on a row of a spreadsheet and doesn't require mathematical symbols. I typically make entries here for things that I want to look at in detail later.
+
+
+The next level involves actually writing things down including: worked problems, proved theorems, definitions, etc. I do this legibly with pencil and paper and then scan these pages in batches. Once these are scanned, I organize them in a folder according to the structure I described earlier. At the time of this writing, I currently have about 600 pages of these notes.
+
+
+At the final level, I texify them. This, obviously, is the most laborious part but it can also be very benefical. Before I tex something up, I read over it carefully and make sure that everything is in order because once I actualy start typing it's mostly mechanical. At this point, I often find points that I missed or overlooked and it gives me another chance to soak in the material. At the time of this writing, I currently have about 150 pages of these sorts of notes (obviously, I'm quite behind in the texification process).
+
+
+With regard to the actual tex development environment, I have settled on Texelipse. The notes that are organized according to mathematical subject classificaitons are compiled into a single document and the tex files themselves are organized in folders according the subject classification. The text-specific notes each have their own project/organizational structure that is determined by the text on which the notes are based. As the material in these notes becomes more familiar it will be integrated into the main set of notes.
+
+
+So, that's a pretty good summary of my approach and so far it seems to be working for me pretty well. The hardest part will be catching up with all the TEX I must write. Putting it into TEX though is very valuable because not only does it force me to review the material but it gives me a nice, clean an organized document that I can refer back to that has been written in my own words. [[http://math.stackexchange.com/questions/51454/math-notes-and-knowledge-organization-methodology?rq=1|soft question - Math Notes and Knowledge Organization Methodology - Mathematics]]
+----
+Of course everybody has their own learning style. Here are some general suggestions.
+
+
+Find a teacher. It is hard to learn mathematics on your own until you have reached a certain level of mathematical sophistication; nobody is there to tell you what is important and what is unimportant. Take courses at a university; as Agusti Roig mentioned, video lectures on MIT's OpenCourseWare are a good cheap alternative.
+
+
+Read as much mathematics as you possibly can, from as many sources as you possibly can. This is not limited to textbooks but extends to popular math books, blogs, expository papers, MO, math.SE... doing this will get you used to not understanding things, which is important. It will also expose you to many fascinating ideas that will fire up your curiosity enough for you to look at the material more seriously. As Ravi Vakil says:
+
+
+...mathematics is so rich and infinite that it is impossible to learn it systematically, and if you wait to master one topic before moving on to the next, you'll never get anywhere. Instead, you'll have tendrils of knowledge extending far from your comfort zone. Then you can later backfill from these tendrils, and extend your comfort zone; this is much easier to do than learning "forwards".
+
+A specific way in learning backwards is easier than learning forwards is that instead of reading the proof of a theorem in a book, you might hear about a theorem without proof, but remember that someone on a blog said something vague about a crucial step, then gradually learn enough material that suddenly you can work out the proof independently. I have done this a handful of times, and it is quite satisfying. For example, the theorem I proved in this blog post is classical and extremely well-known, but I had never seen a proof of it. I juggled around some ideas for about half a year until I figured out how to prove Lemma 6 (which I saw in a paper somewhere, again without proof), and I wrote down a proof. Later I read a proof in an actual book, and although the second half of the proof was similar, it did not use Lemma 6. I have yet to see a proof of Lemma 6 in print, although I am sure it is also well-known.
+
+
+This might sound like more work. But guess how well I remember this theorem and its proof now!
+
+
+Do as much mathematics as you possibly can. This is not limited to textbook exercises but includes competition problems, finding alternate proofs of theorems, working out concrete examples of abstract theorems, etc. I try to do this as much as I can on my blog; it keeps me sharp and is also, at least for me, much more fun than reading a textbook, which I can't do for long periods of time. This is also why I post here so often.
+
+
+Question everything. There are a few aspects to this. If something is unclear or unmotivated to you, ask yourself exactly where it becomes unclear or unmotivated. Find someone to explain it to you (for example, on math.SE!). Read a blog post about it. Write a blog post about it! Ask yourself how things generalize and how they connect to other things you know. (Again, math.SE is good for this.) The worst thing you can do is to accept what a textbook tells you as the Word of God.
+
+
+Finally, teach as much mathematics as you possibly can. This is the other purpose of my blog, and is an amazing test of how well you understand something. You would be surprised how much you can learn about something by teaching it. [[http://math.stackexchange.com/questions/3782/how-do-you-go-about-learning-mathematics|soft question - How Do You Go About Learning Mathematics? - Mathematics]]
+----
+I don't consider myself anywhere near an expert at this (there are a lot of things that I've tried to learn for a while but failed). However, I have spent a while trying to learn mathematics independently, so I will weigh in, but this should be taken with the usual truckload of salt.
+
+
+Find a good book! It's easy to waste time with a poorly written textbook. I think this one is really important. Different people have different ideas about what constitutes a well-written textbook, though, so it may be desirable to look at books in a library and get a sense of them than simply following someone else's recommendation.
+
+Talk to people. I didn't realize how little I knew about algebraic geometry until I was having an email chat with someone and confused the universal properties of projective and affine space minus the origin. That sorted out a few things in my mind.
+
+Don't worry about skipping over things that are unimportant. But try to ask someone what the important and unimportant things are.
+
+This may be just a personal preference, but I like to make copious amounts of notes when I learn something, starting from the beginning. This is one reason to keep a mathematical blog. However, creating large sets of notes is often not entirely suitable for blogging. [[http://math.stackexchange.com/questions/3782/how-do-you-go-about-learning-mathematics|soft question - How Do You Go About Learning Mathematics? - Mathematics]]
+----
+There are roughly two kinds of memorization: with sufficient understanding and without. Without enough understanding, our memory tends to fade more quickly than we would like it to. So I would say: try to memorize with understanding as much as we can.
+
+
+From chat by t.b. about "memorizing" theorems and their proofs:
+
+
+Always ask: what are the hypotheses used for? How does this assumption enter the argument? What is the crucial point of the proof, what do I need to remember in order to re-prove that result? What is just standard technique, what is new to me?
+
+
+Well, one could certainly ask for an outline of the proof, I believe. There are a few main ideas that one can try to isolate. I mean these six pages aren't six pages of pure calculation, they certainly are divided in some natural steps. Try to partition the proof in such a way that it looks natural. This takes a few hours to do, but if for some reason you know that this theorem is considered important for your exam, you probably need to really grasp these ideas.
+
+
+If one proof doesn't help me a lot, I need a different angle of looking at things. If I find a place where things are presented the way I like it, I can then go back and see what the other author emphasizes and thus get a more complete picture.
+
+
+When we are driven by the deadlines of homework and exams and don't have time to digest the ideas, we usually try to memorize them in a hurry. Courses are sometimes arranged in ways that they contradict their original purposes. That is sad... [[http://math.stackexchange.com/questions/85681/is-memorization-a-good-skill-to-learn-or-master-mathematics|soft question - Is memorization a good skill to learn or master mathematics? - Mathematics]]
+----
+"Don't just read it; fight it! Ask your own questions, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?" - Paul Halmos [[http://math.stackexchange.com/questions/85681/is-memorization-a-good-skill-to-learn-or-master-mathematics|soft question - Is memorization a good skill to learn or master mathematics? - Mathematics]]
+----
+The method used by the director was as follows: each student had to prove the theorems consecutively. No lecture took place at all. No one was allowed to tell his solutions to anybody else and each student received the next theorem to prove, independent of the other students, as soon as he had proved the preceding one correctly, and as long as he had understood the reasoning. This was a completely new activity for me, and one which I grasped with incredible enthusiasm and an eagerness for knowledge. Already, with the first theorem, I was far ahead of the others, and while my peers were still struggling with the eleventh or twelfth, I had already proved the hundredth. There was only one young fellow, now a medicine student, who could come close to me. While this method is very good, strengthening, as it does, the powers of deduction and encouraging autonomous thinking and competition among students, generally speaking, it can probably not be adapted. For as much as I can see its advantages, one must admit that it isolates a certain strength, and one does not obtain an overview of the whole subject, which can only be achieved by a good lecture. Once one has acquired a great variety of material through [...] For students, this method is practicable only if it deals with small fields of easily, understandable knowledge, especially geometric theorems, which do not require new insights and ideas. [[http://math.stackexchange.com/questions/118158/do-you-prove-all-theorems-whilst-studying|soft question - Do you prove all theorems whilst studying? - Mathematics]]
+----
+There is a continuum in the way one understands a theorem.
+
+At one end mathematicians just try to understand the statement and use it as a black box .
+
+At the other end they understand the theorem so well that they improve it: this is called research.
+
+
+An important thing to keep in mind is that your attitude toward a result is not fixed for ever: you may first consider it as a block box and solve exercises by blindly using it, then see how it is quoted in proving corollaries or other theorems and finally come back to it and realize that it is actually quite natural.
+
+
+Professors have the advantage that they really have to understand a theorem if they want to teach it well and answer the students' questions.
+
+One of the great aspects of this site is that everybody can be a teacher: I strongly advise you to try and answer questions here. They are at all possible levels and I am sure you can find some that you will answer very competently.
+
+
+A paradoxical way of expressing what it means to have understood a theorem is to say that ideally you have to reach the stage where you consider that all its proofs in the literature are "wrong": it is a patently absurd statement but it conveys the idea that the theorem is now yours because you have integrated it into your own mathematical world.
+
+
+Edit
+
+Since Neal asks about this in his comment, let me emphasize that when I say that proofs in the literature are "wrong" I mean that , although they are technically 100% correct, they don' t correspond to the subjective way one has organized one's understanding of the subject.
+
+
+For example, the definition I like for a finite field extension K/k to be separable is that it is étale i.e. that the tensor product with an algebraic closure of k is split: K⊗kkˉ≅k¯n .
+
+I know this is rather idiosyncratic and of course I know the equivalence with the usual definition, but then I feel that long proofs that C⊗RC is not a field are "wrong" since I know, by the definition of separable I have interiorized, that C⊗RC=C2.
+
+Let me emphasize that all this a completely personal and secret [till today :-)] attitude within myself and that I absolutely don't advocate that other mathematicians should change their definition of separable. [[http://math.stackexchange.com/questions/118158/do-you-prove-all-theorems-whilst-studying|soft question - Do you prove all theorems whilst studying? - Mathematics]]
+----
+  * [[http://www.quora.com/Mathematics/What-is-it-like-to-have-an-understanding-of-very-advanced-mathematics|(20) Mathematics: What is it like to have an understanding of very advanced mathematics? - Quora]]
+
+----
+The current model of doing mathematics is in need of reform. The fundamental issues with the current model cannot be resolved just by placing mathematical journals on a different economic and organizational basis. The core of the problem is our fixation as a community on theorems and proofs. As these notions are tied so closely to our self-image as mathematicians, finding a new model of doing mathematics is going to be a long and arduous process. But we have to do it, if we want our work to be relevant in a couple of decades. [[http://blog.felixbreuer.net/2012/02/27/beyondtheorems.html|Not only beyond Journals, not only beyond Papers. Beyond Theorems. - Felix Breuer's Blog]]
+
+
+----
+I suppose it is difficult to be completely sure and frequently there are several levels of "comprehending" and various interpretation for the "true meaning" of concepts and results. I can mention a few good signs: a) you swim like a fish in the notations around the concept/theorem, b) you can prove the theorem by yourself without seeing the proof first, or at least you can prove it after seeing the proof. And for a concept: you can come up with the proofs of the basic results about the concept. c) The concept/theorem looks natural to you and you could even see yourself discovering it. d) you can ask and answer (correctly) to yourself easy questions around the concept/result. [[http://mathoverflow.net/questions/26950/making-sure-that-you-have-comprehended-a-concept|Making sure that you have comprehended a concept - MathOverflow]]
+----
+I had a scheme, which I still use today when somebody is explaining something that I'm trying to understand: I keep making up examples. For instance, the mathematicians would come in with a terrific theorem, and they're all excited. As they're telling me the conditions of the theorem, I construct something which fits all the conditions. You know, you have a set (one ball)  disjoint (two balls). Then the balls turn colors, grow hairs, or whatever, in my head as they put more conditions on. Finally they state the theorem, which is some dumb thing about the ball which isn't true for my hairy green ball thing, so I say, 'False!' [[http://en.wikipedia.org/wiki/Mental_model#References|Mental model - Wikipedia, the free encyclopedia]]
+----
+The direct reason is that the China team has the best students who are really good at solving math contest problems in the world. But how this team if formed deserves more explanations. 
+
+
+1. Motivation
+
+
+A student who could become a team member for IMO in China is not just an honor: the student will receive all top universities' admissions, money awards, tuition waiver, and tremendous media reports. 
+
+
+There are several rounds before National Mathematical Olympiad (Winter Camp), so the students who enter the NMO are really good at math, I mean insanely good.
+
+
+In China, if you could win a National Mathematical Olympiad medal, you are guaranteed to have the admission of the best universities in China. After National Mathematical Olympiad, the China team are formed by selecting the best students in National Mathematical Olympiad. At the same time, the professors from the best universities in China come to the camp and start talking with the students who participates the National Mathematical Olympiad to persuade them to accept the admissions. So, all China team members in China have their college admissions at that time, and in the next several months, the only thing for them to do is to prepare the contest. 
+
+
+The policy may be changed recently. But in last 20 years, this policy is the motivation of so many kids working on mathematical olympics, also other similar olympics contests. Because you just need to work on one or two subjects, and if you are good, you do not need to take Gaokao (Chinese university entrance exams). It is the only way for kids who are really good at some subjects but also bad at the others to get admissions to top universities. In Gaokao, there is no way for such kids to survive, because there will be at lease 5 subjects exams.  
+
+
+2. Population
+
+
+Like what Jessica Su says, China has a large population, which means the absolute number of high intelligent kids is also large. And Chinese families pay more attentions to their children's education. What Jessica Su may not know: the training of the kids for participating IMO in China typically starts at  middle schools, sometimes may even starts at elementary schools. 
+
+
+3. Training
+
+
+There are many kids who are trained in Math at different stage of education in China. If you go to a bookstore in China, go to the education section, you will find more than 100 books are just written for training students on mathematical contests. And in high schools or middle schools, especially the best ones, there are teachers who are hired just for teaching students how to solve the problems in such contests. If the kid is smart enough and the teacher believe the kid will win a medal, the kid is allowed to just work on the contest, and no need to attend any other classes.  The bad side is obvious, the kid is only trained in one subject, and all other subject are completely omitted, which in some level, affect the education of the kid. Even in middle school, some kids are allowed to spend most of the time to work on one or two subjects, because typically the best high schools are also give admissions to the kids who scored well in mathematical contests at middle school level. [[http://www.quora.com/International-Mathematical-Olympiad-IMO/What-explains-the-Chinese-domination-at-the-IMO|International Mathematical Olympiad (IMO): What explains the Chinese domination at the IMO? - Quora]]
+----
+We note the precise and economical character of the text: not a sign is
+
+
+wasted. [[http://math.berkeley.edu/~giventh/TDS/m5.pdf|]]
+----
+In the United States, Singapore Math is a teaching method based on the primary textbooks and syllabus from the national curriculum of Singapore. These textbooks have a consistent and strong emphasis on problem solving and model drawing, with a focus on in-depth understanding of the essential math skills recommended in the NCTM Curriculum Focal Points (National Council of Teachers of Mathematics),[1][2] the National Mathematics Advisory Panel,[3] and the proposed Common Core State Standards.[4] [[http://en.wikipedia.org/wiki/Singapore_Math_Method#cite_note-11|Singapore Math Method - Wikipedia, the free encyclopedia]]
+----
+I'll comment also that the approach taken to learning mathematics in school in most of the newly industrialized countries of east Asia and southeast Asia is plainly superior to the United States approach for at least two reasons:
+
+1) the school textbooks in those countries explicitly encourage students to THINK about why a procedure will or will not work, and about how many different ways there might be to solve a problem, and
+
+2) the school textbooks show multiple representations of most mathematical concepts, building from "concrete to pictorial to abstract" as in the Singapore Primary Mathematics series
+
+http://www.singaporemath.com/Primary_Mathematics_US_Ed_s/39....
+
+and the follow-up New Elementary Mathematics series
+
+http://www.singaporemath.com/New_Elementary_Math_s/47.htm
+
+which interleave arithmetic, number theory, geometry, and algebra in increasing depth and interconnection throughout all grade levels. [[http://news.ycombinator.com/item?id=4085049|Thanks for the many interesting comments. I'll reply jointly here to a few of th... | Hacker News]]
+----
+Using the bar model  approach, Singapore textbooks enable students
+
+
+to solve difficult math problems-and  learn how  to think symbolically. [[http://www.utahsmathfuture.com/usj.pdf|]]
+----
+The article "The Singaporean Mathematics Curriculum: Connections to TIMSS"
+
+http://www.merga.net.au/documents/RP182006.pdf
+
+by a Singaporean author explains some of the background to the Singapore math materials and how they approach topics that are foundational for later mathematics study. The key aspect of Singapore's success is a MUCH better curriculum in primary school mathematics than is used in the United States. Homeschoolers in the United States, including quite a few parents of top-scoring students on the American Mathematics Competitions tests, have become aware of the Singapore curriculum materials,
+
+http://www.singaporemath.com/Primary_Mathematics_Stds_Ed_s/1...
+
+and those are generally helpful for American families who are looking for something better than the poorly organized, often mathematically incorrect materials used in United States schools.
+
+Professor Hung-hsi Wu of the University of California--Berkeley has written about what needs to be reformed in United States mathematics education.
+
+http://math.berkeley.edu/~wu/Lisbon2010_4.pdf
+
+http://math.berkeley.edu/~wu/Lisbon2010_2.pdf
+
+http://math.berkeley.edu/~wu/NCTM2010.pdf
+
+http://math.berkeley.edu/~wu/NoticesAMS2011.pdf
+
+http://math.berkeley.edu/~wu/CommonCoreIV.pdf
+
+Other mathematicians who have written interesting articles about mathematics education reform in the United States include Richard Askey,
+
+http://www.aft.org/pdfs/americaneducator/fall1999/amed1.pdf
+
+http://www.math.wisc.edu/~askey/ask-gian.pdf
+
+Roger E. Howe,
+
+http://www.ams.org/notices/199908/rev-howe.pdf
+
+Patricia Kenschaft,
+
+http://www.ams.org/notices/200502/fea-kenschaft.pdf
+
+and
+
+James Milgram.
+
+ftp://math.stanford.edu/pub/papers/milgram/milgram-msri.pdf
+
+ftp://math.stanford.edu/pub/papers/milgram/report-on-cmp.html
+
+All those mathematicians think that the United States could do much better than it does in teaching elementary mathematics in the public school system. I think so too after living in Taiwan twice in my adult life (January 1982 through February 1985, and December 1998 through July 2001). I have seen (and used) the textbooks from Singapore and from Taiwan. They are much more clear in their presentation and much more conceptually accurate than the typical United States textbooks. Moreover, elementary mathematics teachers tend to specialize in teaching mathematics while other elementary teachers teach other subjects, at much younger ages than when United States pupils typically encounter specialist teachers. The United States model of elementary education is to have teachers who are jacks of all trades and masters of none, and who do equally poorly (by reasonable international standards) in teaching reading, mathematics, science, and all other elementary subjects.
+
+The United States could do a lot better and reach the level of Finland by staffing reforms
+
+http://edpro.stanford.edu/hanushek/admin/pages/files/uploads...
+
+and by using best practices
+
+http://www.amazon.com/Teaching-Gap-Improving-Education-Class...
+
+in provision of elementary education. [[http://news.ycombinator.com/item?id=3116495|Why Finland’s schools are great (by doing what we don’t). | Hacker News]]

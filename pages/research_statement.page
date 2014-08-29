@@ -1,0 +1,58 @@
+
+
+I investigate the challenges and opportunities of self-directed learning on the web. I define [[learning]] roughly as anything where a person beneficially modifies their long-term memory structure. Since I study human-computer interaction, every question has a **human** and //computer// side. My work also falls into //past//, **present**, and future. 
+
+Two possible frames:
+  * Learning environments have affordances with profound and sometimes unexpected effects on learning and motivation and learning. 
+  * The web contains much knowledge that can be exploited by lifelong learners, but the knowledge is presented with low learnability. How can we improve that? 
+
+^ ^ Background ^ Work ^
+| **How do learners find, aggregate, and filter the information sources and tools used to learn on the web?** //How can computers better present and organize that information?// | <WRAP>
+  * How do people [process information](information processing)?
+  * What's known about how to [manage knowledge](knowledge management)?
+  * Are there general skills for [[reasoning]] about information sources?
+  * What about learning in social contexts? See [[collaborative learning]] and [[social computing]]. 
+</WRAP> | <WRAP>
+  * **I'm trying to understand techniques that researchers use to make sense of academic papers and whether this can be supported for collaborative use: [[research sensemaking]].**
+</WRAP> |
+| **How do people approach learning?** //How can we encourage them to do more and better learning?// | <WRAP>
+  * [[Self-regulated learning]] explores the motivations and strategies that people use. See also [[study habits]]
+  * What do we know about [[motivation]]? Setting and achieving [[goals]] is a major aspect of this.
+  * [[Habits]] influence much of our behavior including learning practices and learning itself.
+  * Studies of [[expertise]] have shed light on what processes develop advanced skills.
+</WRAP> | <WRAP>
+  * //I wrote a brief lit review about children's development of [[scientific thinking]] for an [[ENGAGE report]].//
+  * //What are the individual differences in online learning? I try to characterize this in [[DIY learning]]//
+  * [[Interface design for goals]]
+</WRAP> |
+| **What is effective learning?** //How can learning interfaces promote effective learning?// | <WRAP>
+  * One place to start is the IES practice guide: [@pashler2007organizing]
+  * [[Cognitive load]] theory and theories of [[multimedia learning]] have investigated some guidelines and limitations for learning. Many of these results and others are presented as guidelines to e-learning design in [@clark2011learning]. 
+  * Video is a major source of learning on the web. See [[learning from video]].
+  * Perhaps the most important component is offering [[practice]] opportunities and providing [[feedback]]. 
+</WRAP> | <WRAP>
+  * **I'm currently studying how learning interfaces affect learner strategies.**
+  * Can we apply [[segmenting]] to improve learning from long lectures videos? Try it out at [[http://rudinium.herokuapp.com]] and let me know!
+</WRAP> |
+| **What do people want to know about what they've learned?** //How can computers measure and present learning data?// | <WRAP>
+  * A [[cognitive model]] is an attempt to computationally represent a learner's [[cognition]].
+  * [[Educational data mining]] is the general field of understanding the learning represented by learner's actions. There is also [[learning analytics]], which has a greater emphasis on students and teachers making use of the data.
+</WRAP> | <WRAP>
+  * See [[self-tracked learning]] for thoughts on representing individual learning as inspired by the Quantified Self movement.
+</WRAP> |
+----
+Students enrolled in online, hybrid and face-to-face courses in Washington state community and technical colleges were tracked for five years, 2004 to 2009. The result?
+
+
+(S)tudents were more likely to fail or withdraw from online courses than from face-to-face courses. In
+
+addition, students who took online coursework in early terms were slightly but
+
+significantly less likely to return to school in subsequent terms, and students who took a
+
+higher proportion of credits online were slightly but significantly less likely to attain an
+
+educational award or transfer to a four-year institution.”
+
+
+So conclude authors Di Xu and Shanna Smith Jaggars in Working Paper No. 31 for the Community College Research Center. An earlier study they did of  Virginia community colleges produced similar findings. [More mixed reviews for online learning | Nought 101](http://blogs.burlingtonfreepress.com/highered/2011/07/19/more-mixed-reviews-for-online-learning/)

@@ -1,0 +1,74 @@
+
+
+## Learn Haskell
+
+[github.com](https://github.com/bitemyapp/learnhaskell):
+
+<blockquote><html><p>This is my recommended path for learning Haskell.</p>
+
+<h4>
+<a name="user-content-something-to-keep-in-mind-dont-sweat-the-stuff-you-dont-understand-immediately-just-keep-moving" class="anchor" href="#something-to-keep-in-mind-dont-sweat-the-stuff-you-dont-understand-immediately-just-keep-moving" aria-hidden="true"></a></h4></html></blockquote>
+
+In particular [CIS194](http://www.seas.upenn.edu/~cis194/) is a great starting point.
+
+## Links
+
+[gregory david collins: Slides from CUFP 2011: Snap Framework Tutorial](http://gregorycollins.net/posts/2011/10/01/cufp-tutorial-slides)
+
+[Snap: A Haskell Web Framework: Home](http://snapframework.com/)
+
+[Is Haskell the Cure?](http://mathias-biilmann.net/posts/2011/10/is-haskell-the-cure)
+
+[The Evolution of a Haskell Programmer](http://www.willamette.edu/~fruehr/haskell/evolution.html)
+
+[ocharles.org.uk](http://ocharles.org.uk/blog/posts/2012-12-08-24-days-of-hackage.html):
+
+<blockquote><html><a href="http://hackage.haskell.org/package/QuickCheck">QuickCheck</a> is a library for doing <em>random</em> testing. This means that rather than have the programmer write test data, <code>QuickCheck</code> will generate random data for you. It sounds naive, doesn’t it? It’s a simple solution, but an incredibly powerful one - in fact many people swear by it.</html></blockquote>
+
+[haste-lang.org](http://haste-lang.org/):
+
+<blockquote><html><p>Haste is a dialect of the <a href="http://www.haskell.org">Haskell</a> programming language geared towards web applications. Haste supports <strong>the full Haskell language, including most GHC extensions</strong> but comes with a different set of standard libraries, implementing native support for modern web technologies such as WebSockets, LocalStorage, Canvas and others. In addition, Haste comes prepackaged with facilities for <strong>cooperative multitasking, working with binary data</strong> and other niceties.
+          </p>
+          <p></p></html></blockquote>
+
+[okmij.org](http://okmij.org/ftp/Haskell/)
+
+[github.com](https://github.com/takeoutweight/shade):
+
+<blockquote><html><p>Shade offers a purely functional approach to specifying interactive web applications. Instead of consisting of two-way data bindings between GUI widgets, applications are conceived as pure, one-way functions from a model to a view. As the model changes, the view is simply re-rendered. Shade uses <a href="https://facebook.github.io/react">React</a> to make this repeated re-rendering extremely efficient.</p>
+
+<p></p></html></blockquote>
+
+[katychuang.com](http://katychuang.com/cabal-guide/):
+
+<blockquote><html>just a simple guide for getting started with cabal.</html></blockquote>
+
+[github.com](https://github.com/haskoin/haskoin):
+
+<blockquote><html>Haskell implementation of the Bitcoin protocol</html></blockquote>
+
+[github.com](https://github.com/agocorona/hplayground):
+
+<blockquote><html>Translate your console applications to run in the web browser and have reactive, window-oriented and spreadsheet effects for free.. The MFlow widgets running in the browser with the Haste compiler</html></blockquote>
+
+[www.haskell.org](http://www.haskell.org/haskellwiki/Blow_your_mind):
+
+<blockquote><html><p>Useful Idioms that will blow your mind (unless you already know them&nbsp;:)
+</p><p></p></html></blockquote>
+
+[www.haskell.org](http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems):
+
+<blockquote><html><p></p>
+<ul><li> <a href="/haskellwiki/99_questions/1_to_10" title="99 questions/1 to 10">Questions 1 to 10</a>: Lists
+</li><li> <a href="/haskellwiki/99_questions/11_to_20" title="99 questions/11 to 20">Questions 11 to 20</a>: Lists, continued
+</li><li> <a href="/haskellwiki/99_questions/21_to_28" title="99 questions/21 to 28">Questions 21 to 28</a>: Lists again
+</li><li> <a href="/haskellwiki/99_questions/31_to_41" title="99 questions/31 to 41">Questions 31 to 41</a>: Arithmetic
+</li><li> <a href="/haskellwiki/99_questions/46_to_50" title="99 questions/46 to 50">Questions 46 to 50</a>: Logic and codes
+</li><li> <a href="/haskellwiki/99_questions/54A_to_60" title="99 questions/54A to 60">Questions 54A to 60</a>: Binary trees
+</li><li> <a href="/haskellwiki/99_questions/61_to_69" title="99 questions/61 to 69">Questions 61 to 69</a>: Binary trees, continued
+</li><li> <a href="/haskellwiki/99_questions/70B_to_73" title="99 questions/70B to 73">Questions 70B to 73</a>: Multiway trees
+</li><li> <a href="/haskellwiki/99_questions/80_to_89" title="99 questions/80 to 89">Questions 80 to 89</a>: Graphs
+</li><li> <a href="/haskellwiki/99_questions/90_to_94" title="99 questions/90 to 94">Questions 90 to 94</a>: Miscellaneous problems
+</li><li> <a href="/haskellwiki/99_questions/95_to_99" title="99 questions/95 to 99">Questions 95 to 99</a>: Miscellaneous problems, continued</li></ul></html></blockquote>
+
+[www.haskellcast.com](http://www.haskellcast.com/)

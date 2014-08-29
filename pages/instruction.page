@@ -1,0 +1,75 @@
+
+
+h3. Why is one-on-one tutoring so effective?
+
+[@chi2001learning] offers three hypotheses and evidence from a naturalistic tutoring study confirms all three:
+  * Tutors' pedagogical skills (T-hypothesis)
+  * Students' active generation (S-hypothesis)
+  * Tutor/student interaction (I-hypothesis)
+
+T-hypothesis is supported because tutors dominate the conversation. S-hypothesis is supported because student generate more than would be feasible in a classroom. I-hypothesis was supported in a second study where tutors did not provide feedback or explanations but only prompts.
+
+[@vanlehn2003only] examined tutoring in a problem solving context. Here, they noted that tutoring was most effective when students reached impasses.
+
+[@vanlehn2005reading] perform three experiments to get at the conditions where tutoring is more effective than reading, noting that the interaction hypothesis is often confirmed only as a correlation with good learning. They conclude that
+  * When the text is too difficult, tutors are able to adapt to the level of the tutee.
+  * If readers are not fully engaged (e.g. they do not need to use the content of the text to answer questions), interaction with the tutor can increase engagement.
+  * Otherwise, interactive tutoring is no more effective than reading that includes problem solving. 
+
+## Links here
+ {{backlinks>.}}
+
+{{page>kbib:instruction}}
+
+----
+The Center for the Study of Mathematics Curriculum invited me to give this talk last week on digital math curricula. I described how print curricula limit the experiences we can offer our math students and then I made five recommendations for designing experiences digitally:
+
+Show, don't tell.
+
+Introduce the task as early and concisely as possible.
+
+Climb the entire ladder of abstraction.
+
+Crowdsource patterns.
+
+Prove math works. [Five Design Patterns for Digital Math Curricula on Vimeo](http://vimeo.com/39138436)
+----
+Mazur's physics class is now different. Rather than lecturing, he makes his students do most of the talking.
+
+
+At a recent class, the students — nearly 100 of them — are in small groups discussing a question. Three possible answers to the question are projected on a screen. Before the students start talking with one another, they use a mobile device to vote for their answer. Only 29 percent got it right. After talking for a few minutes, Mazur tells them to answer the question again.
+
+
+This time, 62 percent of the students get the question right. Next, Mazur leads a discussion about the reasoning behind the answer. The process then begins again with a new question. This is a method Mazur calls "peer Instruction." He now teaches all of his classes this way. [Physicists Seek To Lose The Lecture As Teaching Tool : NPR](http://www.npr.org/2012/01/01/144550920/physicists-seek-to-lose-the-lecture-as-teaching-tool)
+----
+4C/ID is an instructional design model by van Merriënboer and others.
+
+"4C" means "four components", "ID" means "Instructional Design". It also can be found in Merril's first principles of instruction.
+
+According to Martin Ryder, the The 4C-ID instructional model is characterized by four components: (1) Learning Tasks, (2) Supportive Information, (3) Procedural Information and (4) Part-Task Practice. The tasks are ordered by task difficulty and each task offers at the beginning a lot of scaffolding which is reduced as the learner progresses. [4C/ID - EduTech Wiki](http://edutechwiki.unige.ch/en/4C/ID)
+----
+The five principles of instruction (Merrill, 2006)
+
+The demonstration principle: Learning is promoted when learners observe a demonstration
+
+The application principle: Learning is promoted when learners apply the new knowledge
+
+The activation principle: Learning is promoted when learners activate prior knowledge or experience
+
+The integration principle: Learning is promoted when learners integrate their new knowledge into their everyday world
+
+The task-centered principle: Learning is promoted when learners engage in a task-centered instructional strategy [First principles of instruction - EduTech Wiki](http://edutechwiki.unige.ch/en/First_principles_of_instruction)
+----
+Through PBL, students learn:
+
+Solving real-life problems: Learning to solve relevant and contextual problems congruent with workplace skills, develop initiative, performance ability and enthusiasm.
+
+Efficient problem solving: Develop the ability to find and use appropriate resources for problem solving
+
+Independant learning: Employ effective self-directed and self-motivated learning skills and proactive thinking to continue learning as a lifetime habit
+
+Self-monitoring: Continuously monitor and assess the adequacy of their own knowledge and of their problem-solving skills, practice critical thinking (see also cognitive tools)
+
+Team work: Efficient collaboration as a member of a group, communication and leadership skills, social and ethical skills. [Problem-based learning - EduTech Wiki](http://edutechwiki.unige.ch/en/Problem-based_learning)
+----
+During the first phase of schema strategy training, students were taught to distinguish the unique features of each problem type (change, group, and compare) in story situations that did not contain any unknown information (see Figure 1). Schemata diagrams were provided to allow students to map features of the story situation onto the diagrams. Instruction entailed explicit and overt modeling of correct story mapping and guided practice to apply the strategy step. [@jitendra1999teaching]

@@ -1,0 +1,46 @@
+
+
+## Applications
+
+[philip.greenspun.com](http://philip.greenspun.com/research/suicide-at-mit.pdf):
+
+<blockquote>Every time there is a suicide at MIT, there are calls from numerous parts of the community for action by the Administration. If suicides are in fact a random
+process then such calls are unwarranted as a consequence of a particular suicide
+or suicides (although in the long run, it still might be worth taking action to
+reduce the overall rate).</blockquote>
+
+## Sources
+
+
+[datascience.stackexchange.com](http://datascience.stackexchange.com/questions/313/books-about-the-science-in-data-science):
+
+<blockquote><html><p>For Bayesian Techniques, <a href="http://rads.stackoverflow.com/amzn/click/1439840954">Bayesian Data Analysis</a> by Gelman, Carlin, Stern, Dunson, Vehtari and Rubin is excellent.</p>
+
+<p><a href="http://rads.stackoverflow.com/amzn/click/0534243126">Statistical Inference</a> by Casella and Berger is a good graduate-level textbook on the theoretical foundation of statistics.  This book does require a pretty high level of comfort with math (probability theory is based on measure theory, which is not trivial to understand).</p></html></blockquote>
+
+## Clips
+
+[www.ma.utexas.edu](http://www.ma.utexas.edu/users/mks/statmistakes/overviewfreqCI.html):
+
+<blockquote><html>Although
+we typically have just one sample at hand when we do statistics,&nbsp;<span style="font-style: italic;">the reasoning used in frequentist
+(classical) inference depends on thinking about all possible suitable
+samples of the same size n.&nbsp;</span>Which samples are considered
+"suitable" will depend on the particular statistical procedure to be
+used. Each statistical
+procedure has <span style="font-style: italic;">model assumptions</span>
+that are needed to ensure that the reasoning behind the procedure is
+sound.</html></blockquote>
+
+[www.stat.columbia.edu](http://www.stat.columbia.edu/~gelman/research/unpublished/power4r.pdf):
+<blockquote> Conventional signiﬁcance levels tell us how often the observed test statistic
+would be obtained if there were no eﬀect, but one should also ask how often the observed
+test statistic would be obtained under a reasonable assumption about the size of eﬀects</blockquote>
+
+[carcinisation.com](http://carcinisation.com/2014/07/20/the-mark-of-an-ergodic-crab/):
+
+<blockquote><html> We’re going to learn about ergodicity with a pretty crabby extended metaphor.</html></blockquote>
+
+[andrewgelman.com](http://andrewgelman.com/2014/07/23/world-without-statistics/):
+
+<blockquote><html>  Statisticians from Francis Galton and Ronald Fisher onward have used statistics to give us a much deeper understanding of human and biological variation.  I can’t see how any non-statistical, mechanistic model of the world could reproduce that level of understanding.  Forget about p-values, Bayesian inference, and the rest:  here I’m simply talking about the nature of correlation and variation.</html></blockquote>

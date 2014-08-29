@@ -1,0 +1,237 @@
+
+
+## Related work
+ 
+  * [[sensemaking]]
+  * [[visualization]]
+  * [@fisher2012distributed] - Distributed sensemaking
+  * [@bier2010principles] - Entity-based intelligence analysis tool. //Entities// are nouns. //Hypotheses// are sentences answering How? or Why? 
+  * [@poldrack2011cognitive] / http://www.cognitiveatlas.org/ - Collaborative ontology specifically for cognitive neuroscience
+  * [[http://www.slideshare.net/erik.duval/research20-12587487|Research2.0]]
+  * Timothy Gower's proposed journal replacement platform: http://gowers.wordpress.com/2011/10/31/how-might-we-get-to-a-new-model-of-mathematical-publishing/
+  * [[http://www.cs.umd.edu/hcil/ase/|Action Science Explorer]]
+
+## Research questions
+
+h3. Paper-centric
+
+  * What are the cognitive processes that people undergo when making sense of an academic paper?
+    * Hypothesis: It varies based on their prior knowledge/expertise ([@chi1981categorization]).
+  * What are the physical artifacts that can be made by individuals in the process or aftermath of making sense of an academic paper?
+    * Hypothesis: Influenced by the environment in which they access the paper.
+  * How can other people use physical artifacts made by others to more effectively or efficiently make sense of an academic paper?
+    * Hypothesis: links to other sources are important (Ruogu's previous work)
+      * Why and under what conditions would this be true?
+        * Analogical comparison - comparing two results or two methods or two concepts to get at their underlying abstraction
+        * Evaluate background for an assumption in this paper
+        * Evaluate effect of taking this paper as assumption in further work
+        * Simply a better explanation of a concept in this paper
+    * Hypothesis: ways to categorize are important ([@fisher2012distributed])
+    * Hypothesis: expert schema may be incomprehensible to novice
+  * How can these artifacts be used to improve the paper (i.e. a generalization of the peer review & revision system)?
+    * In what ways have we used cognitive models to improve presentation or organization of information?
+      * [[cognitive load]] theory/[[worked examples]]/[[multimedia learning]] principles
+        * ...but domain specifically?
+  * What tools support making and sharing these artifacts?
+    * Tools for cross-referencing
+
+h3. Q&A sites
+
+  * How do people assess validity in Q&A sites?
+    * [@tausczik2011predicting]
+  * Why do people (esp. scientists) contribute to Q&A sites?
+    * [@tausczik2011participation]
+  * Would it be worth setting up a Q&A community for certain academic communities?
+    * How to filter the people?
+    * How to filter the content?
+  * How can content be reorganized/consolidated?
+  * Is question-centered better than paper-centered?
+  * Is question-centered/social better than topic-centered/encyclopedic?
+    * What are the affects of social signals on learning?
+  * Are people able to find the content that is relavent to them?
+
+h3. Individual learning
+
+  * When is an endpoint of learning reached?
+  * How can an individual store and organize the information they encounter?
+
+## Citation usage study
+
+Possible things to code:
+  * Who sent the message
+  * To whom the message was sent
+  * Whether attention was pointed to something within a citation
+  * Whether multiple citations were related
+  * Content keywords associated to a citation
+  * Types of interest associated to a citation
+    * Interesting method used
+    * Interesting empirical result
+    * Interesting literature review
+
+[[Citation usage data]]
+
+## Reading pilot study
+
+Method
+  * Sent two papers from CHI 2012 to HCII PhD student list, Talking in Circles and Touche. 
+  * Asked participants to highlight and 3-5 "takeaway points"
+  * Highlights made by previous participants were made available for future participants
+
+## Online communities
+
+h3. Physics 
+
+  * http://www.technologyreview.com/blog/arxiv/
+  * http://physics.stackexchange.com/
+
+Popular tags on StackExchange (can be used for narrowing into a domain)
+
+  * quantum-mechanics× 1054
+  * quantum-field-theory× 593
+  * electromagnetism× 573
+  * general-relativity× 456
+
+Examples:
+
+http://physics.stackexchange.com/questions/29300/lorentz-spinors-of-son-1-and-conformal-spinors-of-son-2
+cites a book and explains a bit
+
+http://physics.stackexchange.com/questions/13870/gauge-symmetry-is-not-a-symmetry 
+mostly answered in the thread, second answer links to wikipedia, third to an arxiv paper and another stackexchange thread
+
+h3. Math
+
+http://mathoverflow.net
+
+Popular tags:
+
+  * ag.algebraic-geometry× 4677
+  * nt.number-theory× 2950
+  * reference-request× 1966
+  * at.algebraic-topology× 1740
+  * co.combinatorics× 1724
+  * gr.group-theory× 1682
+  * pr.probability× 1501
+  * dg.differential-geometry× 1471
+  * ct.category-theory× 1324
+  * rt.representation-theory× 1271
+  * ac.commutative-algebra× 1191
+  * fa.functional-analysis× 1087
+  * linear-algebra× 1073
+  * lo.logic× 1013
+
+Examples:
+ 
+  * http://mathoverflow.net/questions/58188/are-nontrivial-integer-solutions-known-for-x3y3z33 - Open problem, several references cited
+  * http://mathoverflow.net/questions/9731/polynomial-representing-all-nonnegative-integers - "New" open problem, one old reference cited, several stabs at it
+  * http://mathoverflow.net/questions/69389/riemann-hypothesis-via-absolute-geometry - Asking about approaching a classic problem with a certain approach
+  * http://mathoverflow.net/questions/90700/where-is-number-theory-used-in-the-rest-of-mathematics - Making sense of a field and its applications across math
+  * http://mathoverflow.net/questions/71727/is-there-a-basic-number-theory-for-elliptic-curves - Kind of a lit review with an interesting "meta" history behind it
+  * http://mathoverflow.net/questions/23593/open-project-lets-compute-the-fourier-expansion-of-a-non-solvable-algebraic-maa - A couple people solving a (computational math) problem together
+  * http://mathoverflow.net/questions/42406/why-certain-diophantine-equations-are-interesting-and-others-are-not - "Why are we learning this?" for adults
+
+Big list of listservs http://archives.math.utk.edu/news.html
+
+  * Category theory http://blog.gmane.org/gmane.science.mathematics.categories
+  * Algebraic topology: http://www.lehigh.edu/~dmd1/algtop.html
+
+h3. Other
+
+  * http://www.h-net.org/~edweb/
+  * http://listserv.aera.net/scripts/wa.exe?HOME
+
+## Meeting notes
+
+h3. June 12, 2012
+
+Possibilites:
+  * Sensemaking within one paper 
+    * domain experts vs not
+  * Sensemaking for a group of papers
+    * cross-referencing
+    * answering specific question
+    * summarizing a topic
+
+Can we get data directly from online community?
+
+Mathoverflow, physics, theoretical CS, statistical analysis 
+
+h3. May 29, 2012
+
+  * A reasonable goal: can we improve the time it takes to make sense of a paper by using the work of other people?
+  * A stretch goal: revolutionize the publishing industry
+
+What are the goals of someone reading an academic paper? Does this fit with the sensemaking loop? ([@card2005science])
+
+Two artifacts: highlights and takeaway points
+
+Cognitive artifacts: schema, chunks 
+
+  * Are they independent? Do they both add value?
+  * Evaluating the quality of participants' work
+    * Get experts opinions (experts in the field, authors of the paper)
+
+h3. Meeting with Niki
+
+  * sharing at the chunk level
+  * how to link together
+    * A and B are related
+  * not enough time for paper sharing
+  * look at how people take and integrate chunks from a single paper
+  * indicate interest within a paper and generate other interesting things
+  * start at the citation granularity -- maybe pull apart sections "intro", "data", etc. PLoS for open and parseable stuff?
+  * opportunities for pilot
+    * interesting papers from CHI
+    * lab meeting
+    * course
+
+
+----
+Once your paper was up, anybody who wanted to would be able to respond to it. Posting a response would be a bit like posting an answer to a question on Mathoverflow, and as with Mathoverflow it would be possible to make comments, either on the paper itself or on people’s responses to it. Also as with Mathoverflow, it would be possible to vote up people’s responses, which would give them reputation points.
+
+
+What would be in a typical response? It could be anything useful: obvious possibilities would be a description of the main results for the non-expert, an evaluation of the paper, an explanation of what the paper contributes to its area, an assessment of how big that “area” is, a list of minor errors, and so on. [[http://gowers.wordpress.com/2011/10/31/how-might-we-get-to-a-new-model-of-mathematical-publishing/|How might we get to a new model of mathematical publishing? « Gowers's Weblog]]
+----
+Most of the time, what makes one feel that an important result is “truly established” is, these days, not the fact that it eventually appears in a good journal, but the fact that it is read and understood by people in the field, who are likely to be able to sense if there is something fishy about the proof. If the result is sufficiently interesting, then that tends to happen long before the paper comes out.
+
+
+With an online system of the kind I’m talking about, one could have more transparency about this process. Someone could write a response saying, “I haven’t checked this line by line, but the paper is based on a very nice idea, which I basically understand, and it’s quite clear that the details can be made to work.” [[http://gowers.wordpress.com/2011/10/31/how-might-we-get-to-a-new-model-of-mathematical-publishing/|How might we get to a new model of mathematical publishing? « Gowers's Weblog]]
+----
+Why do we need this measure? One of the main reasons is that we find ourselves having to judge other mathematicians, notably when hiring them. We get their CVs and publication lists, and we have a look through the latter to see what kinds of journals they are getting their papers published in. But if they are lucky and get an indifferent paper accepted by a very good journal, it will be very difficult for anyone but an expert to know this — and the unfortunate fact is that we often have to judge people who work in areas we don’t know much about. We also have only a rather vague idea of the relative quality of many journals. The one document that could really help us, the referee’s report, is strictly private. [[http://gowers.wordpress.com/2011/10/31/how-might-we-get-to-a-new-model-of-mathematical-publishing/|How might we get to a new model of mathematical publishing? « Gowers's Weblog]]
+----
+Somebody gets the website up and running, and people start submitting their papers to it, as well as submitting them for publication in the normal way. Then if the new method works in the way I think it should, it will gradually be realized that the extra information one gets from the fact that a paper has been accepted in a journal is close to zero, and the journal system will wither away. If it doesn’t work, then it’s the site that withers away: it goes down in history as yet another online initiative that failed to take off. [[http://gowers.wordpress.com/2011/10/31/how-might-we-get-to-a-new-model-of-mathematical-publishing/|How might we get to a new model of mathematical publishing? « Gowers's Weblog]]
+----
+I forgot to mention one other aspect of an online system that would in my opinion be a huge advantage. It’s that there are many kinds of mathematical communication that do not get published in journals because they are “the wrong kind of thing”. For example, if you write an essay about why certain promising approaches to a problem don’t in fact work, then unless you can express it precisely in the form of a mathematical theorem (a famous example of this is Razborov and Rudich’s Natural Proofs paper), then you won’t get it published. Similarly, if you rewrite an existing proof in a much clearer way, you won’t get that published either, even if what you’ve done is far more useful to other mathematicians than yet another obscure theorem. On this site, you could submit mathematical documents of all kinds, perhaps giving them labels such as “new result” or “exposition of existing result” or “discussion of open problem”. If these were good enough, you would get glowing responses to them. Perhaps this could lead to a cultural shift towards giving more value to mathematical activities other than proving theorems. [[http://gowers.wordpress.com/2011/10/31/how-might-we-get-to-a-new-model-of-mathematical-publishing/|How might we get to a new model of mathematical publishing? « Gowers's Weblog]]
+----
+Mathoverflow reputation points work because we know that they’re just a game. If they actually mattered, then abuses of the system and all manner of unpleasantness would be much more likely. [[http://gowers.wordpress.com/2011/11/03/a-more-modest-proposal/|A more modest proposal « Gowers's Weblog]]
+----
+A useful aspect of the current system is that journals fix an official version of an article, which can then be the one that other articles refer to. [[http://gowers.wordpress.com/2011/11/03/a-more-modest-proposal/|A more modest proposal « Gowers's Weblog]]
+----
+That’s where www.howsmypreprint.com comes in. (The suggestion for a name is of course not serious.) You put your preprint on the arXiv and you create a page on Howsmypreprint, wait a little while, and then a few weeks later (or perhaps much sooner if the system really works) you get a list of typos, small errors, big errors if there are any, suggestions for how to improve the presentation, and so on.
+
+
+But why is anybody ready to do that for you? Here’s where a suggestion of Andrew Stacey comes in: if you want your paper checked over in this way, then you have to pay for that service by doing it for other people. In other words, you accrue points for working on other people’s papers, and you spend them when they do work on yours. [[http://gowers.wordpress.com/2011/11/03/a-more-modest-proposal/|A more modest proposal « Gowers's Weblog]]
+----
+Annotation and comment events are triggered when users create, edit, or delete annotations and comments while viewing a document. Event types follow the form annotation.* and comment.* for annotations and comments respectively where * is one of create, update, or delete. [[https://crocodoc.com/docs/webhooks/|Webhook Documentation | Crocodoc]]
+----
+Action Science Explorer
+
+Tools for Rapid Understanding of Scientific Literature [[http://www.cs.umd.edu/hcil/ase/|Action Science Explorer (Formerly iOpener Workbench)]]
+----
+1. The time lag is huge; it’s measured in months, or even years. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]
+----
+2. Most academic publications are inaccessible outside universities. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]
+----
+3. Virtually no one reads most academic publications. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]
+----
+4. It’s very unusual to make successful philosophical arguments in paper form. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]
+----
+5. Papers don’t have prestige outside a narrow subset of society. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]
+----
+6. Getting people to read papers is difficult. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]
+----
+7. Academia selects for conformity. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]
+----
+8. Papers have a tradition of violating the bottom line rule. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]
+----
+9. Academic moderation is both very strict and badly run. [[http://rationalconspiracy.com/2012/06/20/why-academic-papers-are-a-terrible-discussion-forum/|Why Academic Papers Are A Terrible Discussion Forum « The Rationalist Conspiracy]]

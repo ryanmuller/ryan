@@ -1,0 +1,49 @@
+
+
+## Philosophy
+
+Kill information overload. Get deeper with great things. Christmas morning.
+
+## Content possibilities
+
+  * News
+  * Great literature and other works of art
+  * Music playlists
+  * How to learn X
+  * Funny stuff
+  * Intellectual topics
+
+## Method
+
+Use
+  * expert curation
+  * + machine learning
+  * + crowdsourcing
+to create curated content, bundled and periodically delivered, personalized (maybe..?). 
+
+Somehow encourage users to
+  * Deeply process content
+  * Cut off extra information sources
+
+How to find experts?
+  * Combine with something like quora?
+  * Recruit paid experts
+  * Bootstrap from crowdsourcing and small human team, eventually reputation of members used to determine expertise
+
+What to use machine learning for?
+  * Aggregating sources for experts
+    * Google news with keywords
+    * Twitter tags
+    * Google reader with relevant blogs
+  * Understanding click data from previous deliveries
+
+## Related work
+
+  * Curated news sources
+    * The Browser / Five books
+    * Arts and letters daily
+  * Magazines
+  * old school Audiogalaxy
+  * Podcasts
+  * Year-end best X lists
+

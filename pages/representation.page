@@ -1,0 +1,22 @@
+
+
+
+## Bibliography
+
+{{page>kbib:representation}}
+
+## Clips
+
+[www.quora.com](http://www.quora.com/Cognitive-Science/Why-is-it-so-much-easier-to-think-on-paper-than-on-computer/answer/Joel-Chan):
+
+<blockquote><html>From the perspective of cognitive science, this question can be framed in terms of representational affordances and the match of those affordances with the required task. In other words, different cognitive tasks have particular characteristics and requirements, and different representation formats (paper, CAD drawings, pseudocode, sketches, etc.) *afford* particular operations better than others, in a similar way that a screwdriver can be used to hammer in a nail, but a hammer *affords* that same action better. That's an admittedly sketchy description of the notion of affordances, but I hope it's enough for this purpose.<br><br>In the 1990's, a guy named Vinod Goel did some really nice work on this very topic[*], and in particular compared sketching with CAD modeling in terms of effectiveness for early ideation (coming up and playing around with rough ideas), and argued that sketches are better for this type of cognitive task (which I'm interpreting as similar to your "thinking with" for rough clarification) because of its inherent vagueness and indeterminacy, allowing for exploration, whereas CAD models and drawings are more "fixed" and don't afford variation and exploration as easily. <br><br>More generally, in the field of design there's a lot of emphasis on the importance of sketching, with some design researchers emphasizing the notion of "reflective conversations" with sketches, making and modifying tentative design moves, and sometimes being surprised with new insights when re-visiting older sketches[**].<br><br>I think generational differences in terms of familiarity with paper vs computer representational formats have something to do with things, but I think the more critical variable is the "affords easy exploration" factor. With the rise of more and more intuitive UI in ideation tools (see, e.g., Bret Victor's design concepts for such tools[***]), I think we will see less and less of a sharp preference for "thinking with paper" as UIs begin to increasingly afford exploration, with representation formats that are increasingly easier to modify and revisit and reason with.<br><br>[*] see the dissertation in published book format: Sketches of Thought, <span class="qlink_container"><a href="http://amzn.to/M3bUVT" rel="nofollow" class="external_link" target="_blank">http://amzn.to/M3bUVT</a></span><br>[**] see, e.g., Suwa, M., &amp; Tversky, B. (1997). What do architects and students perceive in their design sketches? A protocol analysis. <i>Design Studies</i>, <i>18</i>(4), 385-403. (<span class="qlink_container"><a href="http://psych.stanford.edu/~bt/diagrams/papers/Suwatversing%20designstudics97.pdf" class="external_link" target="_blank">http://psych.stanford.ed<wbr>u/~bt/di...</a></span>), and also look up Donald Schon<br>[***] YouTube video of Bret Victor's talk: </html></blockquote>
+
+
+Khan Academy: Intuitive derivative exercise
+
+{{pages:notes_grounded_representation01.png}}
+
+Eliane: grounded fraction representation
+
+{{pages:notes_grounded_representation02.png}}
+

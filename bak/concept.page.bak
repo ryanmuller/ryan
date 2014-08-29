@@ -1,0 +1,80 @@
+
+
+According to [@chi1989self], knowing a concept involves knowing:
+<blockquote>
+  - The conditions of application of the actions;
+  - The consequences of actions;
+  - The relationship of actions to goals;
+  - The relationship of goals and actions to natural laws and other principles.
+</blockquote>
+
+## Conceptual instruction
+
+
+[@rittle1999conceptual] conclude that "conceptual knowledge may have a greater influence of procedural knowledge than the reverse." In their experiments on solving mathematical equivalence problems, while both conceptual and procedural teaching led to learning some of the other, conceptual teaching led to greater transfer. 
+
+[@rittle2001developing] consider learning mathematics an iterative process of conceptual understanding and procedural skill. They find that both the procedural and conceptual knowledge that students learned helped them develop a better representation of decimal numbers.
+
+[@rittle1999conceptual] uses this lesson:
+<blockquote>
+Because there is an equal sign (point to the equal sign), the amount before it (sweep hand under left side of equation) needs to equal the amount after it (sweep hand under right side of equation). That means that the numbers after the equal sign (sweep hand under right side of equation) need to add up to the same amount as the numbers before the equal sign (sweep hand under left side of equation).
+</blockquote>
+in contrast to a procedural lesson:
+<blockquote>
+There is more than one way to solve these problems, but one way is like this. Because there is a (number) here and a (number) here (point to the repeated addends), all you need to do is add the (number) and the (number) together (point to the nonrepeated addends).
+</blockquote>
+
+## Measuring conceptual knowledge
+
+Three measures are used by [@chi1989self]:
+<blockquote>
+  - Solutions to isomorphic problems;
+  - Solutions for far transfer problems;
+  - Explanations generated while studying examples.
+</blockquote>
+
+An example for mathematical equivalence from [@rittle1999conceptual]:
+
+{{pages:conceptual_knowledge01.png}}
+
+[@rittle2011assessing] develop a more complete "construct model" for mathematical equivalence:
+
+{{pages:conceptual_knowledge02.png}}
+
+See the paper's appendix for the assessment items.
+
+## Conceptual change
+
+[@chi2008three] identifies //entity// vs. //process// and //direct process// vs. //emergent process// as common categorical mistakes that prevent conceptual change
+
+[@carey2009origin] covers many aspects of conceptual change in [[:development]] and in the history of science. She talks about incommensurate conceptual change, where the ideas in one theory can be expressed in the same language as the ideas in another (e.g. the concept of density is not understand in young children) 
+    * Black - heat and temperature
+    * Kepler: shift from self-provided motion to motion from distance object
+    * Maxwell
+
+  * [@moss1999developing] describes teaching of rational numbers
+  * [@smith2007bootstrapping] describes teaching continuous matter
+  * [@wiser2002computer] describe teaching thermal phenomena
+  * See [@donovan1999people]
+
+Examples:
+
+  * Newton's third law: big car crashing into little car exerts more force -> forces are equal and opposite
+  * Fraction equivalence: 1/2 != 2/4 != 0.5 -> a number can be written many ways but represents the same physical amount
+  * Adding fractions: add all the stuff above the lines and add all the stuff below the lines -> when dominators are equal, we just need to add up the numerators
+  * A small amount of stuff is nothing -> stuff is continuous; it can be divided forever (-> actually stuff really is quantized)
+  * Teleologic process -> natural evolution, improvement as an emergent process
+
+## Analogy and generalization
+
+See [[analogy]] and [[generalization]].
+
+According to [@chi1989self], two theories:
+  * Inducing a principle from multiple examples
+  * From a single or a few examples using [[self-explanation]]
+
+## Bibliography
+
+{{page>kbib:conceptual_knowledge}}
+
+{{page>kbib:conceptual_change}}

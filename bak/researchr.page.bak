@@ -1,0 +1,145 @@
+
+
+The system behind what you see here. Powerful citation management with support for highlighting and summarizing articles.
+
+See [[stian>researchr:start|Stian's page]]. [[https://github.com/cicatriz/folders2web|My fork]]. [[https://github.com/houshuang/folders2web/compare/houshuang:master...cicatriz:master|Comparison]].
+
+## Process
+
+See also [[researchr analytics]]
+
+h3. An overall process
+
+  * Get new input by reading other people's blogs (or wiki RSS if the work is very closely related), going to conferences, and doing research.
+  * On wiki: Take notes and summarize -- already works quite well
+  * On wiki: Synthesize ideas from notes into keyword-based pages.
+  * On blog: Announce and give perspective to interesting observations, new results or technologies, and ongoing conversations. Use blog language to pitch the idea; link to wiki with the gory details.
+  * Repeat.
+
+h3. Front page rotation process
+
+Choose a small, fixed number of things to keep on my front page list. Talk about each of these things in my weekly review. Rotate a few out each week. 
+
+## Instructions
+
+These instructions are out of date. It's easier now! Contact me or Stian for help.
+
+h3. Warning
+
+  * You need a Mac. Unless you are adventurous enough to set up something similar on another platform!
+  * The setup process is long. But I can help you!
+
+h3. Setup
+
+h4. Download and install the following programs
+  * BibDesk, a reference manager http://bibdesk.sourceforge.net/
+  * Skim, a PDF reader http://skim-app.sourceforge.net/
+  * KeyboardMaestro, a keyboard shortcut program http://www.keyboardmaestro.com/
+    * The only one that's not free. But you'll be convinced within the time of the free trial.
+  * Dokuwiki, a wiki software http://reganmian.net/files/wikiclean.zip
+  * The researchr scripts 
+    * If you don't want to use Git https://github.com/houshuang/folders2web/zipball/master
+    * Or use Git to fork from https://github.com/houshuang/folders2web which will allow you to make changes and get updates
+
+h4. Set up the scripts
+  * Extract to some directory
+  * Change the settings-dist.rb file as appropriate
+  * Customize other hard-coded file locations
+    * Path to ''kindle-mount.rb'' within ''kindle-mount.sh'' if you want to import Kindle highlights automatically
+    * ''ruby.rb'' -- haven't actually used this myself
+    * Path to Desktop within ''skim-tools.rb''
+    * Path to your server in ''wiki.sh'' and ''wiki-lite.sh'' if you have one set up (explained below) 
+
+h4. Set up Dokuwiki
+  * http://www.dokuwiki.org/install:macosx 
+    * Use the wikiclean zip from above instead of the one they link to
+  * If you installed to ~/Sites, then enter the following in terminal: ''ln -s /Users/{your Mac login name]}/Sites/wiki /wiki''
+    * This will let you access wiki files from ''/wiki'', which is assumed by the researchr scripts by default.
+
+h4. Set up Keyboard Maestro
+  * Open keyboard_maestro.kmmacros
+  * Change the file locations to point to your ''folders2web'' directory.
+  * You may just want to focus on a few at a time as you get used to it--after time, you'll want them all!
+
+h4. Set up Google Scholar for Bibtex import option
+  * See bottom of http://scholar.google.com/scholar_preferences
+
+h4. Configure BibDesk
+  * Open BibDesk > Preferences (or ⌘,)
+    * Under "General", choose a .bib file to save your Bibliography.
+    * Under "Fields", set your PDF viewer as Skim.
+    * Under "AutoFile", choose a folder to save and rename your PDFs.
+
+h4. Set up a web server for online hosting
+
+Coming soon
+
+h3. Usage
+
+h4. Getting a reference
+  * Find it on Google Scholar http://scholar.google.com.
+  * Open the PDF and save it to ~/Downloads (usually the default).
+    * Researchr will grab the last file saved to ~/Downloads, so you should do one reference at a time.
+  * Click the "Import into BibTeX" link.
+  * Press ⌃⌥⌘B (that's control+option+command+B) to import the **b**ibtex info.
+    * The reference will be imported and highlighted in Bibdesk.
+  * Press ⌃⌥⌘L to **l**ink the PDF in Bibdesk.
+    * The PDF will be attached to the reference and moved to the location specific in Bibdesk's preferences.
+  * Press ⌘E to **e**xport the reference to the wiki. (Optional. The reference page can also be created by exporting from Skim.)
+
+h4. Viewing a reference
+
+  * Open the reference with Skim from either Bibdesk (by double-clicking the attached PDF) or clicking the PDF link in the wiki.
+  * Highlight parts of the document that you'd like to save.
+  * Take a screenshot by pressing ⇧⌘4 then press ⌃⌥⌘C to **c**ache the image for export.
+  * Press ⌘E to **e**xport the highlights, notes, and images to the wiki.
+
+h4. Importing from the web
+
+  * Select text and press ⌃⌥⌘I to **i**mport.
+  * Type the name of the page you'd like to add to. If the page doesn't exist, it will be created.
+
+h4. Importing from Kindle
+
+Coming soon
+
+h4. Updating the bibliography on the wiki
+
+This step only needs to happen as often as you want author and keyword pages updated. I usually don't do it unless I specifically need it.
+  * In Terminal, move the ''folders2web'' directory
+  * Type ''ruby bibtex-batch.rb''
+
+h4. Updating your web server
+
+  * In Terminal, move the ''folders2web'' directory
+  * Type ''./wiki.sh''
+
+You may need to enter your password for the server.
+
+h4. Setting access control
+
+Coming soon
+
+## Stuff I've added
+
+  * Automatically generate keyword pages, including a page for notes and the associated kbib page. This way I can easily summarize concepts, which I find ultimately preferable to summarizing papers. See [[https://github.com/cicatriz/folders2web/commit/5bad2988abf7cc3fd12d4e7e9a8369481def1674#bibtex-batch.rb|first]] and [[https://github.com/cicatriz/folders2web/commit/5b8cf714c78014e8b0c5af1a5e907d26350b5272#bibtex-batch.rb|second]] commits.
+  * dokuwiki.rb newgist will create a page in the gist/ directory. Here's how I use it:
+
+<blockquote>
+I'm reading a big literature review article, which I'm summarizing here: http://learnstream.org/wiki/scientific_thinking (not on the reference page since I plan to reorganize and add more). For each of the interesting references it mentions, I go through the process of getting them into bibdesk, then I ctrl-opt-cmd-G and summarize the article either from what the review says about it or by reading some of it. Then close it and manually type the page include into the scientific_thinking page that is still open. 
+</blockquote>
+
+  * dokuwiki.rb log will prompt for a brief message and then create or append to a file in the log directory. The log file will be included in the page of the same name in the root namespace, if one exists. I use ctrl-opt-cmd-L from Chrome. It's very quick to add to a page and kept chronologically, so I feel like it's a better way to collect quick thoughts. See them littered around this wiki for examples.
+
+## Wish list
+
+  * "Keywords that share references with this keyword" to automatically group related concepts
+    * Suggest two categories that have too much overlap, suggesting to reduce to one
+    * Highly correlated categories that aren't overlaps
+    * Suggest categories that seem to be a subset of another
+    * Categories frequently matched through another category
+    * Random category pairs -- just interesting to see what exists, if anything, at the intersection of two (or more) categories
+  * Easy way to pull and resize images from websites (could use ImageMagick on command-line or Applescript in some image editor) and support Delicious-like captions (white text on semi-transparent black background).
+
+----
+  * [[http://perlsteinlab.com/|Ethan Perlstein :: Evolutionary Pharmacology]]

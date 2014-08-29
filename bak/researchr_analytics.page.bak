@@ -1,0 +1,37 @@
+
+
+## Overall
+
+  * Number of edits
+    * Sparkline -> how active have I been?
+  * Enhancing front page topics
+    * Representation of amount of recent activity -> what has been deteriorating?
+    * Can/should they be automatically generated?
+
+## References
+
+  * Keyword frequency visualizations  -> what have I been reading about?
+    * Need: links to keywords
+    * Try tag cloud? 
+    * Do frequencies really matter?
+  * Recently added citations and amount of notes taken -> which of these were interesting (or, where is there a discrepancy between interestingness and amount of notes)?
+  * Frequently cited references -> which work actually forms my background?
+  * Number read per day -> how active have I been?
+
+## Ideas
+
+  * How to classify?
+    * Inspiration
+    * Opportunities - where the idea could be applied
+    * Constraints - facts about the world or the user that shape the idea
+    * Observations
+    * Implementation - tools, etc for bringing the idea to life
+  
+## Writing/thinking
+
+  * Amount of writing accomplished
+    * Formal vs casual?
+    * Forms: paper, mini lit review, brainstorm
+  * Some kind of concept mapping of topics
+
+## Data

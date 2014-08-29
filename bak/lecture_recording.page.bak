@@ -1,0 +1,21 @@
+
+
+
+----
+I've heard it asked by more than one person why anyone would record a bad lecture. But bad lectures, writes Donald Clark, can be improved through recording them. Really? He summarizes "this wonderful little study by Pierre Gorrisen, delivered at the ALT conference": 
+
+1. Students watch lots of recorded lectures at home on their own time 
+
+2. No technical problems - we live in a YouTube world 
+
+3. Students watch lectures many times 
+
+4. Students dont watch the whole lecture; they're smart, so they fast-forward 
+
+5. Students want ALL lectures recorded 
+
+6. Recorded lectures increase the pass rate 
+
+7. The fact that you can skip the bad bits, replay and watch it several times actually improves the experience.  [[http://www.downes.ca/cgi-bin/page.cgi?post=56265|Recording can improve a bad lecture! 7 surprising facts about recorded lectures ~ Stephen's Web]]
+----
+Remote viewing of lectures presented to a live audience is becoming increasingly popular. At the same time, the lectures can be recorded for subsequent on-demand viewing over the Internet. Providing such services, however, is often prohibitive due to the labor-intensive cost of capturing and pre/post-processing. This article presents a complete automated end-to-end system that supports capturing, broadcasting, viewing, archiving and searching of presentations. Specifically, we describe a system architecture that minimizes the pre- and post-production time, and a fully automated lecture capture system called iCam2 that synchronously captures all contents of the lecture, including audio, video, and presentation material. No staff is needed during lecture capture and broadcasting, so the operational cost of the system is negligible. The system has been used on a daily basis for more than 4 years, during which 522 lectures have been captured. These lectures have been viewed over 20,000 times. [[http://dl.acm.org/citation.cfm?id=1324293|An automated end-to-end lecture capture and broadcasting system]]

@@ -1,0 +1,48 @@
+
+
+## Techniques
+
+(Taken from Carolyn Rose's Applied Machine Learning slides)
+
+h3. Creating train/test pairs
+
+{{pages:weka01.png}}
+{{pages:weka02.png}}
+{{pages:weka03.png}}
+{{pages:weka04.png}}
+{{pages:weka05.png}}
+{{pages:weka06.png}}
+{{pages:weka07.png}}
+
+h3. Doing manual train/test
+
+
+{{pages:weka08.png}}
+{{pages:weka09.png}}
+{{pages:weka10.png}}
+{{pages:weka11.png}}
+{{pages:weka12.png}}
+
+h3. Using the experimenter
+
+{{pages:weka16.png}}
+{{pages:weka15.png}}
+{{pages:weka14.png}}
+{{pages:weka13.png}}
+{{pages:weka17.png}}
+{{pages:weka18.png}}
+{{pages:weka19.png}}
+{{pages:weka20.png}}
+{{pages:weka21.png}}
+{{pages:weka22.png}}
+{{pages:weka23.png}}
+{{pages:weka24.png}}
+{{pages:weka25.png}}
+{{pages:weka26.png}}
+
+h3. Do analysis
+
+{{pages:weka27.png}}
+{{pages:weka28.png}}
+{{pages:weka29.png}}
+CSV output

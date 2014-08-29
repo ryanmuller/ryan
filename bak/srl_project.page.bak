@@ -1,0 +1,129 @@
+
+
+## Background
+
+What are the tasks that learners are doing when they might use the system? What are their cultural approaches?
+  * [@nicol2006formative]
+  * [@ringberg2007cultural], [@lee2009designing] - Understand users' cultures in relationship with service
+  * [@kornell2009learners] - Believe self-testing is not that helpful for learning but use it to diagnose ability
+
+What are good strategies that should be used by students?
+  * [@roediger2006test] - Self-testing
+  * [@pintrich2004conceptual]
+
+When should we teach the strategies vs. afford them by the interface?
+
+Reasons to believe we should intervene on self-regulated learning:
+  * [@mitrovic2001investigating], [@long2011students] - Even with data, students don't self-assess or aren't able to connect the data to the learning process
+  * [@azevedo2008externally] - Externally regulated performed much better
+
+Examples of interventions:
+  * [@azevedo2008externally] - Human tutor promoting good strategies
+  * [@pavlik2008using1] - automatic scheduling of material
+  * Look at Kornell
+  * [@arroyo2007repairing] - present progress in-between problems
+
+What are the concerns related to assessment?
+  * See [@nicol2006formative], [@yorke2003formative]
+  * Children's reaction to assessment - Dweck
+  * Dependence on assessment - Boud, Bandura
+  * Better for students to have a "conversation" about what is expected of them. [@yorke2003formative]
+
+## Model
+
+{{pages:srl_project01.png}}
+{{pages:srl_project02.png}}
+
+http://prezi.com/scp5rxnk1r-b/model-for-studying/
+
+h3. Tasks
+**What tasks are people attempting to do when they use a particular system**
+
+  * Approaching a totally new domain
+  * Studying for a test
+  * Improving skills and knowledge more generally
+  * Attempting to complete an external assignment
+  * Maintaining proficiency
+    * This seems less common -- what are attitudes towards it?
+
+h3. Attitudes and habits
+
+  * How do users feel about system-driven decisions?
+    * Ex: reminders to study, evaluation of knowledge level
+  * What kind of role does the software play for the user? Teacher, peer, extension of self? 
+  * Conjecture: should not design system as an additional authority figure that dictates grades and ranks students, but also don't want to go too far with user choice -- the user should be able to overcome obstacles
+  * What do users expect from the system?
+
+h3. Transitions
+**How people move between states of the model**
+
+  * Assessment drives many transitions at the //system// level
+  * At any time, user can transition out of the system
+
+h3. Time
+  * short term (how long to continue on an item?)
+  * long term (how long to continue learning? when to visit?)
+
+h3. Systems
+
+  * Learning in forums (Art of Problem Solving) or QA sites (Stack/Math Overflow)
+    * What are the implications of not having any of the support features (e.g. perhaps just browse and view presentation)
+  * Alcumus
+  * more community-based (LiveMocha)
+
+h3. Constructing knowledge and re-representation
+
+h3. Strategy
+
+Strategies and actions (from [@azevedo2008externally])
+{{skim:azevedo2008externally1.png}}
+
+h3. Infrastructure
+
+  * //Student models// are used by system to help user **assess progress**, **choose items** (tells students what they need), **practice** (choosing items at the right difficulty for the student), **get feedback**, **get assistance** (feedback/assistance can be targeted to the student's weaknesses)
+  * //Assessments// are used to make transitions in the graph and inform student models
+    * Self-assessments can be used as well
+    * Informed by KLI?
+    * Different types of assessment
+      * Porfolio (e.g. web design)
+
+h3. User-driven vs. system-driven aspects
+
+  * Beging studying
+    * initiated by student or reminded by system (e.g. Nudge, KUI)?
+  * Strategize/select action
+    * goals set by student or provided by system?
+    * time estimations provided by system?
+    * select cognitive learning/thinking strategies? (what are these?)
+    * provide motivational rewards?
+  * Assess progress
+    * comparisons between problems or from concept to problem?
+  * Browse items
+    * items suggested by system?
+    * other ways of organizing?
+  * Practice
+    * items suggested by system?
+
+
+They may be more subtle system-driven or system-influenced aspects aligning to SRL. E.g. how a task is perceived, to what extent the student is goal-oriented, etc. See [@pintrich2004conceptual]
+
+## Research questions
+
+  * Are students able to use web resources in an effective way? 
+    * e.g. [@atkinson2007interactive] - they should be engaging with worked examples (but probably aren't)
+    * Do students assemble the right resources for their learning goals?
+  * What are attitudes towards learning in these environemnts? (see [@kornell2007promise])
+    * Which attitudes are important? (correlates with procrastination [@wolters2003understanding], correlates with motivation [@pintrich1990motivational])
+    * Do students take a mastery approach or use long-term planning?
+    * How do students react to failure ([@dweck1988social], Derek's data seems to show students reacting favorably)
+    * Do students use learning strategies, and how are these strategies affected by feedback from the system?
+    * How do students approach self-testing ([@kornell2009learners])
+  * How can students be assisted in using resources better?
+    * Turadg - remind students //when// to study, assist students in //how// to study by prompting for explanations in worked examples
+    * Ari Bader-Natal - using social features to scaffold motivation, assistance, etc.
+    * Yanjin - Open Learner Models for reflection
+    * Ruogu - how to share information with peers
+    * How can student models be used to adapt the service to students?
+      * How can assessments (perhaps including self-assessments) be used? 
+    * Better resources: ITS, high quality videos, etc.
+  * Can the system affect behaviors beyond?

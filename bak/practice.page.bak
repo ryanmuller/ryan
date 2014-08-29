@@ -1,0 +1,66 @@
+
+
+h3. How can the effects of practice be tested?
+
+[@schmidt1992new] warn that the performance during training is often a poor indication of how much learning has actually happened. They recommend using a retention phase to ensure the effects of the independent variable are not still affecting the performance. (In other words, does the skill being practice transfer outside of the context of the practice itself? See also [[transfer]].)
+
+h3. What differentiates practice with motor, verbal, and perceptual tasks?
+
+[@schmidt1992new] discusses both motor and verbal tasks, coming to similar conclusions. 
+
+h3. What is the desirable difficulties effect?
+
+See [@bjork2011making]. Bjork uses desirable difficulties to explain the benefits of interleaving task types (see below), spacing retrieval practice (see [[memory]]), and delaying feedback (see [[feedback]]). See [[memory and context]] for some discussion on the mechanism of desirable difficulties.
+
+h3. How should tasks be scheduled during practice?
+
+Studies have shown the benefit of interleaving topics when practicing:
+  * [@schmidt1992new] describe a number of studies
+  * Math problems were either blocked by type or randomly mixed. The randomly mixed group performed better in a retention test ([@rohrer2007shuffling]).
+
+"Random practice serves to keep the performer from generating a stable "set" for a particular task, and forces the learner to retrieve and organize a different outcome on every trial" ([@schmidt2007problem]). 
+
+See also [[Spaced versus parallel learning]]. 
+
+h3. What is deliberate practice?
+
+See the work of [[a:K Anders Ericsson]].
+
+h3. Can practice occur without conscious effort?
+
+See [@wright2010enhancing], http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3152.html
+
+h3. How does the spacing effect improve practice?
+
+See [[spacing effect]].
+
+## Personal examples
+
+Examples where the practice environment allowed me to quickly improve.
+
+[[Go]]: Well-designed lessons to teach judgement. Quick feedback cycle after physically choosing a move. Explains both why bad moves are bad and the correct move is correct.
+
+[[FreeCell]]: Attempt to finish game under a fixed time. Forces [stretching comfort level](learning#learning_and_confusion) to pick up patterns automatically. Can the feedback cycle be shortened to know when particular moves/decisions are good or bad in the longer run of the game?
+
+[[StepMania]]: Play songs, get score, repeat. Also micro-level feedback on each note. See [Perceptual Learning in Stepmania](http://blog.learnstream.org/2012/01/perceptual-learning-in-stepmania/)
+
+[[Language learning]]: Anki, Skritter, and DuoLingo provide immediate feedback on being able to produce correct language usage. Anki and Skritter apply an algorithmic [[spacing effect]], while DuoLingo lessons are crafted with a progressive and repetitive sequence.
+
+At [The Art of Problem Solving forums](http://www.artofproblemsolving.com/Forum/), people will pose problems and others with answer them and give feedback in replies.
+
+[[Haskell]] programming with hlint: Gives instant feedback on stylistic ways to improve code.
+
+Code reviews in [[programming]]: Personally relevant feedback on ways to improve code. But generally limited to style/surface-level feedback in practice.
+
+[Real World Haskell](http://book.realworldhaskell.org/read/), the online book, contains exercises with hidden comments. Try the exercises, then see what other people did by revealing the comments. Problem here though: quality control of comments.
+
+[[Geknowm]]: Not particularly successful but the idea was to rapidly practice the background knowledge before engaging with a topic (say, discussing what happened in the news, or reading a book).
+
+[Skritter](http://skritter.com)'s squib-level feedback is helpful for learning to write Chinese characters.
+
+## Links here
+ {{backlinks>.}}
+
+{{page>kbib:practice}}
+----
+Formative “assessment for learning”, when used as part of day- by-day teaching, has proven one of the most effective ways of enhancing student learning. This approach is very different from testing; it involves qualitative feedback to develop each student’s reasoning. [MAP: An Overview for Teachers](http://map.mathshell.org/materials/background.php)

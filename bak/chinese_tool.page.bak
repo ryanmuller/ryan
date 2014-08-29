@@ -1,0 +1,103 @@
+
+
+## Influences/building blocks
+
+  * Email game
+  * AJATT URL shuffler
+  * StumbleUpon
+  * Skritter bookmarklet
+  * [[capture tools]]
+  * Duolingo
+  * Language Immersion for Chrome
+
+## Description
+
+h3. Text
+
+Main process
+  * Pull up a website - something stored or something shared
+  * Timer counts down
+  * Mine some sentences for MCD. More sentences = more points
+  * When timer expires or "Next" button pressed, moves on to the next page
+
+Bonus 
+  * Pages automatically shared based on # of sentences that people mine from them.
+  * Ability to specify sequencing of pages. I.e. show page n before page n+1 (perhaps just specify how to extract ordinal number from URL)
+  * Guess readability of pages based on user model
+  * Pinterest-esque capturing and display, or just straight into SRS?
+  * Auto-generated simple quizzes from text?
+
+h3. Video
+
+One option: something like Duolingo but for transcribing video. Transcribed video can then be given the Text treatment (maybe even add some screenshots for comic book style)
+
+Tools:
+  * http://www.universalsubtitles.org/
+  * [[http://mozillapopcorn.org/popcorn-maker/|Popcorn Maker | Mozilla Popcorn]]
+
+Getting screenshots will probably be very hard unless video is downloaded. Could use multiple embedded videos set to different frames, but this gets computationally intensive.
+
+----
+Read articles
+
+
+Clear and uncluttered
+
+Highlights words you don't know automatically
+
+	
+
+Read books
+
+
+Read a book as a book
+
+Swipe, or use arrow keys to turn the page
+
+
+Knows what you know
+
+
+Skritter users can add their Skritter vocab
+
+Or add from any other source!
+
+	
+
+Provides a summary
+
+
+...of all the words and characters you don't know in a text
+
+
+Never not know a word
+
+
+Don't know a word? Hover your mouse over it
+
+	
+
+Customise to your liking
+
+
+Change text size, margins, line space on the fly
+
+Change all colours. Remembers the chosen font [[http://www.byzanti.co.uk/|Chinese Reader for OSX]]
+----
+I'm reading Moonwalking with Einstein ( http://amzn.com/0143120530 ), which is convincing me of the power of good mnemonics. 
+
+
+For Skritter, I think that means having really strong images for common components. For instance, I decided to use Chuck Norris for the 人 radical. In the section of RSH2 that introduces 人, I was able to blast through those mnemonics at probably double the speed and made far more memorable ones. 
+
+
+I propose a project where we come up with some strong images for as many components as we can. Each component may have a few suggestions that people can use in case someone is lacking the cultural reference. 
+
+
+What makes a strong image? We can discuss in this thread, but I'd say that it's a very specific PERSON or SETTING with many colorful characteristics (beard, cowboy hat, karate outfit). It also helps to have a certain style associated with it: Chunk Norris mnemonics can all just be ways that he is being awesome. 
+
+
+Why do this instead of just sharing mnemonics on Skritter as usual? I see two problems: 
+
+a) someone made a great mnemonic, but you don't want to use it because suddenly 人 is Chuck Norris.
+
+b) someone hasn't made a great mnemonic for the word you're studying, and there's no way of seeing what people may have done with the components. [[http://www.skritter.com/forum/post|Skritter | New Topic]]

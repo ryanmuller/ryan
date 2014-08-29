@@ -1,0 +1,329 @@
+
+
+[[statistics]]
+
+
+h3. What is the difference between protocol analysis and verbal analysis?
+
+Protocol analysis avoids explanations, which may affect learning, and tries to capture the process of problem solving. Verbal analysis rather focuses on these explanations and attempts to capture the representation of knowledge ([@chi1997quantifying]).
+
+h3. How is verbal analysis conducted?
+
+According to [@chi1997quantifying], there are eight steps:
+
+  - Reducing or sampling the protocols.
+  - Segmenting the reduced or sampled protocols (sometimes optional).
+  - Developing or choosing a coding scheme or formalism.
+  - Operationalizing evidence in the coded protocols that constitutes a mapping to some chosen formalism.
+  - Depicting the mapped formalism (optional).
+  - Seeking pattern(s) in the mapped formalism.
+  - Interpreting the pattern(s).
+  - Repeating the whole process, perhaps coding at a different grain size (optional).
+
+## Clips
+
+  * http://paulgraham.com/hamming.html
+  * http://learnlab.org/opportunities/summer/presentations/2011/CogTaskAnalysis-TA-DFA.pdf
+  * [@hadamard1954essay]
+
+
+One of the characteristics of successful scientists is having courage. Once you get your courage up and believe that you can do important problems, then you can. If you think you can't, almost surely you are not going to. Courage is one of the things that Shannon had supremely. You have only to think of his major theorem. He wants to create a method of coding, but he doesn't know what to do so he makes a random code. Then he is stuck. And then he asks the impossible question, “What would the average random code do?” He then proves that the average code is arbitrarily good, and that therefore there must be at least one good code. Who but a man of infinite courage could have dared to think those thoughts? That is the characteristic of great scientists; they have courage. They will go forward under incredible circumstances; they think and continue to think. Richard Hamming: You and Your Research
+
+I think that if you look carefully you will see that often the great scientists, by turning the problem around a bit, changed a defect to an asset. For example, many scientists when they found they couldn't do a problem finally began to study why not. They then turned it around the other way and said, “But of course, this is what it is” and got an important result. So ideal working conditions are very strange. The ones you want aren't always the best ones for you. Richard Hamming: You and Your Research
+
+What Bode was saying was this: “Knowledge and productivity are like compound interest.” Given two people of approximately the same ability and one person who works ten percent more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. Richard Hamming: You and Your Research
+
+Great scientists tolerate ambiguity very well. They believe the theory enough to go ahead; they doubt it enough to notice the errors and faults so they can step forward and create the new replacement theory. If you believe too much you'll never notice the flaws; if you doubt too much you won't get started. It requires a lovely balance. But most great scientists are well aware of why their theories are true and they are also well aware of some slight misfits which don't quite fit and they don't forget it. Darwin writes in his autobiography that he found it necessary to write down every piece of evidence which appeared to contradict his beliefs because otherwise they would disappear from his mind. Richard Hamming: You and Your Research
+
+For those who don't get committed to their current problem, the subconscious goofs off on other things and doesn't produce the big result. So the way to manage yourself is that when you have a real important problem you don't let anything else get the center of your attention - you keep your thoughts on the problem. Keep your subconscious starved so it has to work on your problem, so you can sleep peacefully and get the answer in the morning, free. Richard Hamming: You and Your Research
+
+If you do not work on an important problem, it's unlikely you'll do important work. It's perfectly obvious. Great scientists have thought through, in a careful way, a number of important problems in their field, and they keep an eye on wondering how to attack them. Richard Hamming: You and Your Research
+
+They are not important problems because we do not have an attack. It's not the consequence that makes a problem important, it is that you have a reasonable attack. That is what makes a problem important. Richard Hamming: You and Your Research
+
+Along those lines at some urging from John Tukey and others, I finally adopted what I called “Great Thoughts Time.” When I went to lunch Friday noon, I would only discuss great thoughts after that. By great thoughts I mean ones like: “What will be the role of computers in all of AT&T?”, “How will computers change science?” Richard Hamming: You and Your Research
+
+Most great scientists know many important problems. They have something between 10 and 20 important problems for which they are looking for an attack. And when they see a new idea come up, one hears them say “Well that bears on this problem.” They drop all the other things and get after it. Richard Hamming: You and Your Research
+I noticed the following facts about people who work with the door open or the door closed. I notice that if you have the door to your office closed, you get more work done today and tomorrow, and you are more productive than most. But 10 years later somehow you don't know quite know what problems are worth working on; all the hard work you do is sort of tangential in importance. He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important. Richard Hamming: You and Your Research
+By changing a problem slightly you can often do great work rather than merely good work. Instead of attacking isolated problems, I made the resolution that I would never again solve an isolated problem except as characteristic of a class. Richard Hamming: You and Your Research
+
+I have now come down to a topic which is very distasteful; it is not sufficient to do a job, you have to sell it. 'Selling' to a scientist is an awkward thing to do. Richard Hamming: You and Your Research
+I suggest that when you open a journal, as you turn the pages, you ask why you read some articles and not others. Richard Hamming: You and Your Research
+
+The technical person wants to give a highly limited technical talk. Most of the time the audience wants a broad general talk and wants much more survey and background than the speaker is willing to give. As a result, many talks are ineffective. Richard Hamming: You and Your Research
+
+For myself I find it desirable to talk to other people; but a session of brainstorming is seldom worthwhile. I do go in to strictly talk to somebody and say, “Look, I think there has to be something here. Here's what I think I see …” and then begin talking back and forth. But you want to pick capable people. Richard Hamming: You and Your Research
+
+There was a fellow at Bell Labs, a very, very, smart guy. He was always in the library; he read everything. If you wanted references, you went to him and he gave you all kinds of references. But in the middle of forming these theories, I formed a proposition: there would be no effect named after him in the long run. He is now retired from Bell Labs and is an Adjunct Professor. He was very valuable; I'm not questioning that. He wrote some very good Physical Review articles; but there's no effect named after him because he read too much. If you read all the time what other people have done you will think the way they thought. If you want to think new thoughts that are different, then do what a lot of creative people do - get the problem reasonably clear and then refuse to look at any answers until you've thought the problem through carefully how you would do it, how you could slightly change the problem to be the correct one. So yes, you need to keep up. You need to keep up more to find out what the problems are than to read to find the solutions. The reading is necessary to know what is going on and what is possible. But reading to get the solutions does not seem to be the way to do great research. So I'll give you two answers. You read; but it is not the amount, it is the way you read that counts. Richard Hamming: You and Your Research
+
+within your field you should shift areas so that you don't go stale. You couldn't get away with forcing a change every seven years, but if you could, I would require a condition for doing research, being that you will change your field of research every seven years with a reasonable definition of what it means Richard Hamming: You and Your Research 
+
+I went to my boss, Bode, one day and said, “Why did you ever become department head? Why didn't you just be a good scientist?” He said, “Hamming, I had a vision of what mathematics should be in Bell Laboratories. And I saw if that vision was going to be realized, I had to make it happen; I had to be department head.” When your vision of what you want to do is what you can do single-handedly, then you should pursue it. The day your vision, what you think needs to be done, is bigger than what you can do single-handedly, then you have to move toward management. And the bigger the vision is, the farther in management you have to go. Richard Hamming: You and Your Research
+----
+  * [](http://norvig.com/experiment-design.html)
+
+----
+But the Rachid lesson I want to emphasize here is about the danger of complexity. His approach was to always reduce a problem to its purest, most simple form. This is what leads to true understanding of the mathematical reality underlying the issue, he believed. Once you’re armed with this understanding, you can then, and only then, add back details (and the complexity they require) with confidence. [Study Hacks » Blog Archive » Some More Thoughts on Grad School](http://calnewport.com/blog/2012/05/17/some-more-thoughts-on-grad-school/)
+----
+I am realizing now, however, that my pace was still too slow. For example, I should have shot past independent probabilities and mastered techniques for bounded dependence. This is a natural — though difficult — next step that I avoided for too long.
+
+
+Over the past year, I’ve been systematically increasing my pace of skill learning (more on this soon), but if I had committed to this mindset with more purpose back in 2006, I’m embarrassed to think about the extraordinary impact on my work it might have had by now.
+
+
+Bottom Line: Treat your time as a graduate student like a professional musician treats his or her performance repertoire. If you’re not constantly straining yourself to learn more and perform better, you’re in danger of being left behind. [Study Hacks » Blog Archive » Some More Thoughts on Grad School](http://calnewport.com/blog/2012/05/17/some-more-thoughts-on-grad-school/)
+----
+If something seems “obvious” to you, it generally means one of two things: either you understand it so well that it has become intuitively grasped, or you don’t understand it at all. My experience tells me most people suffer from the latter condition.
+
+Richard Feynman creates a window into the strangeness of reality in his explanation of magnets. To most people, the effect of a magnet is mysterious—how does it repel things without contacting them? However, as Feynman explains, this reasoning is backwards, contact forces are based on these “mysterious” action-at-a-distance principles. [The Strangeness of Everyday Things « Scott H Young](http://www.scotthyoung.com/blog/2012/05/17/strangeness/)
+----
+True mastery of an idea tends to come with noticing its strangeness. Like the word you utter endlessly to hear the peculiarity of its sound, ideas begin confusing, become intuitive and end strange. This isn’t the strange that comes from confusion or frustration, but from seeing the idea from so many perspectives that you notice its sound, not just its semantics.
+
+Fake understanding doesn’t have strangeness. It’s the memorizing of formulas and the verbatim regurgitation of arguments. When you master the chain rule of calculus through rote, you don’t actually see what is happening deeply. I know I’m starting to learn something deeply when it stops being “obvious” and begins to seem strange.
+
+Strangeness is good, and the only way to get there is to keep learning. To keep digging deeper, even if it sometimes means venturing into a place that looks very different from where you started. [The Strangeness of Everyday Things « Scott H Young](http://www.scotthyoung.com/blog/2012/05/17/strangeness/)
+----
+In science (e.g. social sciences and psychometrics), construct validity refers to whether a scale measures or correlates with the theorized psychological scientific construct (e.g., "fluid intelligence") that it purports to measure. In other words, it is the extent to which what was to be measured was actually measured. [Construct validity - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Construct_validity)
+----
+In psychology, discriminant validity tests whether concepts or measurements that are supposed to be unrelated are, in fact, unrelated.[1]
+
+Campbell and Fiske (1959) introduced the concept of discriminant validity within their discussion on evaluating test validity. They stressed the importance of using both discriminant and convergent validation techniques when assessing new tests. A successful evaluation of discriminant validity shows that a test of a concept is not highly correlated with other tests designed to measure theoretically different concepts. [Discriminant validity - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Discriminant_validity)
+----
+Convergent validity, is the degree to which an operation is similar to (converges on) other operations that it theoretically should also be similar to. For instance, to show the convergent validity of a test of mathematics skills, the scores on the test can be correlated with scores on other tests that are also designed to measure basic mathematics ability. High correlations between the test scores would be evidence of a convergent validity. [Convergent validity - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Convergent_validity)
+----
+1. Start with the conclusions. Write a couple pages on what you’ve found and what you recommend. In writing these conclusions, you should also be writing some of the introduction, in that you’ll need to give enough background so that general readers can understand what you’re talking about and why they should care. But you want to start with the conclusions, because that will determine what sort of background information you’ll need to give.
+
+
+2. Now step back. What is the principal evidence for your conclusions? Make some graphs and pull out some key numbers that represent your research findings which back up your claims.
+
+
+3. Back one more step, now. What are the methods and data you used to obtain your research findings.
+
+
+4. Now go back and write the literature review and the introduction.
+
+
+5. Moving forward one last time: go to your results and conclusions and give alternative explanations. Why might you be wrong? What are the limits of applicability of your findings? What future research would be appropriate to follow up on these loose ends?
+
+
+6. Write the abstract. An easy way to start is to take the first sentence from each of the first five paragraphs of the article. This probably won’t be quite right, but I bet it will be close to what you need.
+
+
+7. Give the article to a friend, ask him or her to spend 15 minutes looking at it, then ask what they think your message was, and what evidence you have for it. Your friend should read the article as a potential consumer, not as a critic. You can find typos on your own time, but you need somebody else’s eyes to get a sense of the message you’re sending. [Advice on writing research articles « Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/2009/07/advice_on_writi/)
+----
+1. Start with the conclusions. Write a couple pages on what you’ve found and what you recommend. In writing these conclusions, you should also be writing some of the introduction, in that you’ll need to give enough background so that general readers can understand what you’re talking about and why they should care. But you want to start with the conclusions, because that will determine what sort of background information you’ll need to give.
+
+
+2. Now step back. What is the principal evidence for your conclusions? Make some graphs and pull out some key numbers that represent your research findings which back up your claims.
+
+
+3. Back one more step, now. What are the methods and data you used to obtain your research findings.
+
+
+4. Now go back and write the literature review and the introduction.
+
+
+5. Moving forward one last time: go to your results and conclusions and give alternative explanations. Why might you be wrong? What are the limits of applicability of your findings? What future research would be appropriate to follow up on these loose ends?
+
+
+6. Write the abstract. An easy way to start is to take the first sentence from each of the first five paragraphs of the article. This probably won’t be quite right, but I bet it will be close to what you need.
+
+
+7. Give the article to a friend, ask him or her to spend 15 minutes looking at it, then ask what they think your message was, and what evidence you have for it. Your friend should read the article as a potential consumer, not as a critic. You can find typos on your own time, but you need somebody else’s eyes to get a sense of the message you’re sending. [Advice on writing research articles « Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/2009/07/advice_on_writi/)
+----
+(a) Don’t write something unless you expect people to read it.
+
+(b) This principle holds for tables and figures as well. [Advice on writing research articles « Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/2009/07/advice_on_writi/)
+----
+1. RESEARCH STRATEGY
+
+Research strategy refers to the selection of best possible method to address a given problem (e.g., see the research strategy circumplex of McGrath, as taught in social sciences). Here are the issues I listed under this topic:
+
+Not explaining motivation for choice of research strategy. For example, why a laboratory experiment and not a field study?
+
+No/poor justification for methodological choices. For example, why were users given a particular kind of feedback after each task?
+
+No justification for a new method. No analysis of its strengths and weaknessesses.
+
+Wrong/suboptimal method. Sometimes reviewers think that the chosen method is not suitable at all or is inadequate in the light of previous work. For example, a survey may have limited use for studying real-world practices of users.
+
+
+
+2. STATISTICAL CONCLUSION VALIDITY
+
+Statistical conclusion validity refers to the reliability with which we can infer a relationship between two or more variables. The following validity-related categories (2-5) follow the taxonomy of Cook & Campbell (1979). The issues in this category:
+
+No statistical testing but claiming quantitative differences among conditions/groups. Sometimes authors simply report descriptive statistics per user/group/condition, and draw conclusions based on means only.
+
+Wrong statistical test. This is a common reason for rejection and can refer to mismatch of test with experimental design (see Kirk, 1995), mismatch of test with levels of measurement (nominal, ordinal, interval, ratio), violation of test's assumptions. 
+
+Using an unconventional statistical test without explaining the basis of selecting it. Either the reader must then familiarize with the test or take a leap of faith; both result in frustration.
+
+Claiming significant results although statistical test shows otherwise. For many reviewers this is a show-stopper.
+
+Low statistical power. Issue: Claiming no effect although sample size is small. Reviewers know that absence of evidence is not evidence of absence. Following APA's recommendation of reporting statistical power would protect authors from this criticism.
+
+No post hoc testing. Omnibus testing is not sufficient when one wants to pinpoint effects for a variable(s) with multiple levels.
+
+Fishing. Statistical testing for multiple variables (or their levels). Should utilize the correct post hoc test that accounts for inflated probability of Type I error.
+
+Cherry picking. Sometimes reviewers find it irritating that authors report a whole bunch of significant effects, but concentrate on only those that are relevant to their conclusions.
+
+Collapsing data from multiple conditions/groups into one, in order to get a statistically significant effect. Don't do this.
+
+Using measurements that are noisy. A recurring issue is that authors following "grounded theory" code highly subjective categories but ignore inter-coder reliability assessment. Another example is use of noisy logging data.
+
+
+
+3. INTERNAL VALIDITY
+
+Internal validity refers to the plausibility of a causal relationship between two variables. The list:
+
+Breaking the "ceteris paribus logic". Experimentation often relies on the logic of "all other things being equal." Conditions/groups in a poorly designed experiment differ in more than one dimension. For example, maybe participants in two interface groups also completed different tasks.
+
+Manipulation check missing. For example, you claim to induce an emotional state by showing pictures before  a usability test, but fail to check that the manipulation actually has the desired effect. This particular rationale for rejection was rare, though.
+
+Confounding/nuisance variables. The "classic" nuisance variables in HCI are order effects. Failing to randomize or counter-balance the order of experimental conditions/groups is often a show-stopper. But then there are more sophisticated nuisance variables pointed out as well, but since these are very study-specific, I do not list them here.
+
+I'd like to add a fallacy that is very common but not often pointed out by reviewers: selection bias. In other words, users are not assigned to experimental conditions/groups randomly. Why this is not brought up as an issue I don't understand.
+
+
+
+
+
+4. CONSTRUCT VALIDITY
+
+Construct validity refers to the cause and effect construct that explains the causal relationship. The list:
+
+Choosing wrong/old model for data. Papers that use a model to explain obtained data may choose one that is wrong in the eyes of the reviewer. Papers aspiring Fitts' law modeling sometimes face this critique.
+
+Unconvincing/insufficient explanations for obtained effects. Reports of quantitative relationships between IVs and DVs are unconvincing unless accompanied by explanations based on qualitative sources, such as interviews. Arguments like this point toward favoring mixed methods research in HCI.
+
+Mono-operation bias: Using only one simple measure to gauge a complex phenomenon. E.g., measuring "user preference" when aspiring to measure "user experience". Or ignoring errors in a measure of typing speed.
+
+Inadequate or incorrect choice of variable levels. For example, claiming to study the effect of "aesthetics" but having only two conditions to compare. Reviewers often point out that there are too few levels in the chosen IVs.
+
+Inadequate operationalization of constructs. For example, authors want to measure user experience but collecting data several weeks or even months after use, ignoring the effects of forgetting and interference on the veridicality of user experience accounts.
+
+
+5. EXTERNAL VALIDITY
+
+External validity refers to the generalizability of the causal relationship across persons, settings, and times. The list:
+
+Overstatements: Overstating the generalizability of the finding. For example, using students but drawing implications to all healthy users.
+
+Limited generalizability is among the most common reasons for rejection and it comes in many flavors. The criticism focuses most often on sample, tasks, user interface, method. For example, convenience sampling (using people from own lab), contrived tasks, short duration of study, unrepresentative user interfaces / systems, or even wizard-of-oz or paper mock-ups instead of working prototypes.
+
+Inadequate operationalization of a special group. For example, using blindfolded healthy adults and claiming generalizability to blind users. Authors with little training in accessibility often fantasize that a piece of technology would be useful for a particular user group but do not care to use them as test subjects or even ask them.
+
+Adopting "a straw-man" as a baseline condition.
+
+Unrepresentative operationalization of interaction styles. For example, you claim to study multi-device interaction, but in the experiment the experimenter sets a pace for alternating attention between two displays.
+
+Unbalanced sample; for example, demographics differ radically among groups.
+
+Unconvincing experimental analogue. Experimental analogue refers to the resemblance between the set up in the lab and the target use conditions "in the wild" to which the results should generalize. For example, decorating the usability lab to look like a living room with couches etc may not compel reviewers as an efficient analogue to induce home-like behavior.
+
+Partial generalization. Overusing one DV in generalization while downplaying the others.
+
+
+6. SCIENTIFIC COMMUNICATION
+
+Scientific communication refers to the ability of a writer to convey complex phenomena correctly. The lowest-scoring papers are almost without exception guilty of this. Recurring issues:
+
+Incomplete description of how a system/interface is used, or how a key algorithm works.
+
+Missing figures or tables. Only idiots have their papers rejected for this.
+
+Unreadable labels in figures.
+
+Poor presentation of complex data. For example, putting in big tables for descriptive or inferential statistics.
+
+Overly complex analysis of multivariate experimental design. If you have more than 2 DVs and/or more than 2 IVs, presentation of results requires serious thought!
+
+Missing or partial descriptive statistics. Jumping into inferential statistical without descriptive statistics leaves the reader no chance of evaluating what you did.
+
+Incomplete reporting of statistical test values. See APA Manual.
+
+Ambiguous terminology describing the method or results. Define and label your key variables, and use them consistently.
+
+Unjustified selection of measures. Why did you use that measurement instead of the other ones available?
+
+Cramming two contributions into one paper. Leads to inadequate space ("the Superpaper syndrome").
+
+
+7. REPLICABILITY
+
+Method sections of empirical papers should be written such that the reader can replicate the study. Common issues:
+
+User demographics not reported. In the worst case we witnessed, the paper did not report even the sample size.
+
+Insufficient description of method. Parts missing. I strongly advise following the APA template for description of method, and deviating from it only with good reasons. Reviewers are familiar with this format and can easily follow it; plus, you ensure that all  elements of your experiment are described.
+
+Incomplete reporting of measurements.
+
+Key parts of analysis method missing. For example, conjuring coding categories in "grounded theory" is often guilty of this.
+
+
+8. APPLICABILITY OF RESULTS
+
+Let's assume the paper was so good that reviewers found no flaws related to validity or communication Does that mean you can start booking hotels for CHI? Absolutely no! The final stretch where papers get killed--no, massacred--is the interpretation of findings. Here's my list:
+
+Null effect: No significant effect was found, but authors nevertheless argue about implications.
+
+No surprising finding: The finding is predictable in light of common sense or previous work.
+
+Miniscule effect: The effect size is neglible, yet authors argue for real-world implications. It is recommendable to report effect sizes as APA recommends, to avoid speculation on the readers' side.
+
+It turns out that the presented technology is not better than existing means.
+
+Not analyzing the finding, just reporting/repeating it. Not situating findings within existing literature.
+
+Not answering the research question. Didn't we learn in high school that this is a no-no?
+
+Absence control group or condition  makes it impossible to contextualize the finding. [Why your paper was rejected - Human-Computer Interaction by Antti Oulasvirta](http://oulasvirta.posterous.com/86113982)
+----
+I started work right away with Brad Myers, trying to find out what made debugging so difficult, and inventing technologies to make it easier [Andrew Ko, Ph.D. — Assistant Professor — Information School — University of Washington](http://faculty.washington.edu/ajko/bio.shtml)
+----
+  * [Is Teaching an Art or a Science? -   Daniel Willingham](http://www.danielwillingham.com/1/post/2012/05/is-teaching-an-art-or-a-science.html)
+
+----
+What most experimenters take for granted before they begin their experiments is infinitely more interesting than any results to which their experiments lead. [Interdisciplinary Research—Challenges « Gödel’s Lost Letter and P=NP](http://rjlipton.wordpress.com/2012/03/24/interdisciplinary-research-challenges/)
+----
+Traditional scientific 
+
+
+method has always been 
+
+
+at the very best 20-20 
+
+
+hindsight. It’s good for 
+
+
+seeing where you’ve 
+
+
+been. It’s good for testing
+
+
+the truth of what you 
+
+
+think you know, but it 
+
+
+can’t tell you where you 
+
+
+ought to go
+
+
+Robert M. Pirsig. 
+
+
+Zen and the Art of Motorcycle 
+
+
+Maintenance (1974) [](http://cognitive-edge.com/uploads/presentations/KM%20forum%20Boston%20Oct%201st%2007.pdf)

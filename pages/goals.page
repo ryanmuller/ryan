@@ -1,0 +1,83 @@
+
+
+## Systems
+
+  * Health Month 
+  * Stepmania (and many other games) - indirect goal setting by song grades
+  * UbiFit ([@consolvo2009goal]), Fish'n'steps
+
+## Goal research
+
+h3. What do goals do?
+
+  *  [@locke2002building] give four goal mechanisms. Goals
+    * "direct attention and effort toward goal-relevant activities and away from goal-irrelevant activities"
+    * energize
+    * affect persistence
+    * "affect action indirectly by leading to the arousal, discovery, and/or use of task-relevant knowledge and strategies" 
+
+
+h3. Choosing the right goal
+
+  * Set specific goals over vague goals
+  * Set "moderately difficult" goals
+    * Obviously, must be tailored to the individual -- perhaps using the individual's past performance ([@hattie2009visible])
+  * Performance versus learning goals
+    * Performance goals can have negative consequences
+      * Performance goals may induce a negative response to failure ([@elliott1988goals])
+      * "a performance goal can make people so anxious to succeed that they scramble to discover strategies in an unsystematic way and fail to learn what is effective. This can create evaluative pressure and performance anxiety." ([@locke2002building])
+    * "When people are trained in the proper strategies, those given specific high-performance goals are more likely to use those strategies than people given other types of goals" ([@locke2002building])
+    * "Performance goals improved grades but did not affect interest, whereas learning goals enhanced interest in the class but did not affect grades." ([@locke2002building])
+    * Try setting both performance and learning goals
+
+h3. Who sets the goal?
+
+  * "from a motivational perspective, an assigned goal is as effective as one that is set participatively provided that the purpose or rationale for the goal is given" ([@locke2002building])
+  * "the primary benefit of participation in decision making is cognitive rather than motivational in that it stimulates information exchange" ([@locke2002building])
+  * Participants generally preferred to self-set goals or do participatory goal-setting with a personal trainer (though this was after three months using a self-set goal system) ([@consolvo2009goal])
+
+h3. Other
+
+  * Self-efficacy
+    * "When goals are selfset, people with high self-efficacy set higher goals than do people with lower self-efficacy. They also are more committed to assigned goals, find and use better task strategies to attain the goals, and respond more positively to negative feedback than do people with low self-efficacy" ([@locke2002building])
+    * Leaders can raise the self-efficacy of their subordinates (a) by ensuring adequate training to increase mastery that provides success experiences, (b) by role modeling or finding models with whom the person can identify, and (c) through persuasive communication that expresses confidence that the person can attain the goal ([@locke2002building])
+  * Public commitment
+    * Enhances goal effectiveness according to [@locke2002building]
+    * Can be a problem? [@gollwitzer2009intentions]
+  * Performance versus knowledge in terms of assessing and getting feedback for a goal?
+    * Simple knowledge items should probably be on SRS
+    * However could be converted to a goal with number of new items or amount of reviews completed in a period of time
+
+## Interface design
+
+  * Challenges afforded by the interface can implicitly set goals
+    * Ex: Stepmania has both letter grades and percent scores to show your best record. This implicitly sets the goal of improving your record, and automatically has a good difficulty. 
+  * What is the granularity of goals?
+    * Ex: When I upgraded Stepmania, it stopped saving percent grades but would still save higher letter grades. I've noticed this has affected my strategy -- I'll play more songs that are borderline on a better letter grade. 
+  * How to keep goal-setting as a continual process?
+    * "goal setting is first and foremost a discrepancy-creating process. Motivation requires feed-forward control in addition to feedback. After people attain the goal they have been pursuing, they generally set a higher goal for themselves." ([@locke2002building])
+    * Ex: by updating your high record, Stepmania automatically sets a higher goal when one is achieved
+  * How many goals should be presented?
+    * Ex: In Stepmania, hundreds of goals at a time. But, could be made into a single goal ("get AAA on a 10-footer")
+  * Social effects
+    * The "4 minute mile effect". What is the difference between modeling someone's good performance and getting inspired by their results?
+    * goals as challenges accepted by members in a social network ([@fialho2009activeshare])
+
+[@barua2012framework]: goal UI should
+  * Set goals supported by goal-setting theory
+  * Link personal information relevant to that goal
+  * Activate notification system for summary feedback of that goal
+  * Log goal-related personal data
+  * Monitor long term achievements or failures related to that goal
+
+## Links here
+ {{backlinks>.}}
+
+{{page>kbib:goals}}
+
+## Clips
+
+----
+Having a clear vision of what you want in life takes you closer to your goal. Manage and track progress of your goals by using our simple tool. Working hard on your goal will eventually pay off. Speed it up this process with Goal-Buddy.com [Free Goal Setting Software - Online Goal Setting & Tracking Tools](http://www.goal-buddy.com/)
+----
+In just a few steps, easily set up all your goals and projects the way you like. Create your own custom goals and action steps, or use our pre-made goal plans to get everything you need to make it happen. [Start a Goal on LifeSpace Goal Setting Platform](http://www.lifespace.com/StartAGoal.aspx)

@@ -1,0 +1,24 @@
+[[http://ejenk.com/blog/why-dependently-typed-programming-will-one-day-rock-your-world.html|ejenk.com]]:
+
+<blockquote><html><p>The problem with all of these programming languages is that they don’t get us. They don’t get what we’re trying to do. We never actually want to divide by zero. If we want to divide by something, we have a reason to believe that it’s nonzero. What we need to do is to make our beautiful brain poetry, our reason to believe that what we’re dividing by is nonzero, precise. We need a <em>proof</em>. Without further ado, here’s our final, most glorious division function:</p>
+
+<pre><code>float myDivide3(float a, float b, proof(b != 0) p) {
+	return a / b;
+}
+</code></pre>
+
+<p>What’s going on here? Our function takes three arguments now: our old friends <code>a</code> and <code>b</code>, together with a new guy, <code>p</code>. This new guy is a proof that <code>b</code> is nonzero, and its type <em>depends</em> on the value of <code>b</code>. This means that whenever I call this function, I need to provide together with <code>a</code> and <code>b</code> a proof that <code>b</code> isn’t zero. This may seem cumbersome, but like eating our vegetables, it’s good for us: it makes us clarify why we think we can divide by <code>b</code> at all. If you can’t do that, you have no business dividing!</p></html></blockquote>
+
+[[http://elm-lang.org/|elm-lang.org]]:
+
+<blockquote><html><div style="padding: 0px; margin: 0px; position: relative; overflow: hidden; width: 1122px; height: 40px;"><div style="padding: 0px; margin: auto; visibility: visible; text-align: left; pointer-events: auto; width: 448px; height: 18px; position: absolute; left: 50%; top: 50%; -webkit-transform: translateX(-224px) translateY(-9px);">A&nbsp;<a href="/learn/What-is-FRP.elm">functional reactive</a>&nbsp;language for interactive applications</div></div><div style="padding: 0px; margin: 0px; position: relative; overflow: hidden; width: 1122px; height: 100px;"><div style="padding: 0px; margin: auto; width: 440px; height: 100px; position: absolute; left: 50%; top: 50%; -webkit-transform: translateX(-220px) translateY(-50px);"><div style="padding: 0px; margin: 0px; position: relative; overflow: hidden; width: 220px; height: 100px; float: left;"><div style="padding: 0px; margin: auto; pointer-events: auto; width: 180px; height: 50px; position: absolute; left: 50%; top: 50%; -webkit-transform: translateX(-90px) translateY(-25px);"><div style="padding: 0px; margin: 0px; position: relative; overflow: hidden; width: 180px; height: 50px; background-color: rgb(216, 221, 225);"><div style="padding: 0px; margin: auto; position: absolute; overflow: hidden; width: 178px; height: 48px; left: 50%; top: 50%; -webkit-transform: translateX(-89px) translateY(-24px); background-color: rgb(245, 245, 245);"><div style="padding: 0px; margin: auto; visibility: visible; text-align: left; pointer-events: auto; width: 41px; height: 30px; position: absolute; left: 50%; top: 50%; -webkit-transform: translateX(-20px) translateY(-15px);"></div></div></div></div></div></div></div></html></blockquote>
+
+[[https://github.com/Jiansen/TAkka|github.com]]:
+
+<blockquote><html>A stronger typed akka</html></blockquote>
+
+[[http://matt.might.net/articles/implementing-laziness/|matt.might.net]]:
+
+<blockquote><html>We’ll look at manual transformations from languages that have
+native support for laziness (Scala) into (1) languages that do not support
+laziness (JavaScript) and (2) languages that have partial support (Swift).</html></blockquote>

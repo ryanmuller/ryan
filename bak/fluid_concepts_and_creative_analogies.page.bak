@@ -1,0 +1,22 @@
+
+
+Douglas Hofstadter and his Fluid Analogies Research Group try to create [[artificial intelligence]] programs that play with microdomains (e.g. sequence patterns, word scrambles) in a way similar to humans. 
+
+The primary design tool seems to be introspection. Given that introspection has been available to us since we've been conscious, what leads them to believe we'll achieve new grounds? [One tactic is to let yourself be surprised by observing the computation in action rather than simply enamored with your own mind.]
+
+The use of microdomains seems necessary for achieving milestones but limiting to the idea that the mind is embodied. 
+
+Their philosophical basis captures aspects of [[perception]], [[representation]], [[analogy]], and [[concepts]] that are very likely to be essential to the mind. Quoted in full (p. 84):
+
+<blockquote>
+  - the //inseparability of perception and high-level cognition//, leading to the idea of a perceptual architecture being at the heart of cognition;
+  - the fruits of high-level perception being //easily reconfigurable multi-level cognitive representations// held loosely together by bonds of different types and different strengths;
+  - the idea of //subcognitive pressures//--namely, that the more "important" a concept or representation is, the greater an influence it should be allowed to exert, in a probabilistic sense, on the direction of the processing;
+  - the //commingling of many pressures//, both context-dependent and context-independent, leading to a nondeterministic parallel architecture in which bottom-up and top-down processing co-exist gracefully;
+  - the //simultaneous feeling-out of many potential pathways// at differential rates governed by quickly-made estimates of degree of promise;
+  - //the centrality of the making of analogies and variations on a theme// in high-level cognition;
+  - the possession, by cognitive representations, of //deeper and shallower aspects//, with the former remaining relatively immune to contextual pressures, and the latter being more likely to yield under pressure (to "slip");
+  - the crucial role played by //the inner structure of concepts and conceptual neighborhoods// in all these goals, particularly context-dependent conceptual overlap and proximity, and context-independent conceptual depth.
+</blockquote>
+
+The philosophy may be summarized as "cognition equals recognition", in contrast with "reasoning is reckoning" (p. 131). [Ties closely with something from, I think, //The Science of the Artificial//.

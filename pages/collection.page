@@ -1,0 +1,23 @@
+
+
+In general I want to be able to collect something quickly and unambiguously for a variety of media types from different [[sources]]. I'd also like to facilitate reuse, refactoring, and connecting related ideas. The wiki format is good for refactoring and DEVONthink is good for connecting. Reuse is more context-specific (e.g. Evernote for viewing recipes while cooking)
+
+## By media type
+
+**Web articles**: Save to DEVONthink using Web Archive with Instapaper format. DEVONthink's [See Also lets me skip tagging](http://blog.learnstream.org/2014/06/see-also/).
+
+**PDFs**: Save to desktop, drag to DEVONthink.
+
+**Entire websites**: I use a variety of scripts and/or httrack to pass URLs to Readability, then save all in a folder in DEVONthink.
+
+**Quotes**: Save to wiki. Bookmarklet for clipping from websites that preserves source URL.
+
+**Videos**: Save to [[to:watch]].
+
+**Books**: Would like to save quotes into wiki, but in practice have rarely done this.
+
+**Recipes**: Save to Evernote. Evernote is good for browsing and viewing from iPad.
+
+**Twitter**: Favorite tweets collected in email by IFTTT. 
+
+**Misc.**: Wolkflowy for quick access to structured text.

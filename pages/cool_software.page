@@ -1,0 +1,30 @@
+
+
+
+----
+PhotoSketch is an Internet Image Montage project from five Chinese Computer Science and Technology students at Tsinghua University and the National University of Singapore. The basic premise, which they present in the form of a research paper [pdf], works like this:
+
+
+Step 1. Draw the outlines of the figures you want in your picture  anything from seagulls to a Mercedes, whatever tickles your fancy,
+
+
+Step 2. Add labels for each of the items, as well as for the background.
+
+
+Step 3. PhotoSketch will then find real-life images to match your doodles and put them together in a Photoshopped image that will make your jaw drop. [PhotoSketch: Photoshop + Image Recognition = Awesome](http://mashable.com/2009/10/05/photosketch/)
+----
+Overtone is an open source audio environment being created to explore musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming.
+
+
+
+
+
+
+In this video Sam Aaron gives a fast-paced introduction to a number of key live programming techniques such as triggering instruments, scheduling future events and synth design. Finally, the viewer is shown how a simple musical sequence may be composed and then converted into an intricate Reich phase. The main body of the video was recorded in one take and features an Emacs buffer (using the Live Coding Config (is.gd/?live_coding_emacs) for editing text and communicating with Overtone (is.gd/?overtone), an expressive Clojure front-end to SuperCollider. Clojure is a state-of-the-art functional lisp emphasising immutability and concurrency (clojure.org).  [imagine27 - 2011-10-02 overtone](http://jng.imagine27.com/articles/2011-10-02-171602_overtone.html)
+----
+
+
+
+Welcome to Blocky.io, the home page for the Blocky programming language. Blocky is a visual programming system written in Common Lisp designed for multimedia authoring and game development. In addition to borrowing ideas from GNU Emacs, the language design is heavily influenced by existing visual programming research projects such as PureData, Squeak, Self Morphic, MIT Scratch, Berkeley's Build Your Own Blocks, and more recently Jens Moenig's Smalltalk Elements. [](http://blocky.io/)
+----
+http://localhost/wiki/cool_software [Pad++ with PadPrints and GrayMatters - YouTube](http://www.youtube.com/watch?v=62KcJ09k7cE)

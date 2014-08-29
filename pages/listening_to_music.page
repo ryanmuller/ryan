@@ -1,0 +1,36 @@
+
+
+I do consider listening to music very important, but this is really about a concept I'm making up and calling "design by constraints". 
+
+Design is hard because it is under-constrained. There are a set of conditions that must be satisfied, but those conditions don't establish what to actually do. But often times we can come up with a lot of constraints that would make the experience better. An important thing is to make sure these are related to the goal and not to the tasks that [you mistakenly believe] users have to perform (see http://zachholman.com/posts/shit-work/).
+
+As a simple example, I want to over-constrain music listening and then come up with a system throwing together pre-existing music resources.
+
+Here are some constraints for listening to music:
+
+  - Do I mostly listen to stuff I already like?
+  - Is music that I listen to in proximity not horribly disjointed in style?
+  - Do I listen to new music occasionally?
+  - Do I listen to new songs enough for them to sink in before deleting them?
+  - Do I discover new favorite artists among the new music I try?
+  - Do I listen to great albums all the way through occasionally?
+  - Do I usually find a playlist that fits my mood?
+  - Do I occasionally listen to all styles of music that I enjoy?
+
+Some that I removed because they are potentially shit work or based on a faulty perspective:
+
+  * Do bad songs get removed after not too long?
+  * Do disjoint songs get moved to a better location?
+
+So let's evaluate some existing services/strategies:
+
+Pandora: depends heavily on the station. 2, 4, 7 are often satisfied. 8 can be satisfied with enough stations. 6 will never be satisfied. For 3: I definitely discover new-to-me things with Pandora, but I'm not sure how long it takes for chronologically new music to get on stations. The most unpredictable is 1, but that's the most important. I've found a few stations that I generally really like, so overall Pandora is quite good. Plus the amount of work is very low, just picking stations and occasionally creating or pruning some. 
+
+I've tried a number of strategies with Spotify. 
+
+  * Choose among full albums within genres
+  * Shuffle among full albums within genres
+  * Shuffle among selected songs within genres
+  * Shuffle among all new/unclassified songs
+  * Shuffle among new/unclassified songs within a genre
+

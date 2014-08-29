@@ -1,0 +1,37 @@
+
+
+^ Tool ^ Capture method ^ Content display ^
+| researchr | Text: highlight text, press button, select page. Images: Take screenshot, open page, press button. | Wiki page. |
+| [{{ pages:capture_tools02.png }}](http://pinterest.com) | Bookmarklet, select among images on a page. | Boards that consist of a collage of images and their associated comments. |
+| [{{ pages:capture_tools01.png }}](http://learni.st) | ? | Pinterest-style. |
+| [{{ pages:capture_tools03.png }}](http://clipboard.com) | Browser plugin that can select various elements on a page and copy and store them. | Image collage within boards. |
+| [{{ pages:capture_tools04.png }}](http://diigo.com) | Browser plugin that can highlight text, add notes, and then stores the highlighted text. | List of sites and their highlighted text and annotations. |
+| [{{ pages:capture_tools05.png }}](http://evernote.com) | Browser plugin that can capture a full page or selection and tries to copy some of the style. | List of notes in collections. |
+| [{{ pages:capture_tools06.png }}](http://gimmebar.com) | Browser plugin to either select text or drag images. Can also backup Twitter, Instagram, etc. | Image collage within collections. |
+----
+  * [How To Make a Bookmarklet For Your Web Application | BetterExplained](http://betterexplained.com/articles/how-to-make-a-bookmarklet-for-your-web-application/)
+
+----
+You have to check if the user is connected, if he is then just put your link, else, put another link which will pop up an authentication form and if he successfully sign in you'll execute your js code. Like following: (I assume you're in a rails view, so in a html.erb file)
+
+
+<% if user_signed_in? %> 
+
+  <a href="javascript:u=document.location.href;t=document.title; s=window.getSelection();
+
+void(window.open('http://www.example.com/node/add/web2ob?edit[title]='+escape(t)+
+
+'&edit[body_field][body]='+escape(s)+'&edit[field_link][0][url]='+escape(u),
+
+'_blank','width=600,height=500,status=yes,resizable=yes,scrollbars=yes'));">
+
+Add to my list</a>
+
+<% else %>
+
+  <a onclick="showLoginForm();">Add to my list</a>
+
+<% end %> [javascript - How to create Bookmarklet for my website which requires user authentication - Stack Overflow](http://stackoverflow.com/questions/7580521/how-to-create-bookmarklet-for-my-website-which-requires-user-authentication)
+----
+  * [Kippt - Bookmark and read the web](https://kippt.com/)
+  * [Bundlr - Bookmark and discover amazing content](http://bundlr.com/)

@@ -1,0 +1,64 @@
+
+
+## Notes
+
+h3. Linearity
+
+One parameter in SMO/SMOreg is a good way to compare whether introducing non-linearity will improve the model.
+
+h3. Instance-based classification
+
+Choose representative instances, then to classify something, see which it is closest to.
+Difference: need to keep previous  instances
+
+Ways to measure similarity:
+  * Euclidean distance
+  * Cosine similarity (ignores length of instance vector)
+  * manhattan distance
+good diagram -- A,B,C
+
+doing locally-weighted neighborhood-based models lets you relax independence assumptions (=> non-linearity), e.g. LBR, LWL
+
+don't add non-linearity more than once 
+
+
+## Book notes
+
+h3. 3.3 Trees
+
+  * "divide-and-conquer" approach
+  * regression tree - numeric values at the leaves
+  * model tree - combination of regression tree and regression equations
+
+
+h3. 3.4 Rules
+
+  * antecedent or precondition triggers consequent or conclusion
+  * rules -> tree not straightforward because of replicated subtree problem, e.g. disjunction or exclusive-or
+  * what to do when the same precondition leads to multiple conclusions?
+  * association rules: predict attributes in addition to class
+  * there may be relationships between association rules
+  * logic programs are sets of rules with recursion power
+
+h3. 4.1
+
+  * 1R: one-level decision tree using attribute that works best
+  * works as well as more complex rules for many data sets
+
+h3. 4.3 
+
+  * Recursively divide and conquer to construct a decision tree
+  * Choose the attribute that requires the least number of bits to represent the branches
+
+h3. 4.4
+
+  * Covering algorithm used to construct rules
+  * 
+
+h3. 6.1
+
+  * 
+
+h3. 6.2
+
+h3. 6.5

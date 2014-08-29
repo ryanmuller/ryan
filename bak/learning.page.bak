@@ -1,0 +1,66 @@
+
+
+Learning as a change in long-term [[memory]]. Knowledge presented to us enters working memory, where it is processed and may enter long-term memory. 
+
+[[http://www.education.com/reference/article/students-remember-television-forget-importance/?page=2|www.education.com]]:
+{{pages:learning08.png}}
+
+## Learning and confusion
+
+Learning feels confusing: if you were doing something you felt comfortable with, you wouldn't need to learn it. A variety of research addresses the interactions between confusion and learning. I find the best description of learning to be this quote from Bruce Lee (derived from a Taoist quote): 
+
+<blockquote>"Before I learned the art, a punch was just a punch, and a kick, just a kick.
+After I learned the art, a punch was no longer a punch, a kick, no longer a kick.
+Now that I understand the art, a punch is just a punch and a kick is just a kick."</blockquote>
+
+[@vanlehn2003only] found that, when interacting with a human tutor, learning occurs most often when learners reach an impasse. Explanations from the tutor seem only necessary when a learner is unable to produce an explanation themselves. Impasse learning may be similar to concepts like incommensurable prior knowledge ([@schwartz2007reconsidering]), desirable difficulties, or productive failure ([@kapur2012designing]).
+
+Confusion itself may induce learning ([[http://www.sciencedirect.com/science/article/pii/S0959475212000357|sciencedirect.com]]). [[https://www.youtube.com/watch?v=eVtCO84MDj8|A demonstration of this effect in physics education]].
+
+[@schwartz1998time] claim that noticing distinctions in contrasting cases causes a desire to learn, which they call a "time for telling".
+
+Mindset research claims there are two different types of reactions to the failures--or //goal orientations// ([@elliott1988goals])--that accompany learning. See [[http://www.wired.com/wiredscience/2011/10/why-do-some-people-learn-faster-2/|Why Do Some People Learn Faster? | Wired Science | Wired.com]].
+
+## Effective learning
+
+Effectively learning depends on the current bottleneck, of which there may be many over the course of learning a subject.
+
+**Memorization**: Specifically when you must memorize a large number of simple components (e.g. vocabulary in a language), use [[spaced repetition]].
+
+**Fluency**: When you know what you need to do but do it too slowly, use //ratcheting//: set a personal goal that stretches you just beyond your level of comfort. ([[http://kyleporter.net/2014/01/01/choose-anxiety-driven-growth-over-boredom-driven-growth/|Compare to flow.]]) From //Moonwalking With Einstein//:
+
+<blockquote>[Anders Ericsson] told me to find a metronome and to try to memorize a card every time it clicked. Once I figured out my limits, he instructed me to set the metronome 10 to 20% faster than that and keep trying at the quicker pace until I stopped making mistakes. Whenever I came across a card that was particularly troublesome, I was supposed to make a note of it and see if I could figure out why it was giving me problems. It worked, and within a couple of days I was off the OK plateau and my card times began falling again at a steady clip.</blockquote>
+
+**Information**: When information is lacking and someone, say a teacher, has that information, use [[direct instruction]].
+
+**"Getting it"**: Suppose there is a task that bewilders a beginner who has all the right information. On the other hand, a more advanced disciple can instantly recognize or perform a solution. There is a pattern to be learned that may sit outside the beginner's current [[representation]] of the task. One strategy is using multiple representations and/or contrasting examples.
+
+## Ineffective learning
+
+**Mnemonics**: Mnemonics are very useful in certain situations, like memory competitions where non-meaningful items are learned for a short time period. Typically though, concepts are better of being mapped to more relevant items, and important facts are better memorized to fluency rather than requiring a conscious mapping.
+
+**Learning styles**: While true that different learners have different strengths, and multiple representations can help learning, the formal definition of learning styles is unsupported by evidence. See [[https://www.youtube.com/watch?v=sIv9rz2NTUk|Learning Styles Don't Exist (YouTube)]].
+
+**Discovery learning**: At the root of discovery learning is a vital lesson: we must remain curious in the lack of instruction. However in terms of learning what has been accumulated by science and culture, more direct forms of learning are more effective ([@kirschner2006minimal]).
+
+**Brain training**: Any claim that certain activities can improve overall working memory or general intelligence has not been substantiated. See [[http://www.gwern.net/DNB%20FAQ|Dual N-Back FAQ]]. In addition, with any brain training activity, one should ask "How far does this [[transfer]]?"
+
+**Critical thinking skills**: Daniel Willingham argues that [[http://www.aft.org/pdfs/americaneducator/summer2007/Crit_Thinking.pdf|teaching deep knowledge is prior to teaching critical thinking skills]].
+
+## Models of learning
+
+**[[Cognitive load|Cognitive load theory]]** is based on the limits of working memory in the process of learning described in the introduction. 
+
+**ACT-R** is a [[cognitive model]] that attempts to integrate cognitive theories to explain learning. There is both [[procedural knowledge|procedural learning]], which involves learning a system of production rules. In addition, there is [[conceptual knowledge|conceptual learning]], which involves changing to declarative knowledge structures via acquiring new knowledge, gap-filling, and conceptual change ([@chi2008three]). 
+
+## Miscellaneous Topics
+
+**[[Feedback]]**: Where does the confusion come from in a typical learning activity? It can happen in a well-constructed lecture. Often confusion comes from feedback received. Skills are developed rapidly in environments with quick and accurate feedback loops.
+
+**[[Representation]]**: One of the fundamental differences between novices and experts is the way they represent knowledge, as explored in [@chase1973perception], [@chi1981categorization], and [@koedinger1990abstract].
+
+**[[Transfer]]**
+
+**Tricks versus skills**: [@willingham2006usefulness] claims that most [[reading]] comprehension strategies should be thought of as //tricks//: they do not require practice to learn, rather the primary difficulty is thinking to apply them at all. He compares this to the trick of "checking your work" in problem solving.
+
+**Sleep** is important for learning. [[http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.3152.html#/author-information|Cued memory reactivation during sleep influences skill learning : Nature Neuroscience : Nature Publishing Group]]

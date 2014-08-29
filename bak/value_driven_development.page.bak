@@ -1,0 +1,9 @@
+
+
+Vaguely inspired by this post: http://blog.obiefernandez.com/content/2011/07/the-next-big-leap.html plus all the Less Wrong stuff I've been reading lately plus the machine learning course I'm taking.
+
+  * Specify highest level goals/business specs
+  * Specify theories about what features will contribute towards goals (paper prototyping, basic research literature to get priors for new features?)
+  * Use a combination of user data and test specs to gather evidence
+  * Use Bayesian techniques to inform theories, decide what to implement/fix/etc
+

@@ -1,0 +1,90 @@
+
+
+The goal is to create an interactive video-based learning environment from best-known practices and compare it with other conditions. Video is not often combined with effective cognitive tutors, yet it is very popular, distributable, and seems to be engaging. 
+
+related keywords: [[interactive learning environment]], [[multimedia learning]], [[practice]], [[spacing effect]], [[cognitive tutor]]
+
+## Background
+
+Motivation: an increasing availability and popularity of high-quality lecture video material (MIT, Khan Academy). Not much is understood about how learners actually use the video or the learning outcomes for much of this material. 
+
+Interactive online courses have had promising results, as in [@lovett2008open], and the use of online materials is ever-increasing. 
+
+h3. Multimedia and interactivity
+
+  * Interactivity has been shown to the effectiveness of videos ([@goldberg2000student], [@zhang2006instructional])
+  * {{page>gist:wouters2007interactivity}}
+  * {{page>gist:moreno2007interactive}}
+  * {{page>gist:mayer2003nine}}
+  * [@clark2010analysis] claim that multimedia does not benefit learning
+
+h3. Representation of knowledge
+
+What is actually shown in the video will make a big difference, so we should be concerned with how knowledge is [represented](representation). 
+
+  * Use KLI to break into [[knowledge components]] ([@koedinger2011knowledge])
+  * [[Conceptual knowledge]] vs. [[procedural knowledge]] ([@rittle1999conceptual])
+  * [[Grounded representation]] shown to be better when presented before formal representation ([@braithwaite2011effects])
+  * Facilitate [[analogy]] ([@gentner2009reviving]); concrete or abstract? ([@reeves1994role], [@goldstone2005transfer])
+  * [@melis2004towards] talk about representation for math knowledge
+
+h3. Knowledge presentation
+
+Do we want videos of conceptual information or worked examples or...?
+
+  * [[Worked examples]] are effective; [[faded examples]] a further improvement ([@melis2004towards])
+  * {{page>gist:ringenberg2006scaffolding}}
+  * {{page>gist:chi2008observing}}
+
+h3. Practice
+
+I'd like to tie the videos with practice and problem exercises.
+
+  * Interleaving worked examples with problems is effective
+  * [[Testing effect]] shows that just having practice questions is good ([@roediger2006test])
+  * [[Spacing effect]] - when to schedule practice; also when to repeat video segments?
+  * Spacing effect not as strong for complex material?
+  * {{page>gist:frank2011overcoming}}
+
+h3. Related work
+
+  * {{page>gist:teal}}
+
+## Implementation
+
+
+h3. Domains
+
+  * Carnegie Learning/University of Phoenix
+  * Vincent's mathtutor: https://mathtutor.web.cmu.edu/
+  * Physics supplemental help at Mudd
+  * Khan Academy
+  * OLI (statistics or Paul Steif) 
+
+h3. Ideas
+
+  * Provide videos for students along with their homework problems
+  * Faded examples using video as a scaffolding 
+  * Are students able to find their way around the video or is breaking up the video into pieces worthwhile (for faded examples or whatever)? 
+  * Use spacing effect to review video segments
+
+## Experiment
+
+First, want to code videos to see exactly what is being taught. Perhaps develop a student model of interactivity if there is data from students interacting with video. 
+
+Possible ideas:
+
+  * Video vs. no-video (also need to look at what the video is covering. Conceptual? Procedural?) 
+  * Massed vs spaced and blocked vs interleaved practice
+  * Student using feedback (e.g. tracking progress on components)
+  * Testing effect, pre-questions and post-questions
+
+## Notes and clips
+
+h3. Ken meeting 9/19
+
+<blockquote>
+There is a discussion in the KLI paper about how the testing effect and worked example effect are at odds ... also about how wide spacing and comparison may be at odds ...
+
+The testing effect could be used to justify an "all-practice" condition -- just the cognitive tutor -- vs. a mixed one vs. all video.
+</blockquote>

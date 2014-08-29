@@ -1,0 +1,23 @@
+
+
+* Choose tags (language, application type, platform)
+
+  * http://www.quora.com/Python-programming-language-1/How-can-I-learn-to-program-in-Python
+  * http://www.quora.com/Ruby-programming-language/How-do-I-learn-Ruby
+----
+I was just playing around with ls_atomic again, and had forgotten how we phrased all of the components as questions. What if the content came as mini-(lecture) answers to a whole series of questions? Taking linear algebra as an example...
+
+
+"What are elementary row operations?"
+
+"What is the determinant of a matrix?"
+
+"How do I calculate the determinant of a matrix?"
+
+"What is a vector space?"
+
+
+basically, phrasing them as questions makes them a). more friendly to the "passive surfing" you're talking about, but also works well for students searching targeted information, and b). are questions that students will legitimately have, and c). provides some of that connecting narrative you were talking about (rather than a bunch of random videos). I could imagine the professor for a course keeping track of every question a student asks, and over time building up a library of answers. Or, say a high school teacher doing the same, and then the resources are available online for students to use while doing homework, or for their parents to use to try and help their kids with homework. Can take advantage of the "prerequisite" ideas too by having a little thing at the bottom that says like "to understand this answer, you'll probably need to know how to answer these questions: ....." That way, students don't get too ahead of themselves, and can review as necessary.
+
+
+Add in a social dimension -- students could recommend certain answers; professors/teachers could pull in answers from colleagues across the country in a kind of "plug 'n' play" system, etc... students could ask clarifying questions on videos too, which would be sent to the teacher in a feedback loop where they could tweak the answer to improve. These questions could be entered at specific timepoints, too, of course. [[https://mail.google.com/mail/u/0/#search/neal/138162c12d66b576|rudinium: google edition - cognitionmachine@gmail.com - Gmail]]

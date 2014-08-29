@@ -1,0 +1,69 @@
+
+
+
+----
+Define your factories normally in test/factories.rb or spec/factories.rb:
+
+
+Factory.define :user do |user|
+
+  user.email                 { Factory.next(:email) }
+
+  user.password              { "password"   }
+
+  user.password_confirmation { "password"   }
+
+end
+
+
+Factory.define :author, :parent => :user do |author|
+
+  author.after_create { |a| Factory(:article, :author => a) }
+
+end
+
+
+Factory.define :recruiter, :parent => :user do |recruiter|
+
+  recruiter.is_recruiter { true }
+
+end
+
+Make sure Factory Girl is available in your config/environments/cucumber.rb:
+
+
+config.gem 'factory_girl', :version => '>= 1.2.3'
+
+Require Factory Girls step definitions in features/support/env.rb:
+
+
+require 'factory_girl/step_definitions'
+
+Then, write Cucumber features using the simple create record step:
+
+
+Given a user exists
+
+ or the create record & set one attribute step:
+
+
+Given an author exists with an email of "author@example.com"
+
+ or the create record & set multiple attributes step:
+
+
+Given the following recruiter exists:
+
+  | email            | phone number | employer name |
+
+  | bill@example.com | 1234567890   | thoughtbot    | [gimme three steps — giant robots smashing into other giant robots](http://robots.thoughtbot.com/post/284805810/gimme-three-steps)
+----
+WP:Clubhouse? An Exploration of Wikipedias Gender Imbalance
+
+ [Introduction to Rails Screencast | Nettuts+](http://net.tutsplus.com/tutorials/ruby/the-intro-to-rails-screencast-i-wish-i-had/)
+----
+http://davidbrin.blogspot.com/ [thoughtbot workshops](http://workshops.thoughtbot.com/backbone-js-on-rails)
+----
+http://davidbrin.blogspot.com/ [Backbone-rails (a.k.a. the "rails-backbone" gem) on Vimeo](http://vimeo.com/30705694)
+----
+  * [Setting Up Jasmine For Your Rails App on Vimeo](http://vimeo.com/30834327)

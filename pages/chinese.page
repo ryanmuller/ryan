@@ -1,0 +1,69 @@
+
+
+## Sites and shows
+
+  * iqiyi.com
+  * letv.com
+  * unblock youku chrome
+  * 非诚勿扰
+  * 舌尖上的中国
+
+
+
+## Methods
+
+  * Skritter!
+    * **Currently doing** Remembering Simplified Hanzi
+      * First tried writing, definitions, and tones
+      * Tones were taking 2x more reviews than everything else
+      * Now trying just writing -- no mode switch = super speed?
+  * Use Google translate to read my emails in Chinese
+    * Then Skritter bookmarklet for adding words?
+    * How about an easy way to do MCDs?
+    * How could MCDs and the Skritter system interact?
+  * Reading long texts with Chinese on one side and English on the other
+    * How does this compare to slogging through Chinese only?
+  * "Speed" reading with Chinese texts? Try using readfa.st
+
+h3. Phase 2
+
+The options:
+  * Input hypothesis: Just track # hours watched. Keep up Skritter, add stuff if you really want it.
+    * Engaged vs. background watching?
+    * Effort to rewatch things?
+  * Aggressive sentence mining: Record-tracking around both SRS practice and card generation
+    * Reading or MCD?
+    * Video frame also an option, maybe even video clip
+  * Video quizzing
+    * Comprehension questions nice -- where would they come from??
+    * "Which sentence was the one just used?" (How to generate false sentences?)
+  * ChinesePod
+
+h3. Video frame flashcards 
+
+I'd like to be able to convert video into flashcards for an SRS. The idea would be to have a sequence of frames and cut out a single character in the subtitles, then on the reverse side have the original frame with the character revealed.
+
+Some partial steps:
+  * Use KeepVid (bookmarklet) to grab YouTube as .mp4
+  * Use ~/src/vidhl/process.rb to convert into still frames
+  * Add Youtube ID to list in index.html
+  * Use ~/src/vidhl/index.html to select sequences of frames
+  * ...
+  * Move frames to ~/Dropbox/acatt_in
+  * cmd+opt+ctrl+O to open file in Preview
+  * cmd+opt+ctrl+R to resize (no longer needed when combined with vidhl method)
+  * cmd+opt+ctrl+C to make copies 
+  * Use preview to cut out a character, save
+  * ??? to move to acatt_out
+  * cmd+opt+ctrl+D to delete the file from acatt_in
+
+Also tried: shortcut for continuous screencapture; unfortunately it doesn't work in fullscreen. 
+----
+  * [千与千寻 国语版 - 视频 - 优酷视频 - 在线观看](http://v.youku.com/v_show/id_XMzI5NDgzMjMy.html)
+  * [功夫熊猫1高清国语版 - 视频 - 优酷视频 - 在线观看](http://v.youku.com/v_show/id_XMzM4MDMyMzYw.html)
+  * [【电影】章子怡激情电影精选《2046》（国语版） - 视频 - 优酷视频 - 在线观看](http://v.youku.com/v_show/id_XMzA4OTAzODY4.html)
+  * [【电影】香港情色片《猛男滚死队》（国语版） - 视频 - 优酷视频 - 在线观看](http://v.youku.com/v_show/id_XMzA5MTU0MjYw.html)
+  * [《我的野蛮女友》国语高清晰完整版 - 视频 - 优酷视频 - 在线观看](http://v.youku.com/v_show/id_XMjYxMDU5MDY4.html)
+  * [剑雨 - 时长2:00:00 - 2010 - 电影 - 优酷视频 - 在线观看](http://v.youku.com/v_show/id_XMjIzMTk0MTAw.html)
+  * [让子弹飞 - 时长2:12:00 - 2010 - 电影 - 优酷视频 - 在线观看](http://v.youku.com/v_show/id_XMjM5OTE4OTQ0.html)
+  * [功夫熊猫 第二部 - 时长1:30:00 - 2011 - 电影 - 优酷视频 - 在线观看](http://v.youku.com/v_show/id_XMzAyMzE4MTE2.html)

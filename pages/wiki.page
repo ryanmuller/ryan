@@ -1,0 +1,51 @@
+This is a Hakyll-based wiki. It was originally for my PhD research and used the [[researchr]] tools [created by Stian Håklev](http://reganmian.net/wiki/researchr:start).
+
+## Hakyll
+
+Hakyll is a static site generator written in Haskell. I use the following modifications:
+
+**Edit pages with one click** (DONE): Rather than in-browser editing, I'm opting for a link to open the file in MacVim using the `mvim://` protocol. The downside is having an edit link on my published page, but perhaps I can with multiple versions.
+
+**Internal links**: I want to support the wiki link with `[[pagename]]`.
+
+## Style
+
+**Writing**: Prefer clear declarative sentences. These may represent facts or beliefs that can change over time (inspired by [Codex Vitae](http://wayoftheduck.com/codex-vitae)). Use claims that can be backed by a link or novel argument. More outlandish claims are still encouraged and can be indicated with "conjecture", "hypothesis", or "prediction".
+
+Example: "Few high achievers support our education system" -> "[Albert Einstein](http://blog.ampli.com/2012/03/albert-einstein-quotes-education-15-of.html) and [[http://quotations.about.com/od/marktwainquotes/a/twainedu.htm|Mark Twain]] are examples of high achievers who were displeased with their experience with education." Or "Conjecture: intellectual achievement is inversely correlated with support for the standard education system."
+
+**Page titling**: Prefer Wikipedia's canonical title except for special pages that fall under a namespace.
+
+**HTML style**: Inspired by Smallest Federated Wiki, I use narrow columns, prefer paragraphs over list, restrict headers to h1 and h2 (using htag plugin), and disable Table of Contents.
+
+## Enhancements
+
+**[Rewiki](https://github.com/ryanmuller/rewiki)** is a bookmarklet and plugin that saves clips from websites. To do: use latest screenshot.
+
+I've tried to mimic the parallel column style of Smallest Federated Wiki or Project Xanadu. It currently works with some simple JavaScript and CSS added to my template, but only supports two columns.
+
+## Citations
+
+Using citations increases the authority of claims.
+
+Using linked citations allows readers to read further on a topic.
+
+Researchr uses the **citekey** format [author][year][first-word] as in haklev2014citing to automatically link to a reference page (located at ref:citekey). [Papers](http://www.papersapp.com/mac/) has a similar notion of citekey, which allows you to insert the key anywhere by lookup.
+
+The ideal solution would allow you to insert the key anywhere by typing or lookup. In certain contexts such as a wiki or blog, the citekey will generate a URL that links to the author's personal content about that citation as well as a link to the original source (website or PDF).
+
+Stian Haklev and I explored creating a central repository for citekey->wiki mappings. My conclusion is that few if any researchers would enter this information manually, and that there is no way to do it automatically for a critical mass of researchers.
+
+## Additional Notes
+
+[gitit.net](http://gitit.net/):
+
+<blockquote><html>Gitit is a wiki backed by a <a href="http://git.or.cz">git</a>, <a href="http://darcs.net">darcs</a>, or <a href="http://mercurial.selenic.com/">mercurial</a> filestore. Pages and uploaded files can be modified either directly via the VCS’s command-line tools or through the wiki’s web interface. <a href="http://johnmacfarlane.net/pandoc">Pandoc</a> is used for markup processing, so pages may be written in (extended) markdown, reStructuredText, LaTeX, HTML, or literate Haskell, and exported in ten different formats, including LaTeX, ConTeXt, DocBook, RTF, OpenOffice ODT, and MediaWiki markup.</html></blockquote>
+
+[www.farnamstreetblog.com](http://www.farnamstreetblog.com/2014/07/networked-knowledge-and-combinatorial-creativity/):
+
+<blockquote><html><p>“In his influential De Copia (1512),” <a href="http://www.griffith.edu.au/?a=314668" target="_blank">writes professor Richard Yeo</a>, “Erasmus advised that an abundant stock of quotations and maxims from classical texts be entered under various loci (places) to assist free-flowing oratory.”</p>
+<blockquote><p>Arranged under ‘Heads’ and recorded as ‘common-places’ (loci communes), these commonplace books could be consulted for speeches and written compositions designed for various situations — in the law court, at ceremonial occasions, or in the dedication of a book to a patron. Typical headings included the classical topics of honour, virtue, beauty, friendship, and Christian ones such as God, Creation, faith, hope, or the names of the virtues and vices.”</p></blockquote>
+<p>Regurgitation wasn’t the aim but rather combinatorial creativity as people were encouraged to improvise on themes and topics. Gathering raw material alone, in this case information, is not enough. We must transform it into something new.</p></html></blockquote>
+
+[www.griffith.edu.au](http://www.griffith.edu.au/?a=314668)
